@@ -1,11 +1,7 @@
-# Református énekeskönyv
-
-OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tree/master/Songs/Reform%C3%A1tus%20%C3%A9nekesk%C3%B6nyv)
-
 ### 1. Zsoltár
 
-<img src="img/001-A    Aki nem jár hitlenek tanácsán [Original Size]_optimised.jpg">
-<img src="img/001-B    Aki nem jár hitlenek tanácsán [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/001-A    Aki nem jár hitlenek tanácsán [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/001-B    Aki nem jár hitlenek tanácsán [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -47,8 +43,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 2. Zsoltár
 
-<img src="img/002-A     Miért zúgolódnak a pogányok [Original Size]_optimised.jpg">
-<img src="img/002-B     Miért zúgolódnak a pogányok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/002-A     Miért zúgolódnak a pogányok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/002-B     Miért zúgolódnak a pogányok [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -127,8 +123,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 3. Zsoltár
 
-<img src="img/003-A    Ó mely sokan vannak [Original Size]_optimised.jpg">
-<img src="img/003-B    Ó mely sokan vannak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/003-A    Ó mely sokan vannak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/003-B    Ó mely sokan vannak [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -178,8 +174,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 4. Zsoltár
 
-<img src="img/004-A     Én igazságomnak Istene [Original Size]_optimised.jpg">
-<img src="img/004-B     Én igazságomnak Istene [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/004-A     Én igazságomnak Istene [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/004-B     Én igazságomnak Istene [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -237,7 +233,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 5. Zsoltár
 
-<img src="img/005 Úr Isten az én imádságom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/005 Úr Isten az én imádságom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -339,7 +335,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 6. Zsoltár
 
-<img src="img/006 Uram te nagy haragodban [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/006 Uram te nagy haragodban [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -426,8 +422,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 7. Zsoltár
 
-<img src="img/007-A     Ó én Uram és én Istenem [Original Size]_optimised.jpg">
-<img src="img/007-B     Ó én Uram és én Istenem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/007-A     Ó én Uram és én Istenem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/007-B     Ó én Uram és én Istenem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -495,7 +491,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 8. Zsoltár
 
-<img src="img/008 Ó felséges Úr [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/008 Ó felséges Úr [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -564,7 +560,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 9. Zsoltár
 
-<img src="img/009 Dícsérlek téged Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/009 Dícsérlek téged Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -668,8 +664,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 10. Zsoltár
 
-<img src="img/010-A     Mire távozol tőlünk Úr Isten [Original Size]_optimised.jpg">
-<img src="img/010-B     Mire távozol tőlünk Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/010-A     Mire távozol tőlünk Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/010-B     Mire távozol tőlünk Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -755,8 +751,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 11. Zsoltár
 
-<img src="img/011-A       Az Istenben bízom [Original Size]_optimised.jpg">
-<img src="img/011-B       Az Istenben bízom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/011-A       Az Istenben bízom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/011-B       Az Istenben bízom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -782,7 +778,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 12. Zsoltár
 
-<img src="img/012 Szabadíts meg és tarts meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/012 Szabadíts meg és tarts meg [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -844,7 +840,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 13. Zsoltár
 
-<img src="img/013 Míglen felejtesz el Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/013 Míglen felejtesz el Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -890,7 +886,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 14. Zsoltár
 
-<img src="img/014 A bolond így szól... [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/014 A bolond így szól... [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -952,7 +948,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 15. Zsoltár
 
-<img src="img/015 Uram ki lészen lakója [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/015 Uram ki lészen lakója [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -998,8 +994,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 16. Zsoltár
 
-<img src="img/016-A       Tarts meg engemet [Original Size]_optimised.jpg">
-<img src="img/016-B       Tarts meg engemet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/016-A       Tarts meg engemet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/016-B       Tarts meg engemet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1059,8 +1055,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 17. Zsoltár
 
-<img src="img/017-A     Hallgasd meg igazságomat [Original Size]_optimised.jpg">
-<img src="img/017-B     Hallgasd meg igazságomat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/017-A     Hallgasd meg igazságomat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/017-B     Hallgasd meg igazságomat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1117,9 +1113,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 18. Zsoltár
 
-<img src="img/018-A       Ó én Uram [Original Size]_optimised.jpg">
-<img src="img/018-B       Ó én Uram [Original Size]_optimised.jpg">
-<img src="img/018-C       Ó én Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/018-A       Ó én Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/018-B       Ó én Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/018-C       Ó én Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1253,8 +1249,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 19. Zsoltár
 
-<img src="img/019-A    Az egek beszélik [Original Size]_optimised.jpg">
-<img src="img/019-B    Az egek beszélik [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/019-A    Az egek beszélik [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/019-B    Az egek beszélik [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1334,8 +1330,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 20. Zsoltár
 
-<img src="img/020-A     Az Úr tégedet meghallgasson [Original Size]_optimised.jpg">
-<img src="img/020-B     Az Úr tégedet meghallgasson [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/020-A     Az Úr tégedet meghallgasson [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/020-B     Az Úr tégedet meghallgasson [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1392,7 +1388,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 21. Zsoltár
 
-<img src="img/021 Örvendez Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/021 Örvendez Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1488,8 +1484,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 22. Zsoltár
 
-<img src="img/022-A     Én Istenem én erős [Original Size]_optimised.jpg">
-<img src="img/022-B     Én Istenem én erős [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/022-A     Én Istenem én erős [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/022-B     Én Istenem én erős [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1670,9 +1666,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 23. Zsoltár
 
-<img src="img/023 Az Úr énnékem őriző pásztorom [Original Size]_optimised.jpg">
-<img src="img/023-A    Az Úr énnékem őriző pásztorom [Original Size]_optimised.jpg">
-<img src="img/023-B    Az Úr énnékem őriző pásztorom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/023 Az Úr énnékem őriző pásztorom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/023-A    Az Úr énnékem őriző pásztorom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/023-B    Az Úr énnékem őriző pásztorom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1705,8 +1701,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 24. Zsoltár
 
-<img src="img/024      Az Úr bír ez egész földdel [Original Size]_optimised.jpg">
-<img src="img/024-2       Ki mégyen fel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/024      Az Úr bír ez egész földdel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/024-2       Ki mégyen fel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1757,12 +1753,12 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 25. Zsoltár
 
-<img src="img/025-2A       Utaid Uram mutasd meg [Original Size]_optimised.jpg">
-<img src="img/025-2B       Utaid Uram mutasd meg [Original Size]_optimised.jpg">
-<img src="img/025-3A       Emlékezzél jóvoltodból [Original Size]_optimised.jpg">
-<img src="img/025-3B       Emlékezzél jóvoltodból [Original Size]_optimised.jpg">
-<img src="img/025-A       Szívemet hozzád emelem [Original Size]_optimised.jpg">
-<img src="img/025-B       Szívemet hozzád emelem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/025-2A       Utaid Uram mutasd meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/025-2B       Utaid Uram mutasd meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/025-3A       Emlékezzél jóvoltodból [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/025-3B       Emlékezzél jóvoltodból [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/025-A       Szívemet hozzád emelem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/025-B       Szívemet hozzád emelem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1856,7 +1852,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 26. Zsoltár
 
-<img src="img/026 Légy ítélőm Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/026 Légy ítélőm Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -1952,8 +1948,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 27. Zsoltár
 
-<img src="img/027-A     Az Úr Isten az én világosságom [Original Size]_optimised.jpg">
-<img src="img/027-B     Az Úr Isten az én világosságom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/027-A     Az Úr Isten az én világosságom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/027-B     Az Úr Isten az én világosságom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2036,8 +2032,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 28. Zsoltár
 
-<img src="img/028-A     Hozzád kiáltok kegyes Uram [Original Size]_optimised.jpg">
-<img src="img/028-B       Hozzád kiáltok kegyes Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/028-A     Hozzád kiáltok kegyes Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/028-B       Hozzád kiáltok kegyes Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2079,8 +2075,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 29. Zsoltár
 
-<img src="img/029-A     Mostan ti hatalmasak [Original Size]_optimised.jpg">
-<img src="img/029-B     Mostan ti hatalmasak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/029-A     Mostan ti hatalmasak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/029-B     Mostan ti hatalmasak [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2119,8 +2115,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 30. Zsoltár
 
-<img src="img/030-A       Dícsérlek Uram [Original Size]_optimised.jpg">
-<img src="img/030-B       Dícsérlek Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/030-A       Dícsérlek Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/030-B       Dícsérlek Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2162,7 +2158,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 31. Zsoltár
 
-<img src="img/031 Uram én csak tebenned bíztam [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/031 Uram én csak tebenned bíztam [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2276,8 +2272,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 32. Zsoltár
 
-<img src="img/032-A     Ó mely boldog az oly ember [Original Size]_optimised.jpg">
-<img src="img/032-B     Ó mely boldog az oly ember [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/032-A     Ó mely boldog az oly ember [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/032-B     Ó mely boldog az oly ember [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2334,8 +2330,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 33. Zsoltár
 
-<img src="img/033-A       Nosza istenfélő szent hívek [Original Size]_optimised.jpg">
-<img src="img/033-B       Nosza istenfélő szent hívek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/033-A       Nosza istenfélő szent hívek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/033-B       Nosza istenfélő szent hívek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2441,8 +2437,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 34. Zsoltár
 
-<img src="img/034-A       Mindenkoron áldom az Urat [Original Size]_optimised.jpg">
-<img src="img/034-B       Mindenkoron áldom az Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/034-A       Mindenkoron áldom az Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/034-B       Mindenkoron áldom az Urat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2547,8 +2543,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 35. Zsoltár
 
-<img src="img/035-A    Perelj Uram perlőimmel [Original Size]_optimised.jpg">
-<img src="img/035-B    Perelj Uram perlőimmel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/035-A    Perelj Uram perlőimmel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/035-B    Perelj Uram perlőimmel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2609,9 +2605,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 36. Zsoltár
 
-<img src="img/036-A   A gonosztévőknek dolgán [Original Size]_optimised.jpg">
-<img src="img/036-B   A gonosztévőknek dolgán [Original Size]_optimised.jpg">
-<img src="img/036-C   A gonosztévőknek dolgán [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/036-A   A gonosztévőknek dolgán [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/036-B   A gonosztévőknek dolgán [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/036-C   A gonosztévőknek dolgán [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2650,10 +2646,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 37. Zsoltár
 
-<img src="img/037-4A    Bízzál az Úrban [Original Size]_optimised.jpg">
-<img src="img/037-4B    Bízzál az Úrban [Original Size]_optimised.jpg">
-<img src="img/037-A    Ne bosszankodjál a gonosz [Original Size]_optimised.jpg">
-<img src="img/037-B     Ne bosszankodjál a gonosz [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/037-4A    Bízzál az Úrban [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/037-4B    Bízzál az Úrban [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/037-A    Ne bosszankodjál a gonosz [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/037-B     Ne bosszankodjál a gonosz [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2722,7 +2718,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 38. Zsoltár
 
-<img src="img/038 Haragodnak nagy voltában [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/038 Haragodnak nagy voltában [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2818,7 +2814,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 39. Zsoltár
 
-<img src="img/039 Magamban elvégezém [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/039 Magamban elvégezém [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2896,8 +2892,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 40. Zsoltár
 
-<img src="img/040-A     Várván vártam a felséges Urat [Original Size]_optimised.jpg">
-<img src="img/040-B     Várván vártam felséges Ur [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/040-A     Várván vártam a felséges Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/040-B     Várván vártam felséges Ur [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -2980,8 +2976,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 41. Zsoltár
 
-<img src="img/041-A     Boldog aki a nyavalyást [Original Size]_optimised.jpg">
-<img src="img/041-B     Boldog aki a nyavalyást [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/041-A     Boldog aki a nyavalyást [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/041-B     Boldog aki a nyavalyást [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3020,8 +3016,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 42. Zsoltár
 
-<img src="img/042-A    Mint a szép híves patakra [Original Size]_optimised.jpg">
-<img src="img/042-B    Mint a szép híves patakra [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/042-A    Mint a szép híves patakra [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/042-B    Mint a szép híves patakra [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3104,7 +3100,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 43. Zsoltár
 
-<img src="img/043 Ítélj meg engemet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/043 Ítélj meg engemet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3155,8 +3151,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 44. Zsoltár
 
-<img src="img/044-A     Hallottuk Isten füleinkkel [Original Size]_optimised.jpg">
-<img src="img/044-B     Hallottuk Isten füleinkkel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/044-A     Hallottuk Isten füleinkkel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/044-B     Hallottuk Isten füleinkkel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3294,8 +3290,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 45. Zsoltár
 
-<img src="img/045-A      Egy szép dolgot hoz elő [Original Size]_optimised.jpg">
-<img src="img/045-B     Egy szép dolgot hoz elő [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/045-A      Egy szép dolgot hoz elő [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/045-B     Egy szép dolgot hoz elő [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3345,8 +3341,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 46. Zsoltár
 
-<img src="img/046-A      Az Isten a mi reménységünk [Original Size]_optimised.jpg">
-<img src="img/046-B      Az Isten a mi reménységünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/046-A      Az Isten a mi reménységünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/046-B      Az Isten a mi reménységünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3414,8 +3410,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 47. Zsoltár
 
-<img src="img/047-A  No minden népek [Original Size]_optimised.jpg">
-<img src="img/047-B     No minden népek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/047-A  No minden népek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/047-B     No minden népek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3463,8 +3459,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 48. Zsoltár
 
-<img src="img/048-A     Nagy az Úr méltóságában [Original Size]_optimised.jpg">
-<img src="img/048-B      Nagy az Úr méltóságában [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/048-A     Nagy az Úr méltóságában [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/048-B      Nagy az Úr méltóságában [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3542,8 +3538,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 49. Zsoltár
 
-<img src="img/049-A     Hallgassátok meg [Original Size]_optimised.jpg">
-<img src="img/049-B     Hallgassátok meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/049-A     Hallgassátok meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/049-B     Hallgassátok meg [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3605,8 +3601,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 50. Zsoltár
 
-<img src="img/050-A      Az erős Isten [Original Size]_optimised.jpg">
-<img src="img/050-B     Az erős Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/050-A      Az erős Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/050-B     Az erős Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3675,8 +3671,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 51. Zsoltár
 
-<img src="img/051-A    Úr Isten kérlek [Original Size]_optimised.jpg">
-<img src="img/051-B    Úr Isten kérlek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/051-A    Úr Isten kérlek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/051-B    Úr Isten kérlek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3770,7 +3766,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 52. Zsoltár
 
-<img src="img/052 Mit dicsekedel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/052 Mit dicsekedel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3794,7 +3790,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 53. Zsoltár
 
-<img src="img/053 A bolond így szól [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/053 A bolond így szól [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3832,8 +3828,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 54. Zsoltár
 
-<img src="img/054-A     Tarts meg Uram [Original Size]_optimised.jpg">
-<img src="img/054-B     Tarts meg Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/054-A     Tarts meg Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/054-B     Tarts meg Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3879,7 +3875,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 55. Zsoltár
 
-<img src="img/055 Hallgasd meg az én [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/055 Hallgasd meg az én [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3921,8 +3917,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 56. Zsoltár
 
-<img src="img/056-A     Kegyelmezz meg nekem [Original Size]_optimised.jpg">
-<img src="img/056-B     Kegyelmezz meg nekem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/056-A     Kegyelmezz meg nekem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/056-B     Kegyelmezz meg nekem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -3994,7 +3990,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 57. Zsoltár
 
-<img src="img/057 Irgalmazz Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/057 Irgalmazz Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4032,7 +4028,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 58. Zsoltár
 
-<img src="img/058 Ti tanácsban űlő személyek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/058 Ti tanácsban űlő személyek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4065,8 +4061,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 59. Zsoltár
 
-<img src="img/059-A     Szabadíts meg engem [Original Size]_optimised.jpg">
-<img src="img/059-B     Szabadíts meg engem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/059-A     Szabadíts meg engem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/059-B     Szabadíts meg engem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4116,8 +4112,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 60. Zsoltár
 
-<img src="img/060-A     Minket Úr Isten elhagyál [Original Size]_optimised.jpg">
-<img src="img/060-B     Minket Úr Isten elhagyál [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/060-A     Minket Úr Isten elhagyál [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/060-B     Minket Úr Isten elhagyál [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4156,7 +4152,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 61. Zsoltár
 
-<img src="img/061 Kiáltásom halld meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/061 Kiáltásom halld meg [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4197,7 +4193,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 62. Zsoltár
 
-<img src="img/062 Az én lelkem szép csendesen [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/062 Az én lelkem szép csendesen [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4248,8 +4244,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 63. Zsoltár
 
-<img src="img/063-A     Isten te vagy én Istenem [Original Size]_optimised.jpg">
-<img src="img/063-B     Isten te vagy én Istenem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/063-A     Isten te vagy én Istenem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/063-B     Isten te vagy én Istenem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4299,7 +4295,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 64. Zsoltár
 
-<img src="img/064 Hallgasd meg Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/064 Hallgasd meg Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4353,8 +4349,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 65. Zsoltár
 
-<img src="img/065-A      A Sionnak hegyén Úr Isten [Original Size]_optimised.jpg">
-<img src="img/065-B      A Sionnak hegyén Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/065-A      A Sionnak hegyén Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/065-B      A Sionnak hegyén Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4459,8 +4455,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 66. Zsoltár
 
-<img src="img/066-A     Örvendj egész föld [Original Size]_optimised.jpg">
-<img src="img/066-B     Örvendj egész föld [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/066-A     Örvendj egész föld [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/066-B     Örvendj egész föld [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4550,8 +4546,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 67. Zsoltár
 
-<img src="img/067-A     Úr Isten áldj meg [Original Size]_optimised.jpg">
-<img src="img/067-B     Úr Isten áldj meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/067-A     Úr Isten áldj meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/067-B     Úr Isten áldj meg [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4590,8 +4586,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 68. Zsoltár
 
-<img src="img/068-A      Hogyha felindul az Isten [Original Size]_optimised.jpg">
-<img src="img/068-B      Hogyha felindul az Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/068-A      Hogyha felindul az Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/068-B      Hogyha felindul az Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4661,8 +4657,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 69. Zsoltár
 
-<img src="img/069-A     Úr Isten segíts és [Original Size]_optimised.jpg">
-<img src="img/069-B     Úr Isten segíts és [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/069-A     Úr Isten segíts és [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/069-B     Úr Isten segíts és [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4745,8 +4741,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 70. Zsoltár
 
-<img src="img/070-A     Siess ments meg [Original Size]_optimised.jpg">
-<img src="img/070-B     Siess ments meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/070-A     Siess ments meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/070-B     Siess ments meg [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4774,7 +4770,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 71. Zsoltár
 
-<img src="img/071 Tebenned bízom én [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/071 Tebenned bízom én [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4906,7 +4902,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 72. Zsoltár
 
-<img src="img/072 Uram a te ítéletedet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/072 Uram a te ítéletedet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -4950,8 +4946,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 73. Zsoltár
 
-<img src="img/073-A    Bizonyára jó az Isten [Original Size]_optimised.jpg">
-<img src="img/073-B    Bizonyára jó az Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/073-A    Bizonyára jó az Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/073-B    Bizonyára jó az Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5067,7 +5063,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 74. Zsoltár
 
-<img src="img/074  Miért vetsz minket így el [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/074  Miért vetsz minket így el [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5199,7 +5195,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 75. Zsoltár
 
-<img src="img/075 Dícsérünk téged [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/075 Dícsérünk téged [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5259,7 +5255,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 76. Zsoltár
 
-<img src="img/076 Ismeretes az Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/076 Ismeretes az Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5329,10 +5325,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 77. Zsoltár
 
-<img src="img/077-8A    Ó erős és kegyes Isten [Original Size]_optimised.jpg">
-<img src="img/077-8B   Ó erős és kegyes Isten [Original Size]_optimised.jpg">
-<img src="img/077-A     Az Istenhez az én [Original Size]_optimised.jpg">
-<img src="img/077-B     Az Istenhez az én [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/077-8A    Ó erős és kegyes Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/077-8B   Ó erős és kegyes Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/077-A     Az Istenhez az én [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/077-B     Az Istenhez az én [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5448,8 +5444,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 78. Zsoltár
 
-<img src="img/078-A     Hallgass én népem [Original Size]_optimised.jpg">
-<img src="img/078-B     Hallgass én népem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/078-A     Hallgass én népem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/078-B     Hallgass én népem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5491,8 +5487,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 79. Zsoltár
 
-<img src="img/079-A     Öröködbe Uram [Original Size]_optimised.jpg">
-<img src="img/079-B     Öröködbe Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/079-A     Öröködbe Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/079-B     Öröködbe Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5571,7 +5567,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 80. Zsoltár
 
-<img src="img/080 Hallgasd meg Izráel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/080 Hallgasd meg Izráel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5667,7 +5663,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 81. Zsoltár
 
-<img src="img/081 Örvendezzetek az erős Istennek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/081 Örvendezzetek az erős Istennek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5751,8 +5747,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 82. Zsoltár
 
-<img src="img/082-A       Az Isten áll ő seregében [Original Size]_optimised.jpg">
-<img src="img/082-B       Az Isten áll ő seregében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/082-A       Az Isten áll ő seregében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/082-B       Az Isten áll ő seregében [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5802,7 +5798,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 83. Zsoltár
 
-<img src="img/083 Uram ne hallgass ilyen [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/083 Uram ne hallgass ilyen [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5853,8 +5849,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 84. Zsoltár
 
-<img src="img/084-A      Ó seregeknek Istene [Original Size]_optimised.jpg">
-<img src="img/084-B      Ó seregeknek Istene [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/084-A      Ó seregeknek Istene [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/084-B      Ó seregeknek Istene [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5926,8 +5922,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 85. Zsoltár
 
-<img src="img/085-A      Nagy kegyesen től [Original Size]_optimised.jpg">
-<img src="img/085-B      Nagy kegyesen től [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/085-A      Nagy kegyesen től [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/085-B      Nagy kegyesen től [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -5977,12 +5973,12 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 86. Zsoltár
 
-<img src="img/086-4-A    Nagy szükségemben óhajtok [Original Size]_optimised.jpg">
-<img src="img/086-4-B    Nagy szükségemben óhajtok [Original Size]_optimised.jpg">
-<img src="img/086-6-A    Vezess Uram [Original Size]_optimised.jpg">
-<img src="img/086-6-B    Vezess Uram [Original Size]_optimised.jpg">
-<img src="img/086-A       Hajtsd hozzám Uram [Original Size]_optimised.jpg">
-<img src="img/086-B       Hajtsd hozzám Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/086-4-A    Nagy szükségemben óhajtok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/086-4-B    Nagy szükségemben óhajtok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/086-6-A    Vezess Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/086-6-B    Vezess Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/086-A       Hajtsd hozzám Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/086-B       Hajtsd hozzám Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6076,7 +6072,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 87. Zsoltár
 
-<img src="img/087 Az Úr Isten az ő lakó [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/087 Az Úr Isten az ő lakó [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6096,8 +6092,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 88. Zsoltár
 
-<img src="img/088-A       Úr Isten én idvességem [Original Size]_optimised.jpg">
-<img src="img/088-B       Úr Isten én idvességem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/088-A       Úr Isten én idvességem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/088-B       Úr Isten én idvességem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6166,8 +6162,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 89. Zsoltár
 
-<img src="img/089-A       Az Úrnak irgalmát [Original Size]_optimised.jpg">
-<img src="img/089-B       Az Úrnak irgalmát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/089-A       Az Úrnak irgalmát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/089-B       Az Úrnak irgalmát [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6228,10 +6224,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 90. Zsoltár
 
-<img src="img/090-9A  Szolgáidon láttassad [Original Size]_optimised.jpg">
-<img src="img/090-9B  Szolgáidon láttassad [Original Size]_optimised.jpg">
-<img src="img/090-A     Tebenned bíztunk eleitől fogva [Original Size]_optimised.jpg">
-<img src="img/090-B     Tebenned bíztunk eleitől fogva [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/090-9A  Szolgáidon láttassad [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/090-9B  Szolgáidon láttassad [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/090-A     Tebenned bíztunk eleitől fogva [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/090-B     Tebenned bíztunk eleitől fogva [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6318,8 +6314,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 91. Zsoltár
 
-<img src="img/091-A  Aki a felséges Úrnak [Original Size]_optimised.jpg">
-<img src="img/091-B  Aki a felséges Úrnak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/091-A  Aki a felséges Úrnak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/091-B  Aki a felséges Úrnak [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6402,8 +6398,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 92. Zsoltár
 
-<img src="img/092 Ékes dolog dícsérni [Original Size]_optimised.jpg">
-<img src="img/092-7   Virágoznak a hívek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/092 Ékes dolog dícsérni [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/092-7   Virágoznak a hívek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6475,7 +6471,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 93. Zsoltár
 
-<img src="img/093 Nagy hatalmával regnál [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/093 Nagy hatalmával regnál [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6509,7 +6505,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 94. Zsoltár
 
-<img src="img/094 Ó erős bosszúálló Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/094 Ó erős bosszúálló Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6623,7 +6619,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 95. Zsoltár
 
-<img src="img/095 Jertek örvendjünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/095 Jertek örvendjünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6665,10 +6661,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 96. Zsoltár
 
-<img src="img/096 Énekeljetek minden népek [Original Size]_optimised.jpg">
-<img src="img/096-5 Az Úrnak dícsőség adassék [Original Size]_optimised.jpg">
-<img src="img/096-7 Ne rejtsétek... [Original Size]_optimised.jpg">
-<img src="img/096-9  Eljő az Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/096 Énekeljetek minden népek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/096-5 Az Úrnak dícsőség adassék [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/096-7 Ne rejtsétek... [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/096-9  Eljő az Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6746,8 +6742,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 97. Zsoltár
 
-<img src="img/097 Az Úr Isten regnál [Original Size]_optimised.jpg">
-<img src="img/097-7 Szentihez világát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/097 Az Úr Isten regnál [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/097-7 Szentihez világát [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6819,8 +6815,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 98. Zsoltár
 
-<img src="img/098-A       Énekeljetek új éneket [Original Size]_optimised.jpg">
-<img src="img/098-B       Énekeljetek új éneket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/098-A       Énekeljetek új éneket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/098-B       Énekeljetek új éneket [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6870,7 +6866,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 99. Zsoltár
 
-<img src="img/099  Az Úr országol [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/099  Az Úr országol [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6932,7 +6928,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 100. Zsoltár
 
-<img src="img/100 E földön ti minden népek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/100 E földön ti minden népek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -6966,7 +6962,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 101. Zsoltár
 
-<img src="img/101 Mindennek előtte [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/101 Mindennek előtte [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -7029,8 +7025,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 102. Zsoltár
 
-<img src="img/102-A       Hallgasd meg Uram kérésem [Original Size]_optimised.jpg">
-<img src="img/102-B      Hallgasd meg Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/102-A       Hallgasd meg Uram kérésem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/102-B      Hallgasd meg Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -7212,8 +7208,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 103. Zsoltár
 
-<img src="img/103-A     Áldjad lelkem Uradat [Original Size]_optimised.jpg">
-<img src="img/103-B     Áldjad lelkem Uradat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/103-A     Áldjad lelkem Uradat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/103-B     Áldjad lelkem Uradat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -7318,8 +7314,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 104. Zsoltár
 
-<img src="img/104-A     Áldjad lelkem az Urat [Original Size]_optimised.jpg">
-<img src="img/104-B     Áldjad lelkem az Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/104-A     Áldjad lelkem az Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/104-B     Áldjad lelkem az Urat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -7479,8 +7475,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 105. Zsoltár
 
-<img src="img/105 Adjatok hálát az Istennek [Original Size]_optimised.jpg">
-<img src="img/105-2  Néki vígan énekeljetek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/105 Adjatok hálát az Istennek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/105-2  Néki vígan énekeljetek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -7531,7 +7527,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 106. Zsoltár
 
-<img src="img/106 Az Urat áldjátok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/106 Az Urat áldjátok [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -7573,7 +7569,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 107. Zsoltár
 
-<img src="img/107 Dicsérjétek az Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/107 Dicsérjétek az Urat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -7817,8 +7813,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 108. Zsoltár
 
-<img src="img/108-A       Úr Isten kész az én szívem [Original Size]_optimised.jpg">
-<img src="img/108-B       Úr Isten kész az én szívem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/108-A       Úr Isten kész az én szívem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/108-B       Úr Isten kész az én szívem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -7857,8 +7853,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 109. Zsoltár
 
-<img src="img/109-A      Ó Úr Isten én dicsőségem [Original Size]_optimised.jpg">
-<img src="img/109-B      Ó Úr Isten én dicsőségem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/109-A      Ó Úr Isten én dicsőségem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/109-B      Ó Úr Isten én dicsőségem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -7909,7 +7905,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 110. Zsoltár
 
-<img src="img/110 Az Úr Isten monda [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/110 Az Úr Isten monda [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -7964,7 +7960,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 111. Zsoltár
 
-<img src="img/111 Hálát adok Uram néked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/111 Hálát adok Uram néked [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -8024,7 +8020,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 112. Zsoltár
 
-<img src="img/112 Boldog az ember ki az Istent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/112 Boldog az ember ki az Istent [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -8048,7 +8044,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 113. Zsoltár
 
-<img src="img/113 Az Urat ti ő szolgái [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/113 Az Urat ti ő szolgái [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -8099,7 +8095,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 114. Zsoltár
 
-<img src="img/114 Hogy Izráel kijött Egyiptomból [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/114 Hogy Izráel kijött Egyiptomból [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -8141,9 +8137,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 115. Zsoltár
 
-<img src="img/115 Nem nekünk Uram [Original Size]_optimised.jpg">
-<img src="img/115-2   De Istenünk ő [Original Size]_optimised.jpg">
-<img src="img/115-3   Szájuk vagyon [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/115 Nem nekünk Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/115-2   De Istenünk ő [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/115-3   Szájuk vagyon [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -8213,7 +8209,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 116. Zsoltár
 
-<img src="img/116 Szeretem és áldom az Úr Istent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/116 Szeretem és áldom az Úr Istent [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -8296,7 +8292,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 117. Zsoltár
 
-<img src="img/117 Az Urat minden nemzetek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/117 Az Urat minden nemzetek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -8311,10 +8307,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 118. Zsoltár
 
-<img src="img/118-13-A   Áldott aki az Úr nevében [Original Size]_optimised.jpg">
-<img src="img/118-13-B   Áldott aki az Úr nevében [Original Size]_optimised.jpg">
-<img src="img/118-A      Adjatok hálákat [Original Size]_optimised.jpg">
-<img src="img/118-B      Adjatok hálákat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/118-13-A   Áldott aki az Úr nevében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/118-13-B   Áldott aki az Úr nevében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/118-A      Adjatok hálákat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/118-B      Adjatok hálákat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -8463,8 +8459,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 119. Zsoltár
 
-<img src="img/119-A   Az oly emberek [Original Size]_optimised.jpg">
-<img src="img/119-B   Az oly emberek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/119-A   Az oly emberek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/119-B   Az oly emberek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9262,8 +9258,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 120. Zsoltár
 
-<img src="img/120-A       Én az Úr Istenhez kiálték [Original Size]_optimised.jpg">
-<img src="img/120-B      Én az Úr Istenhez kiálték [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/120-A       Én az Úr Istenhez kiálték [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/120-B      Én az Úr Istenhez kiálték [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9280,7 +9276,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 121. Zsoltár
 
-<img src="img/121 Szemem a hegyekre vetem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/121 Szemem a hegyekre vetem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9322,8 +9318,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 122. Zsoltár
 
-<img src="img/122-A       Örülök az én szívembe [Original Size]_optimised.jpg">
-<img src="img/122-B       Örülök az én szívembe [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/122-A       Örülök az én szívembe [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/122-B       Örülök az én szívembe [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9355,8 +9351,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 123. Zsoltár
 
-<img src="img/123-A       Tehozzád szemeimet [Original Size]_optimised.jpg">
-<img src="img/123-B       Tehozzád szemeimet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/123-A       Tehozzád szemeimet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/123-B       Tehozzád szemeimet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9384,7 +9380,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 124. Zsoltár
 
-<img src="img/124 Az Izráel ezt nyilván mondhatja [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/124 Az Izráel ezt nyilván mondhatja [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9422,7 +9418,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 125. Zsoltár
 
-<img src="img/125 Akik bíznak az Úr Istenben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/125 Akik bíznak az Úr Istenben [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9464,8 +9460,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 126. Zsoltár
 
-<img src="img/126-A      Mikor a Siont az Isten [Original Size]_optimised.jpg">
-<img src="img/126-B      Mikor a Siont az Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/126-A      Mikor a Siont az Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/126-B      Mikor a Siont az Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9504,7 +9500,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 127. Zsoltár
 
-<img src="img/127 Hogyha ember házat épít [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/127 Hogyha ember házat épít [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9555,7 +9551,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 128. Zsoltár
 
-<img src="img/128 Boldog az ember nyilván [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/128 Boldog az ember nyilván [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9594,7 +9590,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 129. Zsoltár
 
-<img src="img/129 Én ifjúságomtól fogva [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/129 Én ifjúságomtól fogva [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9642,8 +9638,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 130. Zsoltár
 
-<img src="img/130 Tehozzád teljes szívből [Original Size]_optimised.jpg">
-<img src="img/130-3   Énnékem reménységem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/130 Tehozzád teljes szívből [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/130-3   Énnékem reménységem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9693,7 +9689,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 131. Zsoltár
 
-<img src="img/131 Uram nem űz nagyra szívem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/131 Uram nem űz nagyra szívem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9727,7 +9723,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 132. Zsoltár
 
-<img src="img/132 Emlékezzél meg Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/132 Emlékezzél meg Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9805,9 +9801,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 133. Zsoltár
 
-<img src="img/133 Ímé mily jó és mily nagy [Original Size]_optimised.jpg">
-<img src="img/133-A     Ímé mily jó és mily nagy [Original Size]_optimised.jpg">
-<img src="img/133-B     Ímé mily jó és mily nagy [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/133 Ímé mily jó és mily nagy [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/133-A     Ímé mily jó és mily nagy [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/133-B     Ímé mily jó és mily nagy [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9822,8 +9818,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 134. Zsoltár
 
-<img src="img/134 Úrnak szolgái mindnyájan [Original Size]_optimised.jpg">
-<img src="img/134-3  Megáldjon téged az Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/134 Úrnak szolgái mindnyájan [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/134-3  Megáldjon téged az Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9850,11 +9846,11 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 135. Zsoltár
 
-<img src="img/135 Áldjátok az Úr nevét [Original Size]_optimised.jpg">
-<img src="img/135-10  Nem hallanak fülükkel [Original Size]_optimised.jpg">
-<img src="img/135-12  Kik az Urat [Original Size]_optimised.jpg">
-<img src="img/135-8  Megáll örökké neve [Original Size]_optimised.jpg">
-<img src="img/135-9  A pogányok bálványi [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/135 Áldjátok az Úr nevét [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/135-10  Nem hallanak fülükkel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/135-12  Kik az Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/135-8  Megáll örökké neve [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/135-9  A pogányok bálványi [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -9932,7 +9928,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 136. Zsoltár
 
-<img src="img/136 Dicsérjétek az Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/136 Dicsérjétek az Urat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10043,8 +10039,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 137. Zsoltár
 
-<img src="img/137-A       Hogy a babiloni vizeknél [Original Size]_optimised.jpg">
-<img src="img/137-B       Hogy a babiloni vizeknél [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/137-A       Hogy a babiloni vizeknél [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/137-B       Hogy a babiloni vizeknél [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10095,10 +10091,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 138. Zsoltár
 
-<img src="img/138-2-A      Öregbül nagy dicsőséged [Original Size]_optimised.jpg">
-<img src="img/138-2-B      Öregbül nagy dicsőséged [Original Size]_optimised.jpg">
-<img src="img/138-A  Dícsér téged teljes szívem [Original Size]_optimised.jpg">
-<img src="img/138-B Dícsér téged teljes szívem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/138-2-A      Öregbül nagy dicsőséged [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/138-2-B      Öregbül nagy dicsőséged [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/138-A  Dícsér téged teljes szívem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/138-B Dícsér téged teljes szívem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10148,8 +10144,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 139. Zsoltár
 
-<img src="img/139-A   Uram te megvizsgálsz [Original Size]_optimised.jpg">
-<img src="img/139-B   Uram te megvizsgálsz engem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/139-A   Uram te megvizsgálsz [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/139-B   Uram te megvizsgálsz engem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10236,7 +10232,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 140. Zsoltár
 
-<img src="img/140 Szabadíts meg engem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/140 Szabadíts meg engem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10312,7 +10308,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 141. Zsoltár
 
-<img src="img/141 Tehozzád kiáltok Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/141 Tehozzád kiáltok Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10367,13 +10363,13 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 142. Zsoltár
 
-<img src="img/142 Én az Úrhoz felkiálték [Original Size]_optimised.jpg">
-<img src="img/142-2   Ha szorongattatik [Original Size]_optimised.jpg">
-<img src="img/142-3   Utamra tőrt mernek [Original Size]_optimised.jpg">
-<img src="img/142-4   Bezárattak utak [Original Size]_optimised.jpg">
-<img src="img/142-5  Tehozzád kiálték [Original Size]_optimised.jpg">
-<img src="img/142-6   Halld meg az én [Original Size]_optimised.jpg">
-<img src="img/142-7   Vedd ki fogságból [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/142 Én az Úrhoz felkiálték [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/142-2   Ha szorongattatik [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/142-3   Utamra tőrt mernek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/142-4   Bezárattak utak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/142-5  Tehozzád kiálték [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/142-6   Halld meg az én [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/142-7   Vedd ki fogságból [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10428,8 +10424,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 143. Zsoltár
 
-<img src="img/143 Hallgasd meg Uram [Original Size]_optimised.jpg">
-<img src="img/143-10    Taníts meg engemet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/143 Hallgasd meg Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/143-10    Taníts meg engemet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10523,8 +10519,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 144. Zsoltár
 
-<img src="img/144-A       Áldott az Úr [Original Size]_optimised.jpg">
-<img src="img/144-B      Áldott az Úr [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/144-A       Áldott az Úr [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/144-B      Áldott az Úr [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10603,8 +10599,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 145. Zsoltár
 
-<img src="img/145-A       Magasztallak téged [Original Size]_optimised.jpg">
-<img src="img/145-B       Magasztallak téged [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/145-A       Magasztallak téged [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/145-B       Magasztallak téged [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10683,7 +10679,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 146. Zsoltár
 
-<img src="img/146 Áldjad én lelkem az Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/146 Áldjad én lelkem az Urat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10761,8 +10757,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 147. Zsoltár
 
-<img src="img/147-A       Az Urat dicsérjétek [Original Size]_optimised.jpg">
-<img src="img/147-B       Az Urat dicsérjétek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/147-A       Az Urat dicsérjétek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/147-B       Az Urat dicsérjétek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10823,8 +10819,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 148. Zsoltár
 
-<img src="img/148-A       No dicsérjétek mindnyájan [Original Size]_optimised.jpg">
-<img src="img/148-B       No dicsérjétek mindnyájan [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/148-A       No dicsérjétek mindnyájan [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/148-B       No dicsérjétek mindnyájan [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10863,8 +10859,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 149. Zsoltár
 
-<img src="img/149-A       Az Úrnak no énekeljetek [Original Size]_optimised.jpg">
-<img src="img/149-B       Az Úrnak no énekeljetek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/149-A       Az Úrnak no énekeljetek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/149-B       Az Úrnak no énekeljetek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10903,8 +10899,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 150. Zsoltár
 
-<img src="img/150-A       Dícsérjétek az Urat [Original Size]_optimised.jpg">
-<img src="img/150-B       Dícsérjétek az Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/150-A       Dícsérjétek az Urat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/150-B       Dícsérjétek az Urat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10943,7 +10939,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 151. Dicséret
 
-<img src="img/151 Uram Isten siess [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/151 Uram Isten siess [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10958,9 +10954,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 152. Dicséret
 
-<img src="img/152-A    Szent Isten noha néked [Original Size]_optimised.jpg">
-<img src="img/152-B    Szent Isten noha néked [Original Size]_optimised.jpg">
-<img src="img/152-C    Szent Isten noha néked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/152-A    Szent Isten noha néked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/152-B    Szent Isten noha néked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/152-C    Szent Isten noha néked [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10977,9 +10973,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 153. Dicséret
 
-<img src="img/153-A       Ó mely boldog ember [Original Size]_optimised.jpg">
-<img src="img/153-B      Ó mely boldog ember [Original Size]_optimised.jpg">
-<img src="img/153-C       Ó mely boldog ember [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/153-A       Ó mely boldog ember [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/153-B      Ó mely boldog ember [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/153-C       Ó mely boldog ember [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -10997,8 +10993,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 154. Dicséret
 
-<img src="img/154-A   Úr Jézus mely igen drága [Original Size]_optimised.jpg">
-<img src="img/154-B    Úr Jézus mely igen drága [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/154-A   Úr Jézus mely igen drága [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/154-B    Úr Jézus mely igen drága [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11016,8 +11012,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 155. Dicséret
 
-<img src="img/155-A       Ó Úr Isten [Original Size]_optimised.jpg">
-<img src="img/155-B       Ó Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/155-A       Ó Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/155-B       Ó Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11034,8 +11030,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 156. Dicséret
 
-<img src="img/156-A       Úr Isten mi sok [Original Size]_optimised.jpg">
-<img src="img/156-B       Úr Isten mi sok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/156-A       Úr Isten mi sok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/156-B       Úr Isten mi sok [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11052,7 +11048,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 157. Dicséret
 
-<img src="img/157 Könyörülj rajtunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/157 Könyörülj rajtunk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11063,7 +11059,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 158. Dicséret
 
-<img src="img/158 Ha te meg nem tartasz [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/158 Ha te meg nem tartasz [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11074,7 +11070,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 159. Dicséret
 
-<img src="img/159 Atya Fiú Szentlélek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/159 Atya Fiú Szentlélek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11091,7 +11087,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 160. Dicséret
 
-<img src="img/160 Minden teremtett állatok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/160 Minden teremtett állatok [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11104,7 +11100,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 161. Dicséret
 
-<img src="img/161 Siess keresztyén lelki jót [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/161 Siess keresztyén lelki jót [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11152,9 +11148,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 162. Dicséret
 
-<img src="img/162 Ím béjöttünk nagy örömben [Original Size]_optimised.jpg">
-<img src="img/162-2       Itt megállunk te előtted [Original Size]_optimised.jpg">
-<img src="img/162-7        Prédikáltasd szent igédet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/162 Ím béjöttünk nagy örömben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/162-2       Itt megállunk te előtted [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/162-7        Prédikáltasd szent igédet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11232,7 +11228,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 163. Dicséret
 
-<img src="img/163 Örvend mi szívünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/163 Örvend mi szívünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11278,12 +11274,12 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 164. Dicséret
 
-<img src="img/164-2-A   Elménket értelmünket [Original Size]_optimised.jpg">
-<img src="img/164-2-B   Elménket értelmünket [Original Size]_optimised.jpg">
-<img src="img/164-3-A   Dicsőségnek napfénye [Original Size]_optimised.jpg">
-<img src="img/164-3-B   Dicsőségnek napfénye [Original Size]_optimised.jpg">
-<img src="img/164-A   Kegyes Jézus itt vagyunk [Original Size]_optimised.jpg">
-<img src="img/164-B   Kegyes Jézus itt vagyunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/164-2-A   Elménket értelmünket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/164-2-B   Elménket értelmünket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/164-3-A   Dicsőségnek napfénye [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/164-3-B   Dicsőségnek napfénye [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/164-A   Kegyes Jézus itt vagyunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/164-B   Kegyes Jézus itt vagyunk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11316,10 +11312,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 165. Dicséret
 
-<img src="img/165-6A    Egyszerűvé formálj [Original Size]_optimised.jpg">
-<img src="img/165-6B    Egyszerűvé formálj [Original Size]_optimised.jpg">
-<img src="img/165-A   Itt van Isten köztünk [Original Size]_optimised.jpg">
-<img src="img/165-B    Itt van Isten köztünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/165-6A    Egyszerűvé formálj [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/165-6B    Egyszerűvé formálj [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/165-A   Itt van Isten köztünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/165-B    Itt van Isten köztünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11379,7 +11375,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 166. Dicséret
 
-<img src="img/166 Urunk Jézus fordulj hozzánk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/166 Urunk Jézus fordulj hozzánk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11413,10 +11409,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 167. Dicséret
 
-<img src="img/167-3-A   Az Atyát és Fiút [Original Size]_optimised.jpg">
-<img src="img/167-3-B   Az Atyát és Fiút [Original Size]_optimised.jpg">
-<img src="img/167-A   Jöjj mondjunk hálaszót [Original Size]_optimised.jpg">
-<img src="img/167-B   Jöjj mondjunk hálaszót [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/167-3-A   Az Atyát és Fiút [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/167-3-B   Az Atyát és Fiút [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/167-A   Jöjj mondjunk hálaszót [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/167-B   Jöjj mondjunk hálaszót [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11455,8 +11451,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 168. Dicséret
 
-<img src="img/168 Ó Atya Istenirgalmas nagy Úr [Original Size]_optimised.jpg">
-<img src="img/168-3       Nagy jóságodra méltók [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/168 Ó Atya Istenirgalmas nagy Úr [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/168-3       Nagy jóságodra méltók [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11490,7 +11486,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 169. Dicséret
 
-<img src="img/169 Úr Isten téged Szívünkből [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/169 Úr Isten téged Szívünkből [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11505,7 +11501,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 170. Dicséret
 
-<img src="img/170 Jövel ó áldott Szentlélek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/170 Jövel ó áldott Szentlélek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11520,7 +11516,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 171. Dicséret
 
-<img src="img/171 Megáll az Istennek igéje [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/171 Megáll az Istennek igéje [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11533,8 +11529,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 172. Dicséret
 
-<img src="img/172-A   Szűköldködünk nagy mértékben [Original Size]_optimised.jpg">
-<img src="img/172-B   Szűköldködünk nagy mértékben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/172-A   Szűköldködünk nagy mértékben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/172-B   Szűköldködünk nagy mértékben [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11550,8 +11546,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 173. Dicséret
 
-<img src="img/173-A   Nem vagyunk mi magunkéi [Original Size]_optimised.jpg">
-<img src="img/173-B   Nem vagyunk mi magunkéi [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/173-A   Nem vagyunk mi magunkéi [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/173-B   Nem vagyunk mi magunkéi [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11568,7 +11564,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 174. Dicséret
 
-<img src="img/174 Atya Fiú Szentlélek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/174 Atya Fiú Szentlélek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11581,8 +11577,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 175. Dicséret
 
-<img src="img/175-A       Gyűjtsünk oly kincset [Original Size]_optimised.jpg">
-<img src="img/175-B       Gyűjtsünk oly kincset [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/175-A       Gyűjtsünk oly kincset [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/175-B       Gyűjtsünk oly kincset [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11599,7 +11595,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 176. Dicséret
 
-<img src="img/176 Szent szent szent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/176 Szent szent szent [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11611,7 +11607,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 177. Dicséret
 
-<img src="img/177 Urunk irgalmazz [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/177 Urunk irgalmazz [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11623,7 +11619,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 178. Dicséret
 
-<img src="img/178 Dicsőség az Atyának [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/178 Dicsőség az Atyának [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11637,7 +11633,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 179. Dicséret
 
-<img src="img/179 A bűnből hozzád sietek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/179 A bűnből hozzád sietek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11650,7 +11646,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 180. Dicséret
 
-<img src="img/180 A töredelmes szívet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/180 A töredelmes szívet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11667,7 +11663,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 181. Dicséret
 
-<img src="img/181 Jer áldott vendég [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/181 Jer áldott vendég [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11682,8 +11678,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 182. Dicséret
 
-<img src="img/182-A       Karácsony ünnepében [Original Size]_optimised.jpg">
-<img src="img/182-B       Karácsony ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/182-A       Karácsony ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/182-B       Karácsony ünnepében [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11703,7 +11699,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 183. Dicséret
 
-<img src="img/183 Istennek Báránya [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/183 Istennek Báránya [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11722,8 +11718,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 184. Dicséret
 
-<img src="img/184-A       Krisztus ártatlan Bárány [Original Size]_optimised.jpg">
-<img src="img/184-B       Krisztus ártatlan Bárány [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/184-A       Krisztus ártatlan Bárány [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/184-B       Krisztus ártatlan Bárány [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11739,9 +11735,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 185. Dicséret
 
-<img src="img/185-A       Krisztus feltámadott [Original Size]_optimised.jpg">
-<img src="img/185-B       Krisztus feltámadott [Original Size]_optimised.jpg">
-<img src="img/185-C       Krisztus feltámadott [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/185-A       Krisztus feltámadott [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/185-B       Krisztus feltámadott [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/185-C       Krisztus feltámadott [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11761,10 +11757,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 186. Dicséret
 
-<img src="img/186 E húsvét ünnepében [Original Size]_optimised.jpg">
-<img src="img/186-A       E húsvét ünnepében [Original Size]_optimised.jpg">
-<img src="img/186-B       E húsvét ünnepében [Original Size]_optimised.jpg">
-<img src="img/186-C       E húsvét ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/186 E húsvét ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/186-A       E húsvét ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/186-B       E húsvét ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/186-C       E húsvét ünnepében [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11782,9 +11778,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 187. Dicséret
 
-<img src="img/187-A      E húsvét ünnepében [Original Size]_optimised.jpg">
-<img src="img/187-B      E húsvét ünnepében [Original Size]_optimised.jpg">
-<img src="img/187-C      E húsvét ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/187-A      E húsvét ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/187-B      E húsvét ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/187-C      E húsvét ünnepében [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11802,9 +11798,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 188. Dicséret
 
-<img src="img/188-A       E pünkösd ünnepében [Original Size]_optimised.jpg">
-<img src="img/188-B       E pünkösd ünnepében [Original Size]_optimised.jpg">
-<img src="img/188-C       E pünkösd ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/188-A       E pünkösd ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/188-B       E pünkösd ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/188-C       E pünkösd ünnepében [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11824,9 +11820,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 189. Dicséret
 
-<img src="img/189-A    E pünkösd ünnepében [Original Size]_optimised.jpg">
-<img src="img/189-B    E pünkösd ünnepében [Original Size]_optimised.jpg">
-<img src="img/189-C    E pünkösd ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/189-A    E pünkösd ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/189-B    E pünkösd ünnepében [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/189-C    E pünkösd ünnepében [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11845,9 +11841,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 190. Dicséret
 
-<img src="img/190-A       Ez esztendőt megáldjad [Original Size]_optimised.jpg">
-<img src="img/190-B       Ez esztendőt megáldjad [Original Size]_optimised.jpg">
-<img src="img/190-C       Ez esztendőt megáldjad [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/190-A       Ez esztendőt megáldjad [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/190-B       Ez esztendőt megáldjad [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/190-C       Ez esztendőt megáldjad [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11866,9 +11862,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 191. Dicséret
 
-<img src="img/191-A       Ez esztendőt áldással [Original Size]_optimised.jpg">
-<img src="img/191-B       Ez esztendőt áldással [Original Size]_optimised.jpg">
-<img src="img/191-C       Ez esztendőt áldással [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/191-A       Ez esztendőt áldással [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/191-B       Ez esztendőt áldással [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/191-C       Ez esztendőt áldással [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11886,7 +11882,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 192. Dicséret
 
-<img src="img/192 Adj békességet Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/192 Adj békességet Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11900,7 +11896,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 193. Dicséret
 
-<img src="img/193 Az Úr Jézus Krisztusnak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/193 Az Úr Jézus Krisztusnak [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11914,9 +11910,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 194. Dicséret
 
-<img src="img/194-A    Tartsd meg e gyülekezetnek [Original Size]_optimised.jpg">
-<img src="img/194-B    Tartsd meg e gyülekezetnek [Original Size]_optimised.jpg">
-<img src="img/194-C    Tartsd meg e gyülekezetnek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/194-A    Tartsd meg e gyülekezetnek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/194-B    Tartsd meg e gyülekezetnek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/194-C    Tartsd meg e gyülekezetnek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11936,7 +11932,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 195. Dicséret
 
-<img src="img/195 Áldjuk Istent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/195 Áldjuk Istent [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -11969,10 +11965,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 196. Dicséret
 
-<img src="img/196 Mondjatok dícséretet [Original Size]_optimised.jpg">
-<img src="img/196-2       Örvendjetek őneki [Original Size]_optimised.jpg">
-<img src="img/196-5        Tégedet illet Uram [Original Size]_optimised.jpg">
-<img src="img/196-6       Hála légyen tenéked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/196 Mondjatok dícséretet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/196-2       Örvendjetek őneki [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/196-5        Tégedet illet Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/196-6       Hála légyen tenéked [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12027,7 +12023,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 197. Dicséret
 
-<img src="img/197 Hálaadásunkban rólad [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/197 Hálaadásunkban rólad [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12099,7 +12095,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 198. Dicséret
 
-<img src="img/198 Ti keresztyének [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/198 Ti keresztyének [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12126,7 +12122,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 199. Dicséret
 
-<img src="img/199 Adjunk hálákat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/199 Adjunk hálákat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12163,8 +12159,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 200. Dicséret
 
-<img src="img/200 Ó maradj kegyelmeddel [Original Size]_optimised.jpg">
-<img src="img/200-2 Ó maradj szentigéddel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/200 Ó maradj kegyelmeddel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/200-2 Ó maradj szentigéddel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12212,8 +12208,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 201. Dicséret
 
-<img src="img/201-A   Uram kegyes indulatomban [Original Size]_optimised.jpg">
-<img src="img/201-B   Uram kegyes indulatomban [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/201-A   Uram kegyes indulatomban [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/201-B   Uram kegyes indulatomban [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12285,8 +12281,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 202. Dicséret
 
-<img src="img/202-A   Fő boldogságom tartom [Original Size]_optimised.jpg">
-<img src="img/202-B   Fő boldogságom tartom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/202-A   Fő boldogságom tartom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/202-B   Fő boldogságom tartom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12328,8 +12324,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 203. Dicséret
 
-<img src="img/203-A    Mennybéli Úr Isten [Original Size]_optimised.jpg">
-<img src="img/203-B    Mennybéli Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/203-A    Mennybéli Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/203-B    Mennybéli Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12445,8 +12441,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 204. Dicséret
 
-<img src="img/204    Boldogok akik lelki szegények [Original Size]_optimised.jpg">
-<img src="img/204-6      Boldogok akik tiszta szívüek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/204    Boldogok akik lelki szegények [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/204-6      Boldogok akik tiszta szívüek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12513,7 +12509,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 205. Dicséret
 
-<img src="img/205 Ne szállj perbe énvelem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/205 Ne szállj perbe énvelem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12610,7 +12606,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 206. Dicséret
 
-<img src="img/206 Én Istenem Sok nagy bűnöm [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/206 Én Istenem Sok nagy bűnöm [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12703,7 +12699,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 207. Dicséret
 
-<img src="img/207 Seregeknek hatalmas [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/207 Seregeknek hatalmas [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12779,7 +12775,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 208. Dicséret
 
-<img src="img/208 Uram bűneink soksága [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/208 Uram bűneink soksága [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12827,7 +12823,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 209. Dicséret
 
-<img src="img/209 Tökéletes volt [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/209 Tökéletes volt [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12868,11 +12864,11 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 210. Dicséret
 
-<img src="img/210-3-A  Ölelgess szent [Original Size]_optimised.jpg">
-<img src="img/210-3-B  Ölelgess szent [Original Size]_optimised.jpg">
-<img src="img/210-A   Ó áldandó Szentháromság [Original Size]_optimised.jpg">
-<img src="img/210-B   Ó áldandó Szentháromság [Original Size]_optimised.jpg">
-<img src="img/210-B   Ó áldandó Szentháromságg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/210-3-A  Ölelgess szent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/210-3-B  Ölelgess szent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/210-A   Ó áldandó Szentháromság [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/210-B   Ó áldandó Szentháromság [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/210-B   Ó áldandó Szentháromságg [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -12959,7 +12955,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 211. Dicséret
 
-<img src="img/211 Meghagytad nékünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/211 Meghagytad nékünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13019,8 +13015,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 212. Dicséret
 
-<img src="img/212 Én nem perlek [Original Size]_optimised.jpg">
-<img src="img/212-5   E kettő közt [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/212 Én nem perlek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/212-5   E kettő közt [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13074,7 +13070,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 213. Dicséret
 
-<img src="img/213 Mindenható Úristen [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/213 Mindenható Úristen [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13192,9 +13188,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 214. Dicséret
 
-<img src="img/214  Sok nyavalyánkban [Original Size]_optimised.jpg">
-<img src="img/214 Sok nyavalyánkban [Original Size]_optimised.jpg">
-<img src="img/214-2      Tégedet azért [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/214  Sok nyavalyánkban [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/214 Sok nyavalyánkban [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/214-2      Tégedet azért [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13270,8 +13266,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 215. Dicséret
 
-<img src="img/215-A   Eltévedtem mint juh [Original Size]_optimised.jpg">
-<img src="img/215-B   Eltévedtem mint juh [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/215-A   Eltévedtem mint juh [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/215-B   Eltévedtem mint juh [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13331,7 +13327,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 216. Dicséret
 
-<img src="img/216 Végtelen irgalmú [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/216 Végtelen irgalmú [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13388,8 +13384,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 217. Dicséret
 
-<img src="img/217-A   Bűnösök hozzád [Original Size]_optimised.jpg">
-<img src="img/217-B   Bűnösök hozzád [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/217-A   Bűnösök hozzád [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/217-B   Bűnösök hozzád [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13445,9 +13441,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 218. Dicséret
 
-<img src="img/218-A   Életünknek rendiben [Original Size]_optimised.jpg">
-<img src="img/218-B   Életünknek rendiben [Original Size]_optimised.jpg">
-<img src="img/218-C   Életünknek rendiben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/218-A   Életünknek rendiben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/218-B   Életünknek rendiben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/218-C   Életünknek rendiben [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13486,9 +13482,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 219. Dicséret
 
-<img src="img/219 Atya Úr Isten [Original Size]_optimised.jpg">
-<img src="img/219-A   Atya Úr Isten [Original Size]_optimised.jpg">
-<img src="img/219-B   Atya Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/219 Atya Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/219-A   Atya Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/219-B   Atya Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13557,7 +13553,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 220. Dicséret
 
-<img src="img/220 Bocsásd meg Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/220 Bocsásd meg Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13612,7 +13608,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 221. Dicséret
 
-<img src="img/221 Légy irgalmas [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/221 Légy irgalmas [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13660,7 +13656,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 222. Dicséret
 
-<img src="img/222 Ó mennyeknek fényessége [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/222 Ó mennyeknek fényessége [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13715,8 +13711,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 223. Dicséret
 
-<img src="img/223-A   Istenem én nagy bűnös [Original Size]_optimised.jpg">
-<img src="img/223-B   Istenem én nagy bűnös [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/223-A   Istenem én nagy bűnös [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/223-B   Istenem én nagy bűnös [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13776,8 +13772,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 224. Dicséret
 
-<img src="img/224 Kegyelmezz meg nékünk [Original Size]_optimised.jpg">
-<img src="img/224-8  Higyjünk azért a Jézus Krisztusban [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/224 Kegyelmezz meg nékünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/224-8  Higyjünk azért a Jézus Krisztusban [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13839,9 +13835,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 225. Dicséret
 
-<img src="img/225 Nagy hálát adjunk [Original Size]_optimised.jpg">
-<img src="img/225-2 Hála tenéked [Original Size]_optimised.jpg">
-<img src="img/225-5 Adjad, hogy lássuk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/225 Nagy hálát adjunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/225-2 Hála tenéked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/225-5 Adjad, hogy lássuk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13903,8 +13899,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 226. Dicséret
 
-<img src="img/226 Krisztusom kivüled nincs [Original Size]_optimised.jpg">
-<img src="img/226-2      Gyújtsd meg szövétnekét [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/226 Krisztusom kivüled nincs [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/226-2      Gyújtsd meg szövétnekét [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -13938,8 +13934,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 227. Dicséret
 
-<img src="img/227-A    A mi szívünk [Original Size]_optimised.jpg">
-<img src="img/227-B    A mi szívünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/227-A    A mi szívünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/227-B    A mi szívünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14033,7 +14029,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 228. Dicséret
 
-<img src="img/228 Jehova csak néked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/228 Jehova csak néked [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14075,8 +14071,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 229. Dicséret
 
-<img src="img/229 Hű pásztorunk vezesd [Original Size]_optimised.jpg">
-<img src="img/229-2        Mert boldog az az ember [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/229 Hű pásztorunk vezesd [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/229-2        Mert boldog az az ember [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14115,8 +14111,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 230. Dicséret
 
-<img src="img/230 Áll a Krisztus szent keresztje [Original Size]_optimised.jpg">
-<img src="img/230-4     Áldássá lesz ott az átok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/230 Áll a Krisztus szent keresztje [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/230-4     Áldássá lesz ott az átok [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14157,8 +14153,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 231. Dicséret
 
-<img src="img/231-A     Uram a te igéd nekem [Original Size]_optimised.jpg">
-<img src="img/231-B     Uram a te igéd nekem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/231-A     Uram a te igéd nekem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/231-B     Uram a te igéd nekem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14200,7 +14196,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 232. Dicséret
 
-<img src="img/232 Hiszek a mennybéli egy Istenben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/232 Hiszek a mennybéli egy Istenben [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14248,7 +14244,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 233. Dicséret
 
-<img src="img/233 Úr Isten tarts meg minket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/233 Úr Isten tarts meg minket [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14296,7 +14292,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 234. Dicséret
 
-<img src="img/234 Jer kérjük Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/234 Jer kérjük Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14334,7 +14330,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 235. Dicséret
 
-<img src="img/235 Hallgass meg minket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/235 Hallgass meg minket [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14380,7 +14376,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 236. Dicséret
 
-<img src="img/236 Mindenek meghallják [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/236 Mindenek meghallják [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14428,7 +14424,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 237. Dicséret
 
-<img src="img/237 Reménységemben hívlak Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/237 Reménységemben hívlak Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14497,7 +14493,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 238. Dicséret
 
-<img src="img/238 Teremtő Istenünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/238 Teremtő Istenünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14583,8 +14579,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 239. Dicséret
 
-<img src="img/239-A      Úr Jézus hozzád kiáltok [Original Size]_optimised.jpg">
-<img src="img/239-B      Úr Jézus hozzád kiáltok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/239-A      Úr Jézus hozzád kiáltok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/239-B      Úr Jézus hozzád kiáltok [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14645,7 +14641,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 240. Dicséret
 
-<img src="img/240 Ó én két szemeim [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/240 Ó én két szemeim [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14721,7 +14717,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 241. Dicséret
 
-<img src="img/241 Szent vagy örökké Atya Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/241 Szent vagy örökké Atya Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14755,7 +14751,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 242. Dicséret
 
-<img src="img/242 Téged Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/242 Téged Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14804,10 +14800,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 243. Dicséret
 
-<img src="img/243-6-A      Ó, Szentlélek [Original Size]_optimised.jpg">
-<img src="img/243-6-B      Ó, Szentlélek [Original Size]_optimised.jpg">
-<img src="img/243-A       Téged ó Isten [Original Size]_optimised.jpg">
-<img src="img/243-B       Téged ó Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/243-6-A      Ó, Szentlélek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/243-6-B      Ó, Szentlélek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/243-A       Téged ó Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/243-B       Téged ó Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -14912,7 +14908,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 244. Dicséret
 
-<img src="img/244 Áldott légy örök Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/244 Áldott légy örök Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15014,7 +15010,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 245. Dicséret
 
-<img src="img/245 Dícséret a Szentháromságnak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/245 Dícséret a Szentháromságnak [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15065,7 +15061,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 246. Dicséret
 
-<img src="img/246 Adj Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/246 Adj Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15104,8 +15100,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 247. Dicséret
 
-<img src="img/247-A    Imádandó Isten [Original Size]_optimised.jpg">
-<img src="img/247-B    Imádandó Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/247-A    Imádandó Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/247-B    Imádandó Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15167,8 +15163,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 248. Dicséret
 
-<img src="img/248-A    A csillagos égnek seregei [Original Size]_optimised.jpg">
-<img src="img/248-B    A csillagos égnek seregei [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/248-A    A csillagos égnek seregei [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/248-B    A csillagos égnek seregei [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15255,8 +15251,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 249. Dicséret
 
-<img src="img/249-A    Nagy az Úr ki fényes házát [Original Size]_optimised.jpg">
-<img src="img/249-B    Nagy az Úr ki fényes házát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/249-A    Nagy az Úr ki fényes házát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/249-B    Nagy az Úr ki fényes házát [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15343,8 +15339,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 250. Dicséret
 
-<img src="img/250-A    Atya Úr Isten [Original Size]_optimised.jpg">
-<img src="img/250-B    Atya Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/250-A    Atya Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/250-B    Atya Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15386,7 +15382,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 251. Dicséret
 
-<img src="img/251 Meghódol lelkem tenéked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/251 Meghódol lelkem tenéked [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15441,7 +15437,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 252. Dicséret
 
-<img src="img/252 Mennyei seregek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/252 Mennyei seregek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15488,8 +15484,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 253. Dicséret
 
-<img src="img/253-A    Isten kezét mutatja [Original Size]_optimised.jpg">
-<img src="img/253-B    Isten kezét mutatja [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/253-A    Isten kezét mutatja [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/253-B    Isten kezét mutatja [Original Size]_optimised.jpg">
 
 
 #### 2. vers
@@ -15539,8 +15535,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 254. Dicséret
 
-<img src="img/254 Mindenkoron áldom az én Uramat [Original Size]_optimised.jpg">
-<img src="img/254-4  Látom Istennek angyala [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/254 Mindenkoron áldom az én Uramat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/254-4  Látom Istennek angyala [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15609,7 +15605,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 255. Dicséret
 
-<img src="img/255 Mely igen jó az Úr Istent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/255 Mely igen jó az Úr Istent [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15671,10 +15667,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 256. Dicséret
 
-<img src="img/256 Irgalmazz Úr Isten [Original Size]_optimised.jpg">
-<img src="img/256-2       Szárnyad alá vetem [Original Size]_optimised.jpg">
-<img src="img/256-5    Azért téged Uram [Original Size]_optimised.jpg">
-<img src="img/256-6   Kész már az én szívem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/256 Irgalmazz Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/256-2       Szárnyad alá vetem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/256-5    Azért téged Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/256-6   Kész már az én szívem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15736,8 +15732,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 257. Dicséret
 
-<img src="img/257-A   Ne hagyj elesnem [Original Size]_optimised.jpg">
-<img src="img/257-B   Ne hagyj elesnem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/257-A   Ne hagyj elesnem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/257-B   Ne hagyj elesnem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15815,8 +15811,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 258. Dicséret
 
-<img src="img/258 Fohászkodom hozzád Uram [Original Size]_optimised.jpg">
-<img src="img/258-5   Irgalmasságodat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/258 Fohászkodom hozzád Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/258-5   Irgalmasságodat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15864,10 +15860,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 259. Dicséret
 
-<img src="img/259-8A    Isten mily nagy dicsőséget [Original Size]_optimised.jpg">
-<img src="img/259-8B    Isten mily nagy dicsőséget [Original Size]_optimised.jpg">
-<img src="img/259-A   Benned bíztamn Uram [Original Size]_optimised.jpg">
-<img src="img/259-B   Benned bíztamn Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/259-8A    Isten mily nagy dicsőséget [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/259-8B    Isten mily nagy dicsőséget [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/259-A   Benned bíztamn Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/259-B   Benned bíztamn Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -15963,8 +15959,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 260. Dicséret
 
-<img src="img/260-A    Szent Dávid próféta [Original Size]_optimised.jpg">
-<img src="img/260-B    Szent Dávid próféta [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/260-A    Szent Dávid próféta [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/260-B    Szent Dávid próféta [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16091,7 +16087,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 261. Dicséret
 
-<img src="img/261 Kegyelmes Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/261 Kegyelmes Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16125,8 +16121,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 262. Dicséret
 
-<img src="img/262-A    Forog a szerencse [Original Size]_optimised.jpg">
-<img src="img/262-B    Forog a szerencse [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/262-A    Forog a szerencse [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/262-B    Forog a szerencse [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16195,7 +16191,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 263. Dicséret
 
-<img src="img/263 Mikoron Dávid [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/263 Mikoron Dávid [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16292,7 +16288,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 264. Dicséret
 
-<img src="img/264 Áldjad én lelkem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/264 Áldjad én lelkem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16338,7 +16334,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 265. Dicséret
 
-<img src="img/265 Hagyjad az Úr Istenre [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/265 Hagyjad az Úr Istenre [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16400,7 +16396,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 266. Dicséret
 
-<img src="img/266 Egek nagy királya [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/266 Egek nagy királya [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16450,7 +16446,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 267. Dicséret
 
-<img src="img/267 Mire bánkódol [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/267 Mire bánkódol [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16512,8 +16508,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 268. Dicséret
 
-<img src="img/268-A    Dícsérjük hálaadással [Original Size]_optimised.jpg">
-<img src="img/268-B    Dícsérjük hálaadással [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/268-A    Dícsérjük hálaadással [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/268-B    Dícsérjük hálaadással [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16563,8 +16559,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 269. Dicséret
 
-<img src="img/269-A    Istenre bízom magamat [Original Size]_optimised.jpg">
-<img src="img/269-B    Istenre bízom magamat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/269-A    Istenre bízom magamat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/269-B    Istenre bízom magamat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16625,10 +16621,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 270. Dicséret
 
-<img src="img/270-8-A       Ne vedd szívedre [Original Size]_optimised.jpg">
-<img src="img/270-8-B       Ne vedd szívedre [Original Size]_optimised.jpg">
-<img src="img/270-A       Légy csendes szívvel [Original Size]_optimised.jpg">
-<img src="img/270-B       Légy csendes szívvel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/270-8-A       Ne vedd szívedre [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/270-8-B       Ne vedd szívedre [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/270-A       Légy csendes szívvel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/270-B       Légy csendes szívvel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16734,8 +16730,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 271. Dicséret
 
-<img src="img/271-A   Mint Isten akarja [Original Size]_optimised.jpg">
-<img src="img/271-B   Mint Isten akarja [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/271-A   Mint Isten akarja [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/271-B   Mint Isten akarja [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16785,10 +16781,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 272. Dicséret
 
-<img src="img/272-5-A       Mind jó amit Isten tészen [Original Size]_optimised.jpg">
-<img src="img/272-5-B       Mind jó amit Isten tészen [Original Size]_optimised.jpg">
-<img src="img/272-A       Mind jó amit Isten tészen [Original Size]_optimised.jpg">
-<img src="img/272-B       Mind jó amit Isten tészen [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/272-5-A       Mind jó amit Isten tészen [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/272-5-B       Mind jó amit Isten tészen [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/272-A       Mind jó amit Isten tészen [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/272-B       Mind jó amit Isten tészen [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16854,8 +16850,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 273. Dicséret
 
-<img src="img/273 Az Úr Istent magasztalom [Original Size]_optimised.jpg">
-<img src="img/273-5       Nagy erősen igaz hittel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/273 Az Úr Istent magasztalom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/273-5       Nagy erősen igaz hittel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16931,12 +16927,12 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 274. Dicséret
 
-<img src="img/274 Ki Istenének átad mindent [Original Size]_optimised.jpg">
-<img src="img/274-3  Csak légy egy kissé [Original Size]_optimised.jpg">
-<img src="img/274-3-A   Csak légy egy kissé áldott [Original Size]_optimised.jpg">
-<img src="img/274-3-B   Csak légy egy kissé áldott [Original Size]_optimised.jpg">
-<img src="img/274-A   Ki Istenének átad mindent [Original Size]_optimised.jpg">
-<img src="img/274-B   Ki Istenének átad mindent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/274 Ki Istenének átad mindent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/274-3  Csak légy egy kissé [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/274-3-A   Csak légy egy kissé áldott [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/274-3-B   Csak légy egy kissé áldott [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/274-A   Ki Istenének átad mindent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/274-B   Ki Istenének átad mindent [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -16978,7 +16974,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 275. Dicséret
 
-<img src="img/275 Az Úr Isten az én reménységem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/275 Az Úr Isten az én reménységem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17027,8 +17023,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 276. Dicséret
 
-<img src="img/276-A    Egyedüli reményem [Original Size]_optimised.jpg">
-<img src="img/276-B    Egyedüli reményem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/276-A    Egyedüli reményem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/276-B    Egyedüli reményem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17084,8 +17080,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 277. Dicséret
 
-<img src="img/277-A   Gondviselő jó Atyám vagy [Original Size]_optimised.jpg">
-<img src="img/277-B   Gondviselő jó Atyám vagy [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/277-A   Gondviselő jó Atyám vagy [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/277-B   Gondviselő jó Atyám vagy [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17136,8 +17132,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 278. Dicséret
 
-<img src="img/278-A       Dicsőült helyeken [Original Size]_optimised.jpg">
-<img src="img/278-B       Dicsőült helyeken [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/278-A       Dicsőült helyeken [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/278-B       Dicsőült helyeken [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17223,9 +17219,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 279. Dicséret
 
-<img src="img/279-A   Vígak e föld lakosai [Original Size]_optimised.jpg">
-<img src="img/279-B   Vígak e föld lakosai [Original Size]_optimised.jpg">
-<img src="img/279-C   Vígak e föld lakosai [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/279-A   Vígak e föld lakosai [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/279-B   Vígak e föld lakosai [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/279-C   Vígak e föld lakosai [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17291,12 +17287,12 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 280. Dicséret
 
-<img src="img/280-5A    Tökéletességnek Atyja [Original Size]_optimised.jpg">
-<img src="img/280-5B    Tökéletességnek Atyja [Original Size]_optimised.jpg">
-<img src="img/280-6A    Minthogy azért te teheted [Original Size]_optimised.jpg">
-<img src="img/280-6B    Minthogy azért te teheted [Original Size]_optimised.jpg">
-<img src="img/280-A   Ismét egyik esztendeje [Original Size]_optimised.jpg">
-<img src="img/280-B   Ismét egyik esztendeje [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/280-5A    Tökéletességnek Atyja [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/280-5B    Tökéletességnek Atyja [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/280-6A    Minthogy azért te teheted [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/280-6B    Minthogy azért te teheted [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/280-A   Ismét egyik esztendeje [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/280-B   Ismét egyik esztendeje [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17368,8 +17364,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 281. Dicséret
 
-<img src="img/281-A   Lelkünk testünk teremtője [Original Size]_optimised.jpg">
-<img src="img/281-B   Lelkünk testünk teremtője [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/281-A   Lelkünk testünk teremtője [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/281-B   Lelkünk testünk teremtője [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17430,7 +17426,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 282. Dicséret
 
-<img src="img/282 Nékünk szülék mennyei király [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/282 Nékünk szülék mennyei király [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17492,8 +17488,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 283. Dicséret
 
-<img src="img/283-A   Az Úrnak jóvolta [Original Size]_optimised.jpg">
-<img src="img/283-B   Az Úrnak jóvolta [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/283-A   Az Úrnak jóvolta [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/283-B   Az Úrnak jóvolta [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17559,7 +17555,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 284. Dicséret
 
-<img src="img/284 Áldjuk a nagy Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/284 Áldjuk a nagy Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17629,8 +17625,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 285. Dicséret
 
-<img src="img/285-A   Örök Isten [Original Size]_optimised.jpg">
-<img src="img/285-B   Örök Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/285-A   Örök Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/285-B   Örök Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17724,8 +17720,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 286. Dicséret
 
-<img src="img/286 Jer dícsérjük az Istennek Fiát [Original Size]_optimised.jpg">
-<img src="img/286-5 Szent véreddel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/286 Jer dícsérjük az Istennek Fiát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/286-5 Szent véreddel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17851,8 +17847,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 287. Dicséret
 
-<img src="img/287 Járuljunk mi az Istennek [Original Size]_optimised.jpg">
-<img src="img/287-4   Mi elménknek homályát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/287 Járuljunk mi az Istennek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/287-4   Mi elménknek homályát [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17921,7 +17917,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 288. Dicséret
 
-<img src="img/288-5 Add szentlelked ajándékát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/288-5 Add szentlelked ajándékát [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -17976,8 +17972,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 289. Dicséret
 
-<img src="img/289-A   Zengj nyelvem [Original Size]_optimised.jpg">
-<img src="img/289-B   Zengj nyelvem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/289-A   Zengj nyelvem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/289-B   Zengj nyelvem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18104,7 +18100,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 290. Dicséret
 
-<img src="img/290 Dícsérlek téged [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/290 Dícsérlek téged [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18152,7 +18148,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 291. Dicséret
 
-<img src="img/291 Ó mi kegyelmes [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/291 Ó mi kegyelmes [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18235,8 +18231,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 292. Dicséret
 
-<img src="img/292-A   Ó dicsőségnek [Original Size]_optimised.jpg">
-<img src="img/292-B   Ó dicsőségnek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/292-A   Ó dicsőségnek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/292-B   Ó dicsőségnek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18321,7 +18317,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 293. Dicséret
 
-<img src="img/293 Jézus ó mi Idvezítőnk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/293 Jézus ó mi Idvezítőnk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18375,8 +18371,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 294. Dicséret
 
-<img src="img/294-A   Jézus vígasságom [Original Size]_optimised.jpg">
-<img src="img/294-B   Jézus vígasságom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/294-A   Jézus vígasságom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/294-B   Jézus vígasságom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18414,8 +18410,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 295. Dicséret
 
-<img src="img/295-A       Jézusom ki árva lelkem [Original Size]_optimised.jpg">
-<img src="img/295-B       Jézusom ki árva lelkem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/295-A       Jézusom ki árva lelkem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/295-B       Jézusom ki árva lelkem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18443,8 +18439,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 296. Dicséret
 
-<img src="img/296-A   Szép tündöklő hajnal [Original Size]_optimised.jpg">
-<img src="img/296-B   Szép tündöklő hajnal [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/296-A   Szép tündöklő hajnal [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/296-B   Szép tündöklő hajnal [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18534,7 +18530,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 297. Dicséret
 
-<img src="img/297 Ó seregeknek Hatalmas [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/297 Ó seregeknek Hatalmas [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18597,10 +18593,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 298. Dicséret
 
-<img src="img/298-10-A   Mit tettem és [Original Size]_optimised.jpg">
-<img src="img/298-10-B   Mit tettem és [Original Size]_optimised.jpg">
-<img src="img/298-A   Jer Krisztus népe [Original Size]_optimised.jpg">
-<img src="img/298-B   Jer Krisztus népe [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/298-10-A   Mit tettem és [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/298-10-B   Mit tettem és [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/298-A   Jer Krisztus népe [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/298-B   Jer Krisztus népe [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18706,7 +18702,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 299. Dicséret
 
-<img src="img/299 Jézus hív bár zúg morajlik [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/299 Jézus hív bár zúg morajlik [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18747,14 +18743,14 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 300. Dicséret
 
-<img src="img/300-2-A     Nincs nekem más [Original Size]_optimised.jpg">
-<img src="img/300-2-B     Nincs nekem más [Original Size]_optimised.jpg">
-<img src="img/300-3-A    CsakTte kellesz [Original Size]_optimised.jpg">
-<img src="img/300-3-B    CsakTte kellesz [Original Size]_optimised.jpg">
-<img src="img/300-4-A    Kegyelem vagy [Original Size]_optimised.jpg">
-<img src="img/300-4-B    Kegyelem vagy [Original Size]_optimised.jpg">
-<img src="img/300-A   Lelkem drága Jézusa [Original Size]_optimised.jpg">
-<img src="img/300-B   Lelkem drága Jézusa [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/300-2-A     Nincs nekem más [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/300-2-B     Nincs nekem más [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/300-3-A    CsakTte kellesz [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/300-3-B    CsakTte kellesz [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/300-4-A    Kegyelem vagy [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/300-4-B    Kegyelem vagy [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/300-A   Lelkem drága Jézusa [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/300-B   Lelkem drága Jézusa [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18804,7 +18800,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 301. Dicséret
 
-<img src="img/301 Új világosság jelenék [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/301 Új világosság jelenék [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18866,7 +18862,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 302. Dicséret
 
-<img src="img/302 Ó népek megváltója [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/302 Ó népek megváltója [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18907,7 +18903,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 303. Dicséret
 
-<img src="img/303 Jőjj népek Megváltója [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/303 Jőjj népek Megváltója [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -18962,9 +18958,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 304. Dicséret
 
-<img src="img/304 Kapuk emelkedjetek [Original Size]_optimised.jpg">
-<img src="img/304-4 Az utat egyengessed [Original Size]_optimised.jpg">
-<img src="img/304-7   Dávid gyökere [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/304 Kapuk emelkedjetek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/304-4 Az utat egyengessed [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/304-7   Dávid gyökere [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19069,8 +19065,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 305. Dicséret
 
-<img src="img/305-A    Álmélkodással csudáljuk [Original Size]_optimised.jpg">
-<img src="img/305-B    Álmélkodással csudáljuk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/305-A    Álmélkodással csudáljuk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/305-B    Álmélkodással csudáljuk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19112,8 +19108,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 306. Dicséret
 
-<img src="img/306-A     Kegyes lelkek [Original Size]_optimised.jpg">
-<img src="img/306-B     Kegyes lelkek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/306-A     Kegyes lelkek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/306-B     Kegyes lelkek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19154,8 +19150,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 307. Dicséret
 
-<img src="img/307-A    Dícséretet mond nyelve [Original Size]_optimised.jpg">
-<img src="img/307-B    Dícséretet mond nyelve [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/307-A    Dícséretet mond nyelve [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/307-B    Dícséretet mond nyelve [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19199,8 +19195,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 308. Dicséret
 
-<img src="img/308-A    Igaz Isten ígéretedben [Original Size]_optimised.jpg">
-<img src="img/308-B    Igaz Isten ígéretedben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/308-A    Igaz Isten ígéretedben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/308-B    Igaz Isten ígéretedben [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19261,9 +19257,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 309. Dicséret
 
-<img src="img/309 Mennyei Ige jelenél [Original Size]_optimised.jpg">
-<img src="img/309-3      Világosítsd meg elménket [Original Size]_optimised.jpg">
-<img src="img/309-4      Erősítsd bennünk hitünket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/309 Mennyei Ige jelenél [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/309-3      Világosítsd meg elménket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/309-4      Erősítsd bennünk hitünket [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19318,7 +19314,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 310. Dicséret
 
-<img src="img/310 Küldé az Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/310 Küldé az Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19388,7 +19384,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 311. Dicséret
 
-<img src="img/311 Szent Ézsaiás [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/311 Szent Ézsaiás [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19485,9 +19481,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 312. Dicséret
 
-<img src="img/312 Várj ember szíve készen [Original Size]_optimised.jpg">
-<img src="img/312-3  Az Úr elé ha tárod [Original Size]_optimised.jpg">
-<img src="img/312-4  Ó Jézusom szegényed [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/312 Várj ember szíve készen [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/312-3  Az Úr elé ha tárod [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/312-4  Ó Jézusom szegényed [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19537,8 +19533,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 313. Dicséret
 
-<img src="img/313 Dícsérd Istent [Original Size]_optimised.jpg">
-<img src="img/313-8 Ma paradicsom kapuját [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/313 Dícsérd Istent [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/313-8 Ma paradicsom kapuját [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19608,7 +19604,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 314. Dicséret
 
-<img src="img/314 Jézus születél idvességünkre [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/314 Jézus születél idvességünkre [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19662,7 +19658,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 315. Dicséret
 
-<img src="img/315 Krisztus Urunknak áldott születésén [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/315 Krisztus Urunknak áldott születésén [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19719,9 +19715,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 316. Dicséret
 
-<img src="img/316 Az Istennek szent angyala [Original Size]_optimised.jpg">
-<img src="img/316-13     Ó kedves vendég [Original Size]_optimised.jpg">
-<img src="img/316-8 Jertek hát mi is örvendjünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/316 Az Istennek szent angyala [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/316-13     Ó kedves vendég [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/316-8 Jertek hát mi is örvendjünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19832,7 +19828,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 317. Dicséret
 
-<img src="img/317 Jer dicsérjük e szent napon [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/317 Jer dicsérjük e szent napon [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19905,7 +19901,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 318. Dicséret
 
-<img src="img/318 Jer mindnyájan örüljünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/318 Jer mindnyájan örüljünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -19959,7 +19955,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 319. Dicséret
 
-<img src="img/319 Kezdetben volt az Ige [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/319 Kezdetben volt az Ige [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20001,8 +19997,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 320. Dicséret
 
-<img src="img/320-A     Ez nap nékünk [Original Size]_optimised.jpg">
-<img src="img/320-B     Ez nap nékünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/320-A     Ez nap nékünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/320-B     Ez nap nékünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20085,8 +20081,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 321. Dicséret
 
-<img src="img/321-A    Hogy eljött az időknek [Original Size]_optimised.jpg">
-<img src="img/321-B    Hogy eljött az időknek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/321-A    Hogy eljött az időknek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/321-B    Hogy eljött az időknek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20170,8 +20166,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 322. Dicséret
 
-<img src="img/322-A   E világot bár ez bűnt tett [Original Size]_optimised.jpg">
-<img src="img/322-B   E világot bár ez bűnt tett [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/322-A   E világot bár ez bűnt tett [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/322-B   E világot bár ez bűnt tett [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20232,8 +20228,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 323. Dicséret
 
-<img src="img/323-A    Dicsőség a magas mennyekben [Original Size]_optimised.jpg">
-<img src="img/323-B    Dicsőség a magas mennyekben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/323-A    Dicsőség a magas mennyekben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/323-B    Dicsőség a magas mennyekben [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20305,8 +20301,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 324. Dicséret
 
-<img src="img/324-A    Örvendjetek keresztyének [Original Size]_optimised.jpg">
-<img src="img/324-B    Örvendjetek keresztyének [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/324-A    Örvendjetek keresztyének [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/324-B    Örvendjetek keresztyének [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20367,8 +20363,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 325. Dicséret
 
-<img src="img/325-A    Szívünk vígsággal ma bétölt [Original Size]_optimised.jpg">
-<img src="img/325-B    Szívünk vígsággal ma bétölt [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/325-A    Szívünk vígsággal ma bétölt [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/325-B    Szívünk vígsággal ma bétölt [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20434,9 +20430,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 326. Dicséret
 
-<img src="img/326 Dicsőség mennyben az Istennek [Original Size]_optimised.jpg">
-<img src="img/326-4   Ó Jézus ne vess meg [Original Size]_optimised.jpg">
-<img src="img/326-5   Dicsőség az örök Atyának [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/326 Dicsőség mennyben az Istennek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/326-4   Ó Jézus ne vess meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/326-5   Dicsőség az örök Atyának [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20482,8 +20478,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 327. Dicséret
 
-<img src="img/327-A   Ó jőjjetek hívek ma [Original Size]_optimised.jpg">
-<img src="img/327-B   Ó jőjjetek hívek ma [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/327-A   Ó jőjjetek hívek ma [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/327-B   Ó jőjjetek hívek ma [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20528,8 +20524,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 328. Dicséret
 
-<img src="img/328 Jőjjetek Krisztust dícsérni [Original Size]_optimised.jpg">
-<img src="img/328-2       Bűn pokol már búban [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/328 Jőjjetek Krisztust dícsérni [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/328-2       Bűn pokol már búban [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20577,8 +20573,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 329. Dicséret
 
-<img src="img/329-2    Nem éltem még e föld színén [Original Size]_optimised.jpg">
-<img src="img/329-5   Megváltóm egy kérésemet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/329-2    Nem éltem még e föld színén [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/329-5   Megváltóm egy kérésemet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20634,8 +20630,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 330. Dicséret
 
-<img src="img/330 Örvendezzen már e világ [Original Size]_optimised.jpg">
-<img src="img/330-8    Dicsőség Atyánknak mennyben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/330 Örvendezzen már e világ [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/330-8    Dicsőség Atyánknak mennyben [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20697,12 +20693,12 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 331. Dicséret
 
-<img src="img/331-3A       Jézus király és magát [Original Size]_optimised.jpg">
-<img src="img/331-3B       Jézus király és magát [Original Size]_optimised.jpg">
-<img src="img/331-4A      Ó édes Jézus [Original Size]_optimised.jpg">
-<img src="img/331-4B      Ó édes Jézus [Original Size]_optimised.jpg">
-<img src="img/331-A     A nagy király jön [Original Size]_optimised.jpg">
-<img src="img/331-B     A nagy király jön [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/331-3A       Jézus király és magát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/331-3B       Jézus király és magát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/331-4A      Ó édes Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/331-4B      Ó édes Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/331-A     A nagy király jön [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/331-B     A nagy király jön [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20763,7 +20759,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 332. Dicséret
 
-<img src="img/332 Jézusom imaádjuk szent nevedet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/332 Jézusom imaádjuk szent nevedet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20840,8 +20836,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 333. Dicséret
 
-<img src="img/333-A    Buzdítsd fel Uram [Original Size]_optimised.jpg">
-<img src="img/333-B    Buzdítsd fel Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/333-A    Buzdítsd fel Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/333-B    Buzdítsd fel Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -20924,10 +20920,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 334. Dicséret
 
-<img src="img/334-5A      Függ már a fán [Original Size]_optimised.jpg">
-<img src="img/334-5B      Függ már a fán [Original Size]_optimised.jpg">
-<img src="img/334-A    Ó Isten ki a törődött [Original Size]_optimised.jpg">
-<img src="img/334-B    Ó Isten ki a törődött [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/334-5A      Függ már a fán [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/334-5B      Függ már a fán [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/334-A    Ó Isten ki a törődött [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/334-B    Ó Isten ki a törődött [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21021,7 +21017,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 335. Dicséret
 
-<img src="img/335 Ó ártatlanság báránya [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/335 Ó ártatlanság báránya [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21062,7 +21058,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 336. Dicséret
 
-<img src="img/336 Dicsérd lelkem Istenedet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/336 Dicsérd lelkem Istenedet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21173,7 +21169,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 337. Dicséret
 
-<img src="img/337 Paradicsomnak te szép éló fája [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/337 Paradicsomnak te szép éló fája [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21291,7 +21287,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 338. Dicséret
 
-<img src="img/338 Lelki próbáimban Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/338 Lelki próbáimban Jézus [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21325,7 +21321,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 339. Dicséret
 
-<img src="img/339 Jézus Istennek Báránya [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/339 Jézus Istennek Báránya [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21381,7 +21377,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 340. Dicséret
 
-<img src="img/340 Te drága Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/340 Te drága Jézus [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21444,8 +21440,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 341. Dicséret
 
-<img src="img/341 Ó Krisztusfő te zúzott [Original Size]_optimised.jpg">
-<img src="img/341-4      Itt állok ó ne vess meg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/341 Ó Krisztusfő te zúzott [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/341-4      Itt állok ó ne vess meg [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21528,7 +21524,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 342. Dicséret
 
-<img src="img/342 Jézus világ megváltója [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/342 Jézus világ megváltója [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21615,7 +21611,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 343. Dicséret
 
-<img src="img/343 Ó Krisztus láttam szenvedésed [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/343 Ó Krisztus láttam szenvedésed [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21649,7 +21645,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 344. Dicséret
 
-<img src="img/344 Királyi zászlók lobognak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/344 Királyi zászlók lobognak [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21690,8 +21686,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 345. Dicséret
 
-<img src="img/345 Im nagy Isten most [Original Size]_optimised.jpg">
-<img src="img/345-3 Jézusomra föltekintek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/345 Im nagy Isten most [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/345-3 Jézusomra föltekintek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21733,7 +21729,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 346. Dicséret
 
-<img src="img/346 Győzhetetlen én kőszálom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/346 Győzhetetlen én kőszálom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21834,7 +21830,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 348. Dicséret
 
-<img src="img/348 Örvendezzetek egek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/348 Örvendezzetek egek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21885,10 +21881,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 349. Dicséret
 
-<img src="img/349-5-A Jézus én megholt életem [Original Size]_optimised.jpg">
-<img src="img/349-5-B Jézus én megholt életem [Original Size]_optimised.jpg">
-<img src="img/349-A     Jézus meghalt bűneinkért [Original Size]_optimised.jpg">
-<img src="img/349-B     Jézus meghalt bűneinkért [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/349-5-A Jézus én megholt életem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/349-5-B Jézus én megholt életem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/349-A     Jézus meghalt bűneinkért [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/349-B     Jézus meghalt bűneinkért [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -21960,8 +21956,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 350. Dicséret
 
-<img src="img/350-A   Feltámadt a mi életünk [Original Size]_optimised.jpg">
-<img src="img/350-B   Feltámadt a mi életünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/350-A   Feltámadt a mi életünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/350-B   Feltámadt a mi életünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22013,7 +22009,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 351. Dicséret
 
-<img src="img/351 Emlékezzünk e napon [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/351 Emlékezzünk e napon [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22083,7 +22079,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 352. Dicséret
 
-<img src="img/352 Krisztus ím feltámada [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/352 Krisztus ím feltámada [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22161,7 +22157,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 353. Dicséret
 
-<img src="img/353 Krisztus feltámada [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/353 Krisztus feltámada [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22230,7 +22226,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 354. Dicséret
 
-<img src="img/354 A Krisztust megfesziték [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/354 A Krisztust megfesziték [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22290,8 +22286,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 355. Dicséret
 
-<img src="img/355-A    Mély gyászba borult [Original Size]_optimised.jpg">
-<img src="img/355-B    Mély gyászba borult [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/355-A    Mély gyászba borult [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/355-B    Mély gyászba borult [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22341,7 +22337,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 356. Dicséret
 
-<img src="img/356 Felviradt áldott szép napunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/356 Felviradt áldott szép napunk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22387,7 +22383,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 357. Dicséret
 
-<img src="img/357 Jézus én bizodalmam [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/357 Jézus én bizodalmam [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22456,7 +22452,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 358. Dicséret
 
-<img src="img/358 A Krisztus mennybe felméne [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/358 A Krisztus mennybe felméne [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22518,8 +22514,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 359. Dicséret
 
-<img src="img/359-A Úr Jézus aki felséggel [Original Size]_optimised.jpg">
-<img src="img/359-B  Úr Jézus aki felséggel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/359-A Úr Jézus aki felséggel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/359-B  Úr Jézus aki felséggel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22580,10 +22576,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 360. Dicséret
 
-<img src="img/360-5A  Áldunk és imádunk [Original Size]_optimised.jpg">
-<img src="img/360-5B  Áldunk és imádunk [Original Size]_optimised.jpg">
-<img src="img/360-A Szent egek [Original Size]_optimised.jpg">
-<img src="img/360-B  Szent egek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/360-5A  Áldunk és imádunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/360-5B  Áldunk és imádunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/360-A Szent egek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/360-B  Szent egek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22655,8 +22651,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 361. Dicséret
 
-<img src="img/361-A   Vedd el jutalmadat [Original Size]_optimised.jpg">
-<img src="img/361-B   Vedd el jutalmadat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/361-A   Vedd el jutalmadat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/361-B   Vedd el jutalmadat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22710,7 +22706,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 362. Dicséret
 
-<img src="img/362 Ébredj fel világ [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/362 Ébredj fel világ [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22780,10 +22776,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 363. Dicséret
 
-<img src="img/363-18   Az a könnynek lesz a napja [Original Size]_optimised.jpg">
-<img src="img/363-A    Jön a harag napja lánggal [Original Size]_optimised.jpg">
-<img src="img/363-B    Jön a harag napja lánggal [Original Size]_optimised.jpg">
-<img src="img/363-C    Jön a harag napja lánggal [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/363-18   Az a könnynek lesz a napja [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/363-A    Jön a harag napja lánggal [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/363-B    Jön a harag napja lánggal [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/363-C    Jön a harag napja lánggal [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22901,7 +22897,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 364. Dicséret
 
-<img src="img/364 Ments meg Uram engem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/364 Ments meg Uram engem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22949,7 +22945,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 365. Dicséret
 
-<img src="img/365 Jézus Krisztus mi királyunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/365 Jézus Krisztus mi királyunk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -22990,7 +22986,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 366. Dicséret
 
-<img src="img/366 Az én időm mint a szép nyár [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/366 Az én időm mint a szép nyár [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23077,8 +23073,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 367. Dicséret
 
-<img src="img/367-A   Emeljük Jézushoz szemünk [Original Size]_optimised.jpg">
-<img src="img/367-B   Emeljük Jézushoz szemünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/367-A   Emeljük Jézushoz szemünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/367-B   Emeljük Jézushoz szemünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23125,7 +23121,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 368. Dicséret
 
-<img src="img/368 Jövel Szentlélek Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/368 Jövel Szentlélek Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23166,7 +23162,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 369. Dicséret
 
-<img src="img/369 Jövel Szentlélek Úristen [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/369 Jövel Szentlélek Úristen [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23272,8 +23268,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 370. Dicséret
 
-<img src="img/370-A   Jövel Szentlélek Úr Isten [Original Size]_optimised.jpg">
-<img src="img/370-B   Jövel Szentlélek Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/370-A   Jövel Szentlélek Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/370-B   Jövel Szentlélek Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23315,7 +23311,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 371. Dicséret
 
-<img src="img/371 Jézus Krisztus egy Mesterünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/371 Jézus Krisztus egy Mesterünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23363,8 +23359,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 372. Dicséret
 
-<img src="img/372 Könyörögjünk [Original Size]_optimised.jpg">
-<img src="img/372-2      Ó Szentlélek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/372 Könyörögjünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/372-2      Ó Szentlélek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23432,7 +23428,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 373. Dicséret
 
-<img src="img/373 Jövel teremtő Szentlélek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/373 Jövel teremtő Szentlélek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23494,7 +23490,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 374. Dicséret
 
-<img src="img/374 E pünkösdnek jeles napján [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/374 E pünkösdnek jeles napján [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23542,7 +23538,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 375. Dicséret
 
-<img src="img/375 Jézus az ígéretet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/375 Jézus az ígéretet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23611,7 +23607,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 376. Dicséret
 
-<img src="img/376 Ó áldott Szentlélek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/376 Ó áldott Szentlélek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23657,8 +23653,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 377. Dicséret
 
-<img src="img/377-A       Szentlélek végy körül [Original Size]_optimised.jpg">
-<img src="img/377-B       Szentlélek végy körül [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/377-A       Szentlélek végy körül [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/377-B       Szentlélek végy körül [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23697,8 +23693,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 378. Dicséret
 
-<img src="img/378 Adjunk hálát mindnyájan [Original Size]_optimised.jpg">
-<img src="img/378-4      Világosits meg minket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/378 Adjunk hálát mindnyájan [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/378-4      Világosits meg minket [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23774,7 +23770,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 379. Dicséret
 
-<img src="img/379 Emlékezzél Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/379 Emlékezzél Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23823,9 +23819,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 380. Dicséret
 
-<img src="img/380 Semmit ne bánkódjál [Original Size]_optimised.jpg">
-<img src="img/380-3       Hogyha te igazán [Original Size]_optimised.jpg">
-<img src="img/380-7      Siess most mihozzánk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/380 Semmit ne bánkódjál [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/380-3       Hogyha te igazán [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/380-7      Siess most mihozzánk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -23931,11 +23927,11 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 381. Dicséret
 
-<img src="img/381 Jézus Krisztus mi kegyelmes [Original Size]_optimised.jpg">
-<img src="img/381-6    Védelmezzed a te kicsiny [Original Size]_optimised.jpg">
-<img src="img/381-7    Ne hagyj kérünk [Original Size]_optimised.jpg">
-<img src="img/381-8   Sőt légy erős [Original Size]_optimised.jpg">
-<img src="img/381-9   Szent az Atya [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/381 Jézus Krisztus mi kegyelmes [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/381-6    Védelmezzed a te kicsiny [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/381-7    Ne hagyj kérünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/381-8   Sőt légy erős [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/381-9   Szent az Atya [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24008,8 +24004,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 382. Dicséret
 
-<img src="img/382-A    Hogy panaszolkodik az [Original Size]_optimised.jpg">
-<img src="img/382-B    Hogy panaszolkodik az [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/382-A    Hogy panaszolkodik az [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/382-B    Hogy panaszolkodik az [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24102,7 +24098,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 383. Dicséret
 
-<img src="img/383 Könyörgünk néked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/383 Könyörgünk néked [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24180,8 +24176,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 384. Dicséret
 
-<img src="img/384 Sok inségünkben hozzád [Original Size]_optimised.jpg">
-<img src="img/384-5      Igéretedből te szent igédből [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/384 Sok inségünkben hozzád [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/384-5      Igéretedből te szent igédből [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24243,8 +24239,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 385. Dicséret
 
-<img src="img/385 Keserves szívvel [Original Size]_optimised.jpg">
-<img src="img/385-18    Téríts tehozzád [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/385 Keserves szívvel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/385-18    Téríts tehozzád [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24376,7 +24372,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 386. Dicséret
 
-<img src="img/386 Emlékezzél mi történek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/386 Emlékezzél mi történek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24477,7 +24473,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 387. Dicséret
 
-<img src="img/387 Úr Isten légy most [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/387 Úr Isten légy most [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24554,7 +24550,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 388. Dicséret
 
-<img src="img/388 Hallgasd meg Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/388 Hallgasd meg Jézus [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24660,7 +24656,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 389. Dicséret
 
-<img src="img/389 Jövel légy vélünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/389 Jövel légy vélünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24762,7 +24758,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 390. Dicséret
 
-<img src="img/390 Erős vár a mi Istenünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/390 Erős vár a mi Istenünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24808,8 +24804,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 391. Dicséret
 
-<img src="img/391 Vedd el Úr Isten [Original Size]_optimised.jpg">
-<img src="img/391-7     Végye el rólunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/391 Vedd el Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/391-7     Végye el rólunk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24866,8 +24862,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 392. Dicséret
 
-<img src="img/392 Az egyháznak a Jézus [Original Size]_optimised.jpg">
-<img src="img/392-2      Kihívott minden népből [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/392 Az egyháznak a Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/392-2      Kihívott minden népből [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24921,8 +24917,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 393. Dicséret
 
-<img src="img/393-A   Ne csüggedj el kicsiny sereg [Original Size]_optimised.jpg">
-<img src="img/393-B   Ne csüggedj el kicsiny sereg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/393-A   Ne csüggedj el kicsiny sereg [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/393-B   Ne csüggedj el kicsiny sereg [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -24958,8 +24954,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 394. Dicséret
 
-<img src="img/394 Térj magadhoz drága Síon [Original Size]_optimised.jpg">
-<img src="img/394-5 Bár hordozzad zsarnok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/394 Térj magadhoz drága Síon [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/394-5 Bár hordozzad zsarnok [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25053,7 +25049,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 395. Dicséret
 
-<img src="img/395 Isten szívén megpihenve [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/395 Isten szívén megpihenve [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25092,7 +25088,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 396. Dicséret
 
-<img src="img/396 Ébredj bizonyságtévő [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/396 Ébredj bizonyságtévő [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25125,8 +25121,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 397. Dicséret
 
-<img src="img/397 Ó Sion ébredj [Original Size]_optimised.jpg">
-<img src="img/397-2     Lásd millióknak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/397 Ó Sion ébredj [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/397-2     Lásd millióknak [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25178,7 +25174,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 398. Dicséret
 
-<img src="img/398 Úr lesz a Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/398 Úr lesz a Jézus [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25219,9 +25215,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 399. Dicséret
 
-<img src="img/399 Im hol vagyok édes Uram [Original Size]_optimised.jpg">
-<img src="img/399-11       Istennek ez oly nemes ajándéka [Original Size]_optimised.jpg">
-<img src="img/399-6    Egy keveset most [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/399 Im hol vagyok édes Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/399-11       Istennek ez oly nemes ajándéka [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/399-6    Egy keveset most [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25348,7 +25344,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 400. Dicséret
 
-<img src="img/400 Hagyjátok el hív keresztyének [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/400 Hagyjátok el hív keresztyének [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25403,7 +25399,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 401. Dicséret
 
-<img src="img/401 Szívem szerint kívánom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/401 Szívem szerint kívánom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25475,7 +25471,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 402. Dicséret
 
-<img src="img/402 Ó örök hatalmú [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/402 Ó örök hatalmú [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25500,7 +25496,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 403. Dicséret
 
-<img src="img/403 Szomorú a halál [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/403 Szomorú a halál [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25579,7 +25575,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 404. Dicséret
 
-<img src="img/404 Jaj mely hamar múlik [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/404 Jaj mely hamar múlik [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25634,7 +25630,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 405. Dicséret
 
-<img src="img/405 Minden ember csak halandó [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/405 Minden ember csak halandó [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25695,7 +25691,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 406. Dicséret
 
-<img src="img/406 Én Istenem benned bízom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/406 Én Istenem benned bízom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25773,7 +25769,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 407. Dicséret
 
-<img src="img/407 Itt nincs igazi boldogság [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/407 Itt nincs igazi boldogság [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25807,7 +25803,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 408. Dicséret
 
-<img src="img/408 Seregeknek szent Istene [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/408 Seregeknek szent Istene [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25855,7 +25851,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 409. Dicséret
 
-<img src="img/409 Utas vagyok e világban [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/409 Utas vagyok e világban [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25924,8 +25920,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 410. Dicséret
 
-<img src="img/410-A   Csak vándorút az életem [Original Size]_optimised.jpg">
-<img src="img/410-B   Csak vándorút az életem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/410-A   Csak vándorút az életem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/410-B   Csak vándorút az életem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25953,7 +25949,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 411. Dicséret
 
-<img src="img/411 Nem sokáig tart már [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/411 Nem sokáig tart már [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -25982,7 +25978,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 412. Dicséret
 
-<img src="img/412 Porok vagyunk porrá lészünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/412 Porok vagyunk porrá lészünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26094,7 +26090,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 414. Dicséret
 
-<img src="img/414 Megszabadultam már [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/414 Megszabadultam már [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26151,7 +26147,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 415. Dicséret
 
-<img src="img/415 Jer temessük el a testet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/415 Jer temessük el a testet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26213,7 +26209,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 416. Dicséret
 
-<img src="img/416 Krisztus én életemnek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/416 Krisztus én életemnek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26337,7 +26333,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 419. Dicséret
 
-<img src="img/419 Már elmégyek az örömbe [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/419 Már elmégyek az örömbe [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26439,7 +26435,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 420. Dicséret
 
-<img src="img/420 Életemnek végső napját [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/420 Életemnek végső napját [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26550,8 +26546,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 421. Dicséret
 
-<img src="img/421-A   Tudom az én Megváltóm él [Original Size]_optimised.jpg">
-<img src="img/421-B   Tudom az én Megváltóm él [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/421-A   Tudom az én Megváltóm él [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/421-B   Tudom az én Megváltóm él [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26609,8 +26605,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 422. Dicséret
 
-<img src="img/422 Hadd menjek Istenem [Original Size]_optimised.jpg">
-<img src="img/422-3       Szívemtől trónodig [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/422 Hadd menjek Istenem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/422-3       Szívemtől trónodig [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26671,7 +26667,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 423. Dicséret
 
-<img src="img/423 Akik bíznak az Úr Istenben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/423 Akik bíznak az Úr Istenben [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26785,8 +26781,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 425. Dicséret
 
-<img src="img/425 Ó Ábrahám Ura [Original Size]_optimised.jpg">
-<img src="img/425-3    Ó Ábrahám Ura [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/425 Ó Ábrahám Ura [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/425-3    Ó Ábrahám Ura [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26825,8 +26821,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 426. Dicséret
 
-<img src="img/426-A       Már keresztem vállra vettem [Original Size]_optimised.jpg">
-<img src="img/426-B       Már keresztem vállra vettem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/426-A       Már keresztem vállra vettem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/426-B       Már keresztem vállra vettem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26876,8 +26872,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 427. Dicséret
 
-<img src="img/427 Lelkem hozzád kíván [Original Size]_optimised.jpg">
-<img src="img/427-8       Tudom hogy a [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/427 Lelkem hozzád kíván [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/427-8       Tudom hogy a [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26954,7 +26950,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 428. Dicséret
 
-<img src="img/428 Látod Úr Isten szívünket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/428 Látod Úr Isten szívünket [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -26995,14 +26991,14 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 429. Dicséret
 
-<img src="img/429-2-A       Szent beszédének [Original Size]_optimised.jpg">
-<img src="img/429-2-B       Szent beszédének [Original Size]_optimised.jpg">
-<img src="img/429-3-A       Sőt hogy még inkább [Original Size]_optimised.jpg">
-<img src="img/429-3-B       Sőt hogy még inkább [Original Size]_optimised.jpg">
-<img src="img/429-4-A    Csak az szívemnek [Original Size]_optimised.jpg">
-<img src="img/429-4-B    Csak az szívemnek [Original Size]_optimised.jpg">
-<img src="img/429-A        Az Úr énnékem hűséges vezérem [Original Size]_optimised.jpg">
-<img src="img/429-B        Az Úr énnékem hűséges vezérem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/429-2-A       Szent beszédének [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/429-2-B       Szent beszédének [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/429-3-A       Sőt hogy még inkább [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/429-3-B       Sőt hogy még inkább [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/429-4-A    Csak az szívemnek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/429-4-B    Csak az szívemnek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/429-A        Az Úr énnékem hűséges vezérem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/429-B        Az Úr énnékem hűséges vezérem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27045,8 +27041,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 430. Dicséret
 
-<img src="img/430-A    Úr Jézus idvesség fejedelme [Original Size]_optimised.jpg">
-<img src="img/430-B    Úr Jézus idvesség fejedelme [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/430-A    Úr Jézus idvesség fejedelme [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/430-B    Úr Jézus idvesség fejedelme [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27106,8 +27102,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 431. Dicséret
 
-<img src="img/431-A        Úr Isten kérünk [Original Size]_optimised.jpg">
-<img src="img/431-B        Úr Isten kérünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/431-A        Úr Isten kérünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/431-B        Úr Isten kérünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27125,7 +27121,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 432. Dicséret
 
-<img src="img/432 Mi kegyes Atyánk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/432 Mi kegyes Atyánk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27196,8 +27192,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 433. Dicséret
 
-<img src="img/433-A   Áldjad én lelkem [Original Size]_optimised.jpg">
-<img src="img/433-B   Áldjad én lelkem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/433-A   Áldjad én lelkem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/433-B   Áldjad én lelkem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27257,7 +27253,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 434. Dicséret
 
-<img src="img/434 Vezess Jézusunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/434 Vezess Jézusunk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27299,7 +27295,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 435. Dicséret
 
-<img src="img/435 Lelkem siet hozzád menni [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/435 Lelkem siet hozzád menni [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27323,8 +27319,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 436. Dicséret
 
-<img src="img/436 Örülj szívem Vígadj lelkem [Original Size]_optimised.jpg">
-<img src="img/436-2 Ha bűnödért Halálos bért [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/436 Örülj szívem Vígadj lelkem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/436-2 Ha bűnödért Halálos bért [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27393,10 +27389,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 437. Dicséret
 
-<img src="img/437-5-A    Nincs is egyébben oltalmunk [Original Size]_optimised.jpg">
-<img src="img/437-5-B    Nincs is egyébben oltalmunk [Original Size]_optimised.jpg">
-<img src="img/437-A   Ó Jézus mi idvességünk [Original Size]_optimised.jpg">
-<img src="img/437-B   Ó Jézus mi idvességünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/437-5-A    Nincs is egyébben oltalmunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/437-5-B    Nincs is egyébben oltalmunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/437-A   Ó Jézus mi idvességünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/437-B   Ó Jézus mi idvességünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27457,14 +27453,14 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 438. Dicséret
 
-<img src="img/438-5A         Azért már minket [Original Size]_optimised.jpg">
-<img src="img/438-5B         Azért már minket [Original Size]_optimised.jpg">
-<img src="img/438-6A    Szállj le most mennyből [Original Size]_optimised.jpg">
-<img src="img/438-6B    Szállj le most mennyből [Original Size]_optimised.jpg">
-<img src="img/438-8A       Adjad egymás közt [Original Size]_optimised.jpg">
-<img src="img/438-8B       Adjad egymás közt [Original Size]_optimised.jpg">
-<img src="img/438-A  Hallottuk Jézus [Original Size]_optimised.jpg">
-<img src="img/438-B      Hallottuk Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/438-5A         Azért már minket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/438-5B         Azért már minket [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/438-6A    Szállj le most mennyből [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/438-6B    Szállj le most mennyből [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/438-8A       Adjad egymás közt [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/438-8B       Adjad egymás közt [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/438-A  Hallottuk Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/438-B      Hallottuk Jézus [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27574,8 +27570,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 439. Dicséret
 
-<img src="img/439-A  Én lelkem ébredj fel [Original Size]_optimised.jpg">
-<img src="img/439-B  Én lelkem ébredj fel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/439-A  Én lelkem ébredj fel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/439-B  Én lelkem ébredj fel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27658,12 +27654,12 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 440. Dicséret
 
-<img src="img/440-14-A     Add Úr Jézus [Original Size]_optimised.jpg">
-<img src="img/440-14-B     Add Úr Jézus [Original Size]_optimised.jpg">
-<img src="img/440-9A     Ez egyszerű vendégségben [Original Size]_optimised.jpg">
-<img src="img/440-9B     Ez egyszerű vendégségben [Original Size]_optimised.jpg">
-<img src="img/440-A    Jer lássuk az Úr keresztjét [Original Size]_optimised.jpg">
-<img src="img/440-B    Jer lássuk az Úr keresztjét [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/440-14-A     Add Úr Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/440-14-B     Add Úr Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/440-9A     Ez egyszerű vendégségben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/440-9B     Ez egyszerű vendégségben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/440-A    Jer lássuk az Úr keresztjét [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/440-B    Jer lássuk az Úr keresztjét [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27823,7 +27819,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 441. Dicséret
 
-<img src="img/441 Kegyes Jézus én imádságomra [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/441 Kegyes Jézus én imádságomra [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -27926,7 +27922,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 442. Dicséret
 
-<img src="img/442 Idvességünk váltságunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/442 Idvességünk váltságunk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28005,8 +28001,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 443. Dicséret
 
-<img src="img/443-A      Lelkem adj dolgot [Original Size]_optimised.jpg">
-<img src="img/443-B      Lelkem adj dolgot [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/443-A      Lelkem adj dolgot [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/443-B      Lelkem adj dolgot [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28087,7 +28083,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 444. Dicséret
 
-<img src="img/444  Ó Istennek választott [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/444  Ó Istennek választott [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28150,8 +28146,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 445. Dicséret
 
-<img src="img/445 Szólsz hozzám Istenem [Original Size]_optimised.jpg">
-<img src="img/445-6     Nagy lelked élt Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/445 Szólsz hozzám Istenem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/445-6     Nagy lelked élt Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28219,8 +28215,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 446. Dicséret
 
-<img src="img/446-A  Uram bocsásd el népedet [Original Size]_optimised.jpg">
-<img src="img/446-B  Uram bocsásd el népedet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/446-A  Uram bocsásd el népedet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/446-B  Uram bocsásd el népedet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28244,7 +28240,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 447. Dicséret
 
-<img src="img/447 Uram bocsásd el szolgádat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/447 Uram bocsásd el szolgádat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28268,8 +28264,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 448. Dicséret
 
-<img src="img/448 Hirdetvén az Úr halálát [Original Size]_optimised.jpg">
-<img src="img/448-4      Kérünk Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/448 Hirdetvén az Úr halálát [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/448-4      Kérünk Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28324,7 +28320,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 449. Dicséret
 
-<img src="img/449 Uram téged tisztellek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/449 Uram téged tisztellek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28420,7 +28416,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 450. Dicséret
 
-<img src="img/450 Drága dolog az Úr Istent dícsérni [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/450 Drága dolog az Úr Istent dícsérni [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28461,7 +28457,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 451. Dicséret
 
-<img src="img/451 Száma nincsen Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/451 Száma nincsen Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28505,7 +28501,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 452. Dicséret
 
-<img src="img/452 Jézus édes emlékezet [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/452 Jézus édes emlékezet [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28567,7 +28563,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 453. Dicséret
 
-<img src="img/453 Hozzád kiáltok én Istenem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/453 Hozzád kiáltok én Istenem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28629,7 +28625,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 454. Dicséret
 
-<img src="img/454  Ez a világ csak baj halma [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/454  Ez a világ csak baj halma [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28656,9 +28652,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 455. Dicséret
 
-<img src="img/455 Testvérek menjünk bátran [Original Size]_optimised.jpg">
-<img src="img/455-2   A keskeny útra térünk [Original Size]_optimised.jpg">
-<img src="img/455-7      Ha botlanak a gyöngék [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/455 Testvérek menjünk bátran [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/455-2   A keskeny útra térünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/455-7      Ha botlanak a gyöngék [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28763,7 +28759,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 456. Dicséret
 
-<img src="img/456 Hatalmas Isten könyörgünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/456 Hatalmas Isten könyörgünk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28820,7 +28816,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 457. Dicséret
 
-<img src="img/457 Ó Jézus árva csendben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/457 Ó Jézus árva csendben [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28859,7 +28855,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 458. Dicséret
 
-<img src="img/458 Aki értem megnyíltál [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/458 Aki értem megnyíltál [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28901,7 +28897,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 459. Dicséret
 
-<img src="img/459 Az Isten Bárányára [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/459 Az Isten Bárányára [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -28950,7 +28946,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 460. Dicséret
 
-<img src="img/460 Amint vagyok sok bűn alatt [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/460 Amint vagyok sok bűn alatt [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29001,7 +28997,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 461. Dicséret
 
-<img src="img/461 Bár bűn és kín gyötör [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/461 Bár bűn és kín gyötör [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29050,7 +29046,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 462. Dicséret
 
-<img src="img/462 Csak vezess Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/462 Csak vezess Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29080,7 +29076,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 463. Dicséret
 
-<img src="img/463 Isten élő Lelke jőjj [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/463 Isten élő Lelke jőjj [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29116,7 +29112,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 464. Dicséret
 
-<img src="img/464 Jőjj királyom Jézusom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/464 Jőjj királyom Jézusom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29164,8 +29160,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 465. Dicséret
 
-<img src="img/465 Szelid szemed Úr Jézus [Original Size]_optimised.jpg">
-<img src="img/465-2    Szelid szemed Úr Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/465 Szelid szemed Úr Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/465-2    Szelid szemed Úr Jézus [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29199,7 +29195,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 466. Dicséret
 
-<img src="img/466 Rád tekint már hitem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/466 Rád tekint már hitem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29245,7 +29241,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 467. Dicséret
 
-<img src="img/467 Mily jó ha bűntől már szabad [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/467 Mily jó ha bűntől már szabad [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29286,7 +29282,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 468. Dicséret
 
-<img src="img/468 Zengd Jézus nevét [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/468 Zengd Jézus nevét [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29334,9 +29330,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 469. Dicséret
 
-<img src="img/469 Jézus nyájas és szelíd [Original Size]_optimised.jpg">
-<img src="img/469-2  Bűnöm láncát oldja fel [Original Size]_optimised.jpg">
-<img src="img/469-3 Szabadságot adj nekem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/469 Jézus nyájas és szelíd [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/469-2  Bűnöm láncát oldja fel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/469-3 Szabadságot adj nekem [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29376,8 +29372,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 470. Dicséret
 
-<img src="img/470 Úr Jézus nézz le rám [Original Size]_optimised.jpg">
-<img src="img/470-3   Úr Jézus nézz le rám [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/470 Úr Jézus nézz le rám [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/470-3   Úr Jézus nézz le rám [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29418,7 +29414,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 471. Dicséret
 
-<img src="img/471 Fel barátim drága Jézus [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/471 Fel barátim drága Jézus [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29462,8 +29458,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 472. Dicséret
 
-<img src="img/472-A       Mennyit zengi a lelki békét [Original Size]_optimised.jpg">
-<img src="img/472-B       Mennyit zengi a lelki békét [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/472-A       Mennyit zengi a lelki békét [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/472-B       Mennyit zengi a lelki békét [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29524,8 +29520,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 473. Dicséret
 
-<img src="img/473 Emeld fel szíved [Original Size]_optimised.jpg">
-<img src="img/473-6    A te atyádat és anyádat [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/473 Emeld fel szíved [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/473-6    A te atyádat és anyádat [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29596,7 +29592,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 474. Dicséret
 
-<img src="img/474 Istennel járni lakozni [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/474 Istennel járni lakozni [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29610,7 +29606,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 475. Dicséret
 
-<img src="img/475 Imádkozzatok és buzgón kérjetek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/475 Imádkozzatok és buzgón kérjetek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29637,8 +29633,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 476. Dicséret
 
-<img src="img/476 Siess nagy Úr Isten [Original Size]_optimised.jpg">
-<img src="img/476-7 Bízvást merek azért [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/476 Siess nagy Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/476-7 Bízvást merek azért [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29786,7 +29782,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 478. Dicséret
 
-<img src="img/478 Ó irgalmas Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/478 Ó irgalmas Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29846,7 +29842,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 479. Dicséret
 
-<img src="img/479 Hinni taníts Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/479 Hinni taníts Uram [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29888,10 +29884,10 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 480. Dicséret
 
-<img src="img/480-4-A      Ha templomban megjelenek [Original Size]_optimised.jpg">
-<img src="img/480-4-B      Ha templomban megjelenek [Original Size]_optimised.jpg">
-<img src="img/480-A     Ó könyörgést meghallgató [Original Size]_optimised.jpg">
-<img src="img/480-B     Ó könyörgést meghallgató [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/480-4-A      Ha templomban megjelenek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/480-4-B      Ha templomban megjelenek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/480-A     Ó könyörgést meghallgató [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/480-B     Ó könyörgést meghallgató [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29953,8 +29949,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 481. Dicséret
 
-<img src="img/481-A   Ó felséges Úr egek királya [Original Size]_optimised.jpg">
-<img src="img/481-B   Ó felséges Úr egek királya [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/481-A   Ó felséges Úr egek királya [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/481-B   Ó felséges Úr egek királya [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -29995,8 +29991,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 482. Dicséret
 
-<img src="img/482 Mi kegyes Atyánk [Original Size]_optimised.jpg">
-<img src="img/482-5 Természetünket ne hagyjad [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/482 Mi kegyes Atyánk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/482-5 Természetünket ne hagyjad [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30075,7 +30071,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 483. Dicséret
 
-<img src="img/483 Mennybéli felséges Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/483 Mennybéli felséges Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30244,7 +30240,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 484. Dicséret
 
-<img src="img/484 Mi Atyánk ó kegyes Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/484 Mi Atyánk ó kegyes Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30277,7 +30273,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 485. Dicséret
 
-<img src="img/485 Jézus Krisztus szép fényes hajnal [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/485 Jézus Krisztus szép fényes hajnal [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30313,9 +30309,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 486. Dicséret
 
-<img src="img/486 Szívem megalázván [Original Size]_optimised.jpg">
-<img src="img/486-7  Jól tudod Istenem [Original Size]_optimised.jpg">
-<img src="img/486-9       Magamat egészen [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/486 Szívem megalázván [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/486-7  Jól tudod Istenem [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/486-9       Magamat egészen [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30389,16 +30385,16 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 487. Dicséret
 
-<img src="img/487-2-A    Szívből könyörgök [Original Size]_optimised.jpg">
-<img src="img/487-2-B    Szívből könyörgök [Original Size]_optimised.jpg">
-<img src="img/487-3-A    Igaz utadra taníts [Original Size]_optimised.jpg">
-<img src="img/487-3-B    Igaz utadra taníts [Original Size]_optimised.jpg">
-<img src="img/487-6-A    Szent igédet vallanom [Original Size]_optimised.jpg">
-<img src="img/487-6-B    Szent igédet vallanom [Original Size]_optimised.jpg">
-<img src="img/487-8-A    Uram egyedül vagy jó [Original Size]_optimised.jpg">
-<img src="img/487-8-B    Uram egyedül vagy jó [Original Size]_optimised.jpg">
-<img src="img/487-A     Magasztallak én téged [Original Size]_optimised.jpg">
-<img src="img/487-B     Magasztallak én téged [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/487-2-A    Szívből könyörgök [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/487-2-B    Szívből könyörgök [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/487-3-A    Igaz utadra taníts [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/487-3-B    Igaz utadra taníts [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/487-6-A    Szent igédet vallanom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/487-6-B    Szent igédet vallanom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/487-8-A    Uram egyedül vagy jó [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/487-8-B    Uram egyedül vagy jó [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/487-A     Magasztallak én téged [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/487-B     Magasztallak én téged [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30503,8 +30499,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 488. Dicséret
 
-<img src="img/488-A  Szent vagy  szent vagy [Original Size]_optimised.jpg">
-<img src="img/488-B  Szent vagy  szent vagy [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/488-A  Szent vagy  szent vagy [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/488-B  Szent vagy  szent vagy [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30547,7 +30543,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 489. Dicséret
 
-<img src="img/489 Örök élet reggele [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/489 Örök élet reggele [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30589,7 +30585,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 490. Dicséret
 
-<img src="img/490 Igaz Bíró nagy Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/490 Igaz Bíró nagy Úr Isten [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30658,7 +30654,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 491. Dicséret
 
-<img src="img/491 A nap immár felviradván [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/491 A nap immár felviradván [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30699,13 +30695,13 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 492. Dicséret
 
-<img src="img/492 Felséges Atya Úr Isten [Original Size]_optimised.jpg">
-<img src="img/492-2  Bűneinket megbocsássad [Original Size]_optimised.jpg">
-<img src="img/492-3  Hogy ne ártson [Original Size]_optimised.jpg">
-<img src="img/492-4  Adjad meg nekünk [Original Size]_optimised.jpg">
-<img src="img/492-5  Lelkünket és ... [Original Size]_optimised.jpg">
-<img src="img/492-6  Engedd ezt [Original Size]_optimised.jpg">
-<img src="img/492-7  Hálákat adunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/492 Felséges Atya Úr Isten [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/492-2  Bűneinket megbocsássad [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/492-3  Hogy ne ártson [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/492-4  Adjad meg nekünk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/492-5  Lelkünket és ... [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/492-6  Engedd ezt [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/492-7  Hálákat adunk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30760,11 +30756,11 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 493. Dicséret
 
-<img src="img/493 Dícsérlek Uram téged [Original Size]_optimised.jpg">
-<img src="img/493-4      Adjad, hogy erős hittel [Original Size]_optimised.jpg">
-<img src="img/493-5      Szeress jó reménységgel [Original Size]_optimised.jpg">
-<img src="img/493-6    Engedd hogy szent igédben [Original Size]_optimised.jpg">
-<img src="img/493-7    Hogy szent dicséretedre [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/493 Dícsérlek Uram téged [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/493-4      Adjad, hogy erős hittel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/493-5      Szeress jó reménységgel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/493-6    Engedd hogy szent igédben [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/493-7    Hogy szent dicséretedre [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30847,8 +30843,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 494. Dicséret
 
-<img src="img/494-A   Tenéked Uram hálát adok [Original Size]_optimised.jpg">
-<img src="img/494-B   Tenéked Uram hálát adok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/494-A   Tenéked Uram hálát adok [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/494-B   Tenéked Uram hálát adok [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30898,8 +30894,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 495. Dicséret
 
-<img src="img/495-A   Hálát adok néked [Original Size]_optimised.jpg">
-<img src="img/495-B   Hálát adok néked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/495-A   Hálát adok néked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/495-B   Hálát adok néked [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30943,7 +30939,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 496. Dicséret
 
-<img src="img/496 Hálát adunk néked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/496 Hálát adunk néked [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -30998,8 +30994,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 497. Dicséret
 
-<img src="img/497 Mi szent Atyánk [Original Size]_optimised.jpg">
-<img src="img/497-7    A te Szentlelked [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/497 Mi szent Atyánk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/497-7    A te Szentlelked [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31057,12 +31053,12 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 498. Dicséret
 
-<img src="img/498-4-A      A te erőd ó Mindenható [Original Size]_optimised.jpg">
-<img src="img/498-4-B      A te erőd ó Mindenható [Original Size]_optimised.jpg">
-<img src="img/498-5-A      Adjad, hogy tartsuk [Original Size]_optimised.jpg">
-<img src="img/498-5-B      Adjad, hogy tartsuk [Original Size]_optimised.jpg">
-<img src="img/498-A    Ki hívta az éjszakát elő [Original Size]_optimised.jpg">
-<img src="img/498-B    Ki hívta az éjszakát elő [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/498-4-A      A te erőd ó Mindenható [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/498-4-B      A te erőd ó Mindenható [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/498-5-A      Adjad, hogy tartsuk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/498-5-B      Adjad, hogy tartsuk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/498-A    Ki hívta az éjszakát elő [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/498-B    Ki hívta az éjszakát elő [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31123,15 +31119,15 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 499. Dicséret
 
-<img src="img/499 Megújult testtel és erővel [Original Size]_optimised.jpg">
-<img src="img/499-4-A   Minthogy míg e világon élek [Original Size]_optimised.jpg">
-<img src="img/499-4-B   Minthogy míg e világon élek [Original Size]_optimised.jpg">
-<img src="img/499-5-A   Ha pedig még [Original Size]_optimised.jpg">
-<img src="img/499-5-B   Ha pedig még [Original Size]_optimised.jpg">
-<img src="img/499-6-A   Dolgaimnak követésére [Original Size]_optimised.jpg">
-<img src="img/499-6-B   Dolgaimnak követésére [Original Size]_optimised.jpg">
-<img src="img/499-A   Megújult testtel és erővel [Original Size]_optimised.jpg">
-<img src="img/499-B   Megújult testtel és erővel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/499 Megújult testtel és erővel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/499-4-A   Minthogy míg e világon élek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/499-4-B   Minthogy míg e világon élek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/499-5-A   Ha pedig még [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/499-5-B   Ha pedig még [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/499-6-A   Dolgaimnak követésére [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/499-6-B   Dolgaimnak követésére [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/499-A   Megújult testtel és erővel [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/499-B   Megújult testtel és erővel [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31203,7 +31199,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 500. Dicséret
 
-<img src="img/500 Krisztus ki vagy nap és világ [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/500 Krisztus ki vagy nap és világ [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31265,7 +31261,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 501. Dicséret
 
-<img src="img/501 Adjunk hálát az Úrnak [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/501 Adjunk hálát az Úrnak [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31313,7 +31309,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 502. Dicséret
 
-<img src="img/502 Fölkelt immár a szép hold [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/502 Fölkelt immár a szép hold [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31373,7 +31369,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 503. Dicséret
 
-<img src="img/503 Már nyúgosznak a völgyek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/503 Már nyúgosznak a völgyek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31451,8 +31447,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 504. Dicséret
 
-<img src="img/504-A   A nap immár elenyészett [Original Size]_optimised.jpg">
-<img src="img/504-B   A nap immár elenyészett [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/504-A   A nap immár elenyészett [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/504-B   A nap immár elenyészett [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31513,8 +31509,8 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 505. Dicséret
 
-<img src="img/505-A   Adjunk hálát megtartó Istenünknek [Original Size]_optimised.jpg">
-<img src="img/505-B   Adjunk hálát megtartó Istenünknek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/505-A   Adjunk hálát megtartó Istenünknek [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/505-B   Adjunk hálát megtartó Istenünknek [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31575,7 +31571,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 506. Dicséret
 
-<img src="img/506 Jézus Krisztus szentek reménye [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/506 Jézus Krisztus szentek reménye [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31641,7 +31637,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 507. Dicséret
 
-<img src="img/507 Néked mennyei Atyánk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/507 Néked mennyei Atyánk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31686,7 +31682,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 508. Dicséret
 
-<img src="img/508 Nagy hálát adunk [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/508 Nagy hálát adunk [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31761,7 +31757,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 509. Dicséret
 
-<img src="img/509 Ne jőjjön addig szememre álom [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/509 Ne jőjjön addig szememre álom [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31832,7 +31828,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 510. Dicséret
 
-<img src="img/510 Ó lelkem szent napsugara [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/510 Ó lelkem szent napsugara [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31880,7 +31876,7 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 511. Dicséret
 
-<img src="img/511 Maradj velem mert mindjárt este van [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/511 Maradj velem mert mindjárt este van [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31922,9 +31918,9 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 ### 512. Dicséret
 
-<img src="img/512 Szólj szólj hozzám Uram [Original Size]_optimised.jpg">
-<img src="img/512-2       Adj lelkedből erőt [Original Size]_optimised.jpg">
-<img src="img/512-4      Te nagy csodáidról [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/512 Szólj szólj hozzám Uram [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/512-2       Adj lelkedből erőt [Original Size]_optimised.jpg">
+<img loading="lazy" src="img/512-4      Te nagy csodáidról [Original Size]_optimised.jpg">
 
 
 #### 1. vers
@@ -31979,3056 +31975,11 @@ OpenSong formátumban is elérhető [itt.](https://github.com/RedyAu/OpenSong/tr
 
 #### 6. vers
 
- 
-<hr />
+ Szólj és csitítsd a bút, \
+ mert bú és kín gyötörnek, \
+ Szólj, hogy legyen szavad \
+ ír s gyógyító erő; \
+ Szólj, dicsőséged úgy \
+ még szebben tündökölhet, \
+ /: És mindörökre nő. :/
 
- Isten, \
- Segíts meg minket ügyünkben;\
- Adj erőt az ellenségen, \
- Mely reánk tör mind szüntelen, \
- Háborgat minket hitünkben.
-
-#### 2. vers
-
- Bízik ő sokaságában, \
- Fegyverében, jó lovában, \
- Elhitte már ő magában, \
- Hogy nincsen már e világban, \
- Ki megrontsa hatalmában.
-
-#### 3. vers
-
- Bátran kergeti népedet,\
- Ostorozza híveidet, \
- Pusztítja örökségedet, \
- Ostromolja seregedet, \
- Nem féli büntetésedet.
-
-#### 4. vers
-
- Azért tenéked könyörgünk: \
- Támadj fel most mi mellettünk, \
- Emeld fel zászlódat köztünk, \
- Viadalmunkban légy velünk: \
- Biztass, hogy meg ne rettenjünk.
-
-#### 5. vers
-
- Bátorítsad mi szívünket,\
- Igazgassad fegyverünket, \
- Tőlünk el ne vedd eszünket, \
- Egyengessed seregünket: \
- Rettentsd meg ellenségünket.
-
-#### 6. vers
-
- Nékünk nincs annyi hatalmunk, \
- Hogy ő ellene állhassunk; \
- Te légy azért mi oltalmunk, \
- Fegyverük ellen paizsunk, \
- Erősségünk, diadalmunk.
-
-#### 7. vers
-
- Nem sokaság a mi erőnk: \
- Egyedül te vagy reményünk! \
- Noha sokan nem lehetünk, \
- Ha te velünk vagy, nem félünk: \
- Sokat kevesen megverünk.
-
-#### 8. vers
-
- Gyakorta kevés nép által \
- Nagy hadakat levágatál, \
- Erőseket letapodtál, \
- Kevélyeknek torkán jártál, \
- Kegyetleneket rontottál.
-
-#### 9. vers
-
- Ők vívnak uralkodásért, \
- Prédáért, ragadományért; \
- Mi hitünkért, szent nevedért, \
- Özvegyekért és árvákért, \
- Megromlott édes hazánkért.
-
-#### 10. vers
-
- Ne mondják azt mi felőlünk, \
- Hogy nékünk nincsen Istenünk: \
- Mutasd meg erődet bennünk, \
- Viaskodjál együtt velünk, \
- Magasztald fel kezed köztünk!
-
-#### 11. vers
-
- Hogy mindenek, kik ezt hallják, \
- Győzedelmedet csudálják, \
- Jóvoltodat magasztalják, \
- Hatalmasságodat áldják,\
- Erődet meg ne útálják.
-
-#### 12. vers
-
- Mi is innen visszatérvén, \
- Jó szerencsénken örülvén \
- Adunk hálát, felemelvén \
- Szemeinket, és dicsérvén \
- Téged mind örökké, Ámen.
-<hr />
-
-### 390. Dicséret
-
-
-
-#### 1. vers
-
- Erős vár a mi Istenünk,\
- Jó fegyverünk és pajzsunk, :/: \
- Ha ő velünk, ki ellenünk? \
- Az Úr a mi oltalmunk. \
- Az ős ellenség Most is üldöz még, \
- Nagy a serege, Csalárdság fegyvere, \
- Nincs ilyen több a földön.
-
-#### 2. vers
-
- Erőnk magában mit sem ér, \
- Mi csakhamar elesnénk; :/: \
- De küzd értünk a hős vezér, \
- Kit Isten rendelt mellénk. \
- Kérdezed: ki az? Jézus Krisztus az,\
- Isten szent Fia, Az ég és föld Ura, \
- Ő a mi diadalmunk.
-
-#### 3. vers
-
- E világ minden ördöge \
- Ha elnyelni akarna, :/: \
- Minket meg nem rémítene, \
- Mirajtunk nincs hatalma. \
- E világ ura Gyúljon bosszúra: \
- Nincs ereje már, Reá ítélet vár: \
- Az Ige porba dönti.
-
-#### 4. vers
-
- Az ige kőszálként megáll,\
- Megszégyenül, ki bántja; :/:\
- Velünk az Úr táborba száll, \
- Szent Lelkét ránk bocsátja. \
- Kincset, életet, Hitvest, gyermeket \
- Mind elvehetik, Mit ér ez ő nekik? \
- Miénk a menny örökre.
-<hr />
-
-### 391. Dicséret
-
-
-
-#### 1. vers
-
- Vedd el, Úr Isten, rólunk haragodat, \
- És a te kemény, véres ostorodat; \
- Nagy bűneinkért mireánk ne ontsad \
- Bosszúállásodat.
-
-#### 2. vers
-
- Ha bűnünk szerint kezdünk mi fizetni, \
- Ítéletedet nem állhatja senki, \
- Mint e világnak első veszedelmi \
- Nékünk megjelenti.
-
-#### 3. vers
-
- Mire mireánk gerjedez haragod, \
- Ó, mi szent Atyánk, rajtunk nagy \
- csapásod? \
- Kik nem különbek vagyunk, mint \
- árnyékok, \
- Rothadandó porok. 
-
-#### 4. vers
-
- Megfertőztettünk atyáink vétkével \
- És gyarló lelkünk-testünk sok sebével; \
- Mi romlásunkat, nagy veszedelmünket \
- Nézd kegyelmes szemmel.
-
-#### 5. vers
-
- Adjad minékünk a te Szentlelkedet: \
- Ismerhessük meg mi Közbenjárónkat, \
- Mert megismertük mi gonoszságinkat: \
- Vedd el haragodat.
-
-#### 6. vers
-
- Ne hagyd elveszni ilyen nagy munkáját, \
- Ne hagyd hiába az ő szent halálát, \
- A mi Urunknak keserves nagy kínját, \
- Az ő áldozatját.
-
-#### 7. vers
-
- Végye el rólunk a mi bűneinket, \
- És mosogassa vérével vétkünket \
- Ő, ki Atyjával és a Szentlélekkel \
- Bizony örök Isten. 
-<hr />
-
-### 392. Dicséret
-
-
-
-#### 1. vers
-
- Az egyháznak a Jézus a fundámentoma, \
- A szent Igére épült fel lelki temploma. \
- Leszállt a mennyből hívni és eljegyezni \
- őt, \
- Megváltva drága vérén a váltságban \
- hívőt.
-
-#### 2. vers
-
- Kihívott minden népből egy lelki népet \
- itt, \
- Kit egy Úr, egy keresztség és egy hit \
- egyesít. \
- Csak egy nevet magasztal, csak egy cél \
- vonja őt, \
- És egy terített asztal ád néki új erőt.
-
-#### 3. vers
-
- A világ fejedelme feltámad ellene, \
- Vagy hamis tudománytól gyaláztatik \
- neve, \
- S míg egykor felderül majd az Úrnak \
- hajnala, \
- Csak virrasztói kérdik: „Meddig az \
- éjszaka?”
-
-#### 4. vers
-
- Sok bajban, küzdelemben meghajszolt, \
- megvetett, \
- De szent megújulásért És békéért eped, \
- Míg látomása egykor Dicsőn beteljesül \
- S a győzedelmes egyház Urával egyesül.
-
-#### 5. vers
-
- A három-egy Istennel már itt a földön \
- egy, \
- S az üdvözült sereggel egy nép és egy \
- sereg.\
- Ó, mily áldott reménység: ha itt időnk \
- lejár, \
- Te boldog szenteiddel fenn Nálad béke \
- vár!
-<hr />
-
-### 393. Dicséret
-
-
-
-#### 1. vers
-
- Ne csüggedj el, kicsiny sereg, \
- Ha rád zúdul vad ellened, \
- Hogy végképp összetörjön; :/: \
- Bár elpusztításodra tör, \
- Gond, kételkedés mit gyötör? \
- Nem lesz ez így örökkön! \
- Bízzál: ügyed az Istené, :/: \
- Népét ő el nem ejtené: \
- Ő áll majd bosszút érted; \
- Ő állít Gedeont melléd, \
- Általa harcodban megvéd,\
- Szent igéjét és téged.
-
-#### 2. vers
-
- Él az Úr, áll ígérete: \
- Ördög s világ minden csele \
- Megszégyenül mirajtunk! :/: \
- Vélünk az Úr, mi ővele, \
- Végtelen az ő ereje: \
- Győzelmet kell aratnunk. \
- Krisztusunk, segélj, el ne hagyj, :/: \
- Pártfogónk végig te maradj:\
- Oltalmazz neved által, \
- Hogy, mint hű nyájad, teneked \
- Zenghessünk dicséreteket \
- Víg, boldog hál'adással!
-<hr />
-
-### 394. Dicséret
-
-
-
-#### 1. vers
-
- Térj magadhoz, drága Sion, \
- Van még néked Istened, :/: \
- Ki atyádként felkaroljon, \
- Szívét ossza meg veled!\
- Azt bünteti, kit szeret, \
- Máskép ő nem is tehet: \
- Sion, ezt hát jól gondold meg, \
- Szabj határt bús gyötrelmednek.
-
-#### 2. vers
-
- Hullámok ha rémítenek \
- Mérhetetlen víz felett, :/: \
- S a habok közt szíved remeg, \
- Hogy sírod is ott leled; \
- Ha aludni látod őt, \
- Ki reményed és erőd: \
- Sion, soha ne feledd el:\
- Ő megvívhat tengerekkel!
-
-#### 3. vers
-
- Bár hegy, halmok rengenének, \
- Miket égi kéz emelt, :/: \
- S indulása a nagy égnek \
- Végromlásra adna jelt: \
- Ezt látva is el ne hidd, \
- Hogy ez a perc elveszít; \
- Sion, addig meg nem dőlhetsz, \
- Míg oltalmad Istentől lesz!
-
-#### 4. vers
-
- Bár könnyűid omlanának \
- Gyöngyökül a tengerbe, :/: \
- És elhalván hangja szádnak,\
- Csak pihegnél, mint gerle, \
- Bár vér volna bíborod\
- S kő megszánná nyomorod: \
- Sion, ne félj a gonosztól, \
- Baj nem ér, míg Benne bízol!
-
-#### 5. vers
-
- Bár hordozzad zsarnok láncát, \
- Érjen kínos rabhalál, :/: \
- Ha hitedet el nem játszád, \
- Utad égbe nyitva áll. \
- Örvendj mindig és vigadj, \
- Emlékezz, ki népe vagy! \
- Sion, nincs több Isten egynél, \
- Benne hát ne kételkedjél!
-
-#### 6. vers
-
- Ó, ne csüggedj, ím, az estnek \
- Már leszállnak árnyai, :/: \
- Kihez ajkid oly hőn esdnek, \
- Halld: Atyádnak hangja hí. \
- Ő gyalázat, kín helyett \
- Néked jobbján ad helyet; \
- Sion, a menny lesz te részed, \
- Föld gyötrelmét hát ne nézzed!
-
-#### 7. vers
-
- Végső áldást mondj hazádra, \
- Mely távolról int feléd, :/: \
- Égi honnak a határa \
- Van már hozzád közelébb. \
- Édes érzés mért fog el, \
- Melytől olvad szív, kebel? \
- Sion, minden máskép lesz ott, \
- El fog tűnni nagy sírásod.
-
-#### 8. vers
-
- Angyalok, ti fényes lelkek, \
- Zengjetek víg éneket, :/: \
- Mert már biztos révbe tért meg, \
- Kit bús szélvész hányt-vetett! \
- Már meggyőzte a halált, \
- Istenéhez égbe szállt: \
- Sion, onnan számkivetni \
- Nem fog téged soha senki!
-<hr />
-
-### 395. Dicséret
-
-
-
-#### 1. vers
-
- Isten szívén megpihenve\
- Forrjon szívünk egybe hát, :/: \
- Hitünk karja úgy ölelje \
- Édes Megváltónkat át! \
- Ő fejünk, mi néki tagja, \
- Ő a fény, mi színei; \
- Mi cselédek, ő a gazda, \
- Ő miénk, övéi mi.
-
-#### 2. vers
-
- Szeretetben összeforrva, \
- Egy közös test tagjai, :/: \
- Tudjuk egymásért harcolva, \
- Ha kell, vérünk ontani. \
- Úgy szerette földi nyáját \
- S halt meg értünk jó Urunk; \
- Fájna néki, látva minket, \
- Hogy szeretni nem tudunk.
-
-#### 3. vers
-
- Nevelj minket egyességre, \
- Mint Atyáddal egy te vagy, :/: \
- Míg eggyé lesz benned végre \
- Minden szív az ég alatt; \
- Míg Szentlelked tiszta fénye \
- Lesz csak fényünk és napunk, \
- S a világ meglátja végre, \
- Hogy tanítványid vagyunk.
-<hr />
-
-### 396. Dicséret
-
-
-
-#### 1. vers
-
- Ébredj, bizonyságtévő Lélek!\
- A várfalakra őrök álljanak, :/: \
- Kik bátran szólnak s harcra készek, \
- Ha éj borul le, vagy ha kél a nap. \
- Hívásuk zengjen messze szerteszét, \
- Az Úrhoz gyűjtve népek seregét!
-
-#### 2. vers
-
- Ó bárha lángod fellobogna \
- S ébredne föl sok nemzet fényinél,:/: \
- Ó bár sok szolga, sarlót fogva, \
- Aratna, mígnem leborul az éj! \
- Urunk, e roppant, ért vetésre nézz: \
- A munka sok, a munkás oly kevés!
-
-#### 3. vers
-
- Küldd útra hírnökid csapatját\
- És adj erőt onnan felül nekik, :/: \
- Hogy veszni a pogányt se hagyják, \
- És szerteűzzék Sátán seregit. \
- Országod jöjjön el minél elébb, \
- Hirdetve szent neved dicséretét!
-<hr />
-
-### 397. Dicséret
-
-
-
-#### 1. vers
-
- Ó, Sion, ébredj, töltsd be küldetésed, \
- Mondd a világnak: hajnalod közel! \
- Mert nem hagy az, ki népeket teremtett, \
- Senkit sem éjben, bűnben veszni el. \
- Légy örömmondó békekövet, \
- Hirdesd: a Szabadító elközelgetett!
-
-#### 2. vers
-
- Lásd: millióknak lelke megkötözve, \
- Rabláncként hordoz sötét bűnöket; \
- Nincs kitől hallja: Megváltónk keresztje \
- Mily gazdag élet kútja lett neked. \
- Légy örömmondó békekövet, \
- Hirdesd: a Szabadító elközelgetett!
-
-#### 3. vers
-
- Mondd minden népnek: elveszett \
- juháért \
- Mit tett a Pásztor - csuda szerelem -\
- Földig hajolt a kárhozott világért \
- S meghalt alant, hogy élhess odafenn. \
- Légy örömmondó, békekövet, \
- Hirdesd: a Szabadító elközelgetett!
-
-#### 4. vers
-
- Küldj fiaidból, akik nemhiába \
- Élvezik kincsed: hirdessék szavad; \
- Öntsd lelked értük győzelmes imába: \
- Mindent, mit adtál, Krisztus visszaad. \
- Légy örömmondó, békekövet, \
- Hirdesd: a Szabadító elközelgetett!
-
-#### 5. vers
-
- Ő visszajön, Sion, előbb, mint véled, \
- Felfedi titkát minden szív előtt.\
- Egy lélekért se érjen vádja téged, \
- Hogy te miattad nem látta meg Őt. \
- Légy örömmondó, békekövet, \
- Hirdesd: a Szabadító elközelgetett!
-<hr />
-
-### 398. Dicséret
-
-
-
-#### 1. vers
-
- Úr lesz a Jézus mindenütt, \
- Hol csak a napnak fénye süt, \
- Úr lesz a messze tengerig, \
- Hol a hold nem fogy s nem telik.
-
-#### 2. vers
-
- Őneki mondjunk bő imát, \
- Díszítsük azzal homlokát, \
- Jó illat légyen szent neve, \
- Minden napon dicsérete.
-
-#### 3. vers
-
- Országok, népek és nyelvek,\
- Ő dicsőségét zengjétek, \
- Gyermekek hangja hirdesse: \
- Áldott a Jézus szent neve!
-
-#### 4. vers
-
- Ő királysága bő áldás, \
- Ott van a felszabadulás,\
- Fáradtak ott megnyugszanak, \
- Ínségesek megáldatnak.
-
-#### 5. vers
-
- Minden teremtés dicsérje, \
- A Király Krisztust tisztelje;\
- Angyali ének zengjen fenn, \
- S mind e föld mondja rá: Ámen.
-<hr />
-
-### 399. Dicséret
-
-
-
-#### 1. vers
-
- Ímhol vagyok, édes Uram, Istenem, :/: \
- Kész vagyok mindenben néked \
- engednem, \
- Szent nevedért szörnyű halált \
- szenvednem, \
- Csak az igaz hitben ne hagyj tőled \
- elesnem!
-
-#### 2. vers
-
- Oda megyek, ahova parancsolod, :/: \
- Akár tűzre, akár vízre akarod, \
- Vagy fegyverre, tömlöcre te kívánod: \
- Legyen, Uram Isten, valamint te akarod!
-
-#### 3. vers
-
- A halálra ímhol viszem fejemet, :/: \
- Nem szánom én kibocsátni lelkemet, \
- A Krisztusért kiontatni véremet: \
- Ezzel megmutatnom az én igaz hitemet.
-
-#### 4. vers
-
- Én elhagyom már e földi házamat, :/: \
- Nem szánom az én édes magzatimat, \
- Se nem szánom jámbor házas társamat, \
- Én atyámfiait, sok jámbor barátomat.
-
-#### 5. vers
-
- Semmi nékem itt e földön lakásom; :/: \
- Ha senkitől nem volna is bántásom: \
- Mennyországra vagyon nagy \
- kívánságom, \
- Mert ott vagyon nékem maradandó \
- városom.
-
-#### 6. vers
-
- Egy keveset most ha én itt tűrendek, :/: \
- A Krisztusért ha valamit szenvedek: \
- Nagy bőséges jutalmat tőle vészek, \
- Örök dicsőségben véle mert együtt \
- lészek.
-
-#### 7. vers
-
- Erősb leszek mind e széles világnál, :/: \
- Gyorsabb leszek vadaknál, madaraknál, \
- Fényesb leszek én a fényes szép napnál, \
- Drágalátosb lészek minden szép \
- sáraranynál.
-
-#### 8. vers
-
- Halálból mert megyek örök életre, :/: \
- Kárhozatból az örök idvességre, \
- Gyalázatból az örök dicsőségre, \
- És keserűségből angyali nagy örömre.
-
-#### 9. vers
-
- Nézz reám én Istenem, szent szemeddel, \
- :/: \
- Hogy tűrhessek mindent nagy \
- békességgel, \
- És lehessek azokhoz szeretettel, \
- Akik háborgatnak, megölnek \
- fegyverükkel.
-
-#### 10. vers
-
- Én elmegyek Atyámhoz, Istenemhez, :/: \
- Én lelkemnek megváltó Mesteréhez; \
- Mennyországban való örökségemhez, \
- És a vígasztaló Szentlélek Úr Istenhez.
-
-#### 11. vers
-
- Istennek ez oly nemes ajándéka: :/: \
- Hogy a bűnösöket ő nem útálja, \
- De nagy szeretettel hozzá fogadja, \
- Az ő szent országát Krisztusért nékik \
- adja.
-
-#### 12. vers
-
- Fordítsd hozzám, szent Atyám, \
- szemeidet,:/: \
- Bocsássad el mennyből te Szentlelkedet, \
- És tartsad meg mindvégig te hívedet, \
- Hogy a világ előtt vallhassalak tégedet.
-
-#### 13. vers
-
- Én kivallom a te igazságodat, :/: \
- Mindeneknek szent irgalmasságodat; \
- Adjad nekem a te szent malasztodat,\
- És bátorítsad meg ilyen szegény \
- szolgádat!
-
-#### 14. vers
-
- Semmit nem gondolok az én kínommal, \
- :/: \
- Semminémű testem-szakadásával, \
- Nem gondolok nagy szörnyű \
- halálommal, \
- Mert majd együtt lészek megváltó \
- Krisztusommal.
-
-#### 15. vers
-
- Jöjj el immár, ó én édes orvosom! :/: \
- Jöjj el, megváltó szép Jézus Krisztusom! \
- Jöjj el, megnyugtatóm, édes Megváltóm: \
- Testemet-lelkemet te kezedbe ajánlom!
-<hr />
-
-### 400. Dicséret
-
-
-
-#### 1. vers
-
- Hagyjátok el, hív keresztyének, \
- Fájdalmát a ti szíveteknek, \
- Senki ne sirassa halottját,\
- Mert megnyerte ő boldogságát.
-
-#### 2. vers
-
- Anyák szűnjenek meg sírástól, \
- Elfelejtkezvén magzatukról,\
- Mert nem halál az ő haláluk, \
- De életben megújulásuk.
-
-#### 3. vers
-
- Ekképpen az elvetett magvak \
- Rothadásukban gyarapodnak, \
- És szépen fejüket vetendők, \
- Végezetül jó gyümölcs termők.
-
-#### 4. vers
-
- Fogadd be azért a holt testet, \
- Kebeledbe, föld, vegyed őtet, \
- Takargassad az ő tagjait, \
- Mint édes anya magzatait.
-
-#### 5. vers
-
- Szentléleknek edénye volt ez,\
- Az élő Isten képe volt ez, \
- A Krisztus Jézus lakott ebben, \
- Volt Istentől nyert kegyelemben.
-
-#### 6. vers
-
- Föld, híven tartsd e testet benned,\
- Mert mikor Krisztus majd eljövend, \
- Számon kéri ezt akkor tőled, \
- Így lészen bizonnyal, elhigyjed!
-
-#### 7. vers
-
- Noha ez mostan rothadandó \
- És idővel porrá válandó, \
- De feltámad az Úr szavára, \
- Angyali zengő harsonára.
-<hr />
-
-### 401. Dicséret
-
-
-
-#### 1. vers
-
- Szívem szerint kívánom \
- Utolsó órámat, :/: \
- Mert nyomorúság, bánat \
- Emészti napomat. \
- Megválni kész vagyok már \
- Várván én jussomat, \
- Melyet Jézus megszerzett, \
- Mint fő jutalmamat.
-
-#### 2. vers
-
- A bűntől és haláltól \
- Megváltál engemet, :/: \
- Ó Jézus, véred árán \
- Megszerzéd üdvömet. \
- Nem rettent már halálom,\
- Sem semmi félelem; \
- Nyugalmamat tebenned, \
- Megváltóm, meglelem.
-
-#### 3. vers
-
- A kedvére élőnek \
- Keserű a halál, :/: \
- De én várom nyugodtan, \
- Ha jő, készen talál. \
- Jól tudom, fenn a mennyben \
- Lesz dicsőbb életem, \
- Így hát még a halál is\
- Csak nyereség nekem.
-
-#### 4. vers
-
- Ez a világ magához \
- Ám vonja szívemet, :/: \
- Bár ígérjen bőséggel \
- Elmúló kincseket, \
- Nem ejthet tőrbe engem \
- Már semmi földi jó: \
- Megáll az Úr igéje, \
- Más minden elmúló.
-
-#### 5. vers
-
- Elválni kedvesinktöl \
- Fájdalmas és nehéz, :/: \
- De szívem szent reménnyel \
- A jövendőbe néz. \
- Jézus, én bizodalmam, \
- Hiszem, hogy egy napon \
- Szerettimet a mennyben \
- Újra megláthatom.
-
-#### 6. vers
-
- El nem bocsátlak többé, \
- Nem hagylak, Jézusom, :/: \
- Te vagy üdvöm, reményem, \
- Én csak benned bízom. \
- Szent karod támogasson \
- A végső harcon át, \
- Hogy elvegyem kezedből \
- Az égi koronát.
-<hr />
-
-### 402. Dicséret
-
-
-
-#### 1. vers
-
- Ó, örök hatalmú mennyei szent Isten, \
- Minden dolgaimban benned van \
- reményem, \
- Te vagy oltalmam, vígaszom nékem.
-
-#### 2. vers
-
- Hogyha bánat árja szemeimre zúdul, \
- Szívem fájdalmára balzsamot ád az Úr, \
- S felszárad a könny, a seb begyógyul.
-
-#### 3. vers
-
- Kínok hogyha gyötrik lelkemet halálra, \
- Sóhajom akkor is Istenemet áldja, \
- Hiszen föltámaszt egy szebb világra.
-<hr />
-
-### 403. Dicséret
-
-
-
-#### 1. vers
-
- Szomorú a halál a gyarló embernek, \
- Halál követétől mindenek rettegnek, \
- Kiváltképen kik e világban örülnek, \
- Nehéz e világtól megválni ezeknek.
-
-#### 2. vers
-
- Többet higgy a jégen rajzolt írásoknak, \
- Mint a csalárd világ sok biztatásának, \
- Szép szín alatt közli kis részét javának, \
- De semmit sem hihetsz állandóságának.
-
-#### 3. vers
-
- Romlandó az élet s csak veszendő hívság, \
- Hamar elenyészik, mint a gyenge virág, \
- Minden ékessége csak nagy sanyarúság: \
- Helyette vár reád a fényes mennyország.
-
-#### 4. vers
-
- Azért, gyarló világ, már maradj \
- magadnak, \
- Ám tartsd barátidnak, kik benned \
- vigadnak, \
- Tovább követője nem leszek utadnak, \
- Nem leszek bús rabja mulandó \
- javadnak.
-
-#### 5. vers
-
- Tudom, kinek hittem és kinek \
- szolgáltam, \
- Kit szeretett lelkem, kihez folyamodtam, \
- Kit hívtam Uramnak, ki mellett \
- harcoltam, \
- Azért hűségemnek jutalmát találtam.
-
-#### 6. vers
-
- Elértem hitemnek egyetlenegy célját, \
- Vitézkedésemnek reménylett pálmáját, \
- Az örök életnek drága koronáját, \
- Hogy abban tiszteljem a mennyek \
- királyát.
-
-#### 7. vers
-
- Ó édes Megváltóm, ne nézd bűneimet, \
- Sok ellened való cselekedetimet, \
- Idvességem árát: tekintsd érdemedet, \
- Jővel Jézus Krisztus, vedd hozzád \
- lelkemet!
-
-#### 8. vers
-
- Igazságod szerint ne ítélj meg engem, \
- Mert semmi kegyelmet nem talál \
- érdemem, \
- Nem lehet kívüled soha idvességem: \
- Jővel, Jézus Krisztus, édes \
- reménységem!
-
-#### 9. vers
-
- Elvégeztem immár pályafutásomat, \
- E világon való zarándoklásomat, \
- Megtartottam hitem s igaz vallásomat: \
- Jővel, Jézus Krisztus, add meg \
- koronámat!
-<hr />
-
-### 404. Dicséret
-
-
-
-#### 1. vers
-
- Jaj, mely hamar múlik világ dicsősége, \
- Hirtelen változik minden ékessége, \
- Távozik szépsége!
-
-#### 2. vers
-
- Mint a füst és árnyék, csak olyan életed, \
- Hirtelen elmúlik, észre sem veheted, \
- Mint lesz enyészeted.
-
-#### 3. vers
-
- Mint a szép virágok tavasszal újulnak, \
- Ékes nyílásukkal fénylenek, vidulnak, \
- De hamar elmúlnak:
-
-#### 4. vers
-
- Ifjak rettegjetek, vének megtérjetek: \
- Ím rajtatok a sor, azért készüljetek, \
- Mert el kell mennetek.
-
-#### 5. vers
-
- Ez úttól kincs, jószág senkit meg nem \
- menthet, \
- Egyedüli mentség csak Jézusod lehet, \
- Ki velünk jót tehet.
-
-#### 6. vers
-
- Ő a testi halált életre fordítja, \
- A hívő léleknek szennyét letisztítja, \
- Végre boldogítja.
-
-#### 7. vers
-
- Mi is végóránkon hogy erre juthassunk, \
- Tiszta kegyességet Istenhez mutassunk: \
- Így lesz boldog sorsunk.
-
-#### 8. vers
-
- Ki-ki életében azért elkészítse \
- Testét a férgeknek, lelkét az Istennek \
- Örök dicsőségre.
-<hr />
-
-### 405. Dicséret
-
-
-
-#### 1. vers
-
- Minden ember csak halandó, \
- Minden test, mint fű, virág; :/: \
- Itt ami van, mind romlandó, \
- És elmúlik e világ. \
- Porrá kell e testnek lenni, \
- Hogyha el akarja venni \
- Az örök dicsőséget, \
- Melyet Isten készített.
-
-#### 2. vers
-
- Azért e testi életem, \
- Ha jön a sír éjjele, :/: \
- Bátran s örömmel leteszem, \
- Semmit sem vesztek vele; \
- Mert a Krisztus drága vére \
- Utat nyit egy dicsőbb létre; \
- A halálban biztatóm \
- Jézus, az én Megváltóm.
-
-#### 3. vers
-
- Ki szakaszthat el őtőle? \
- Enyém ő, s övé vagyok. :/: \
- Tudom, el nem vet előle, \
- Ígéreti mert nagyok; \
- Sőt felvisz engem az égbe, \
- Dicsőültek seregébe, \
- Hol az Istent meglátom \
- És mindörökké áldom.
-
-#### 4. vers
-
- Ott van öröm s örök pálma, \
- Hol sok ezren az égben, :/: \
- Isten trónja előtt állva \
- Tündöklő fényességben, \
- A dicső szent angyalokkal, \
- Minden megboldogultakkal \
- A Jézust magasztalják, \
- Megtartójuknak vallják.
-
-#### 5. vers
-
- Nagy keresztet kik hordoznak \
- S harcolják a hit harcát, :/: \
- Győzelemben vigadoznak \
- S zengnek ott halléluját. \
- Ott öröm s dicső korona \
- Én fejemet körülfonja; \
- Ott élem az életet, \
- Melynek vége nem lehet.
-<hr />
-
-### 406. Dicséret
-
-
-
-#### 1. vers
-
- Én Istenem, benned bízom, \
- Segélj, ne hagyj tántorodnom! \
- Lelkem, testem, minden tagom \
- Reád bízom: \
- Vezess, mert rád támaszkodom.
-
-#### 2. vers
-
- Nem tudom, itt meddig élek, \
- Tudom, éltem végeztetik. \
- Valamikor néked tetszik, \
- Hozzád mégyek, \
- Akaratodnak engedek.
-
-#### 3. vers
-
- Minden órában kész lelkem, \
- Hogy veled legyek, Istenem. \
- Nem választok időt, órát, \
- Hozzád jutást, \
- Mikor akarod, rajtad áll.
-
-#### 4. vers
-
- Testemnek minden tagjait \
- És a hajamnak szálait \
- Tudod, Uram, mert fejemről \
- Még csak egy szál \
- Kedved nélkül alá nem száll.
-
-#### 5. vers
-
- Itt csak bánat, keserűség, \
- Vagyon fájdalom, betegség;\
- Életünk többnyire ínség, \
- Kedvetlenség: \
- Még erőnk is erőtlenség.
-
-#### 6. vers
-
- Nincs orvosság halál ellen \
- Patikában vagy más helyen, \
- Széles mezőn, drága kertben \
- Oly fű nincsen, \
- Haláltól amely megmentsen.
-
-#### 7. vers
-
- Te azért, ó én Istenem, \
- Add énnékem ezt értenem, \
- Hogy nyomorult mi életünk, \
- Meg kell halnunk,\
- E világból ki kell múlnunk.
-
-#### 8. vers
-
- A halálban biztatásom\
- Nékem egyedül Jézusom, \
- Ki énérettem szenvedett, \
- Megfizetett: \
- Szent Atyjának eleget tett.
-
-#### 9. vers
-
- Azért, mikor én Istenem \
- Akarod, vedd hozzád lelkem, \
- Hogy veled örökké éljek, \
- Reád nézzek, \
- Az angyalokkal örvendjek.
-<hr />
-
-### 407. Dicséret
-
-
-
-#### 1. vers
-
- Itt nincs igazi boldogság,\
- Ez az élet csak fényes fogság; \
- Nincsen valóságos nyugodalom, \
- Míg be nem fedez a sírhalom.
-
-#### 2. vers
-
- E világnak kedvessége \
- Tartatlan és keserű vége; \
- A szenvedések és változások \
- Uralkodnak, s itt van lakások.
-
-#### 3. vers
-
- Csak a sírban van csendesség, \
- Ott van a legnagyobb egyesség; \
- Ott az úr és szolga megegyeznek, \
- Mint csak por, föld: nem különböznek.
-
-#### 4. vers
-
- Jézus porunkat felkölti, \
- Mikor nyugvását itt kitölti; \
- Lelkünkkel is újra egyesíti \
- És idvességben részesíti.
-<hr />
-
-### 408. Dicséret
-
-
-
-#### 1. vers
-
- Seregeknek szent Istene, \
- Mennynek, földnek teremtője, \
- Jővel jővel, én Krisztusom, \
- Ne hagyj utolsó órámon!
-
-#### 2. vers
-
- Végy be, kérlek, kegyelmedbe,\
- Idvezítő szerelmedbe ;\
- Jővel jővel, én Krisztusom, \
- Ne hagyj utolsó órámon!
-
-#### 3. vers
-
- Az egekre tégy méltóvá, \
- Szent hitemben állandóvá; \
- Jővel jővel, én Krisztusom, \
- Ne hagyj utolsó órámon!
-
-#### 4. vers
-
- Életemben ki szerettél,\
- Jóvoltodban részeltettél: \
- Jővel jővel, én Krisztusom, \
- Ne hagyj utolsó órámon!
-
-#### 5. vers
-
- Áldom azért szent nevedet, \
- Hirdetem dicsőségedet: \
- Jővel jővel, én Krisztusom, \
- Ne hagyj utolsó órámon!
-
-#### 6. vers
-
- Testem nyugtasd meg a földbe', \
- Lelkem vidd a magas égbe; \
- Jővel, jővel, én Krisztusom! \
- Ne hagyj utolsó órámon!
-<hr />
-
-### 409. Dicséret
-
-
-
-#### 1. vers
-
- Utas vagyok e világban, \
- Mennyországban \
- Vár örök hazám készen. \
- A testem csak lelkesült por \
- S viszont a sor \
- Ha rájön porrá lészen.
-
-#### 2. vers
-
- Minden nap hoz rám fájdalmat: \
- Nyugodalmat \
- Szívem sehol nem talál, \
- Majd kár ér, majd búbánat sért, \
- Majd bűn kísért, \
- Végre eljön a halál.
-
-#### 3. vers
-
- Uram, te látod végemet,\
- Mert testemet \
- S lelkemet te formáltad; \
- Előbb, mint lettek napjaim, \
- Hajszálaim \
- Mind egyig megszámláltad.
-
-#### 4. vers
-
- Lelkemnek földi társától, \
- Sátorától Bizonyos megválása; \
- De csak annak, \
- Ki Istent fél, \
- Kegyesen él, \
- Lesz boldog kimúlása.
-
-#### 5. vers
-
- Atyám, hogy meg ne rettenjek,\
- S bátran menjek \
- A minden test útjára, \
- Teremts tiszta szívet bennem:\
- Néked élnem \
- Légyen lelkem fő vágya.
-
-#### 6. vers
-
- Néked, napjaimnak Ura, \
- Akár búra, \
- Akár örömre juttatsz,\
- Szent megnyugvással engedek; \
- Bár szenvedek, \
- Mindent jómra fordítasz.
-
-#### 7. vers
-
- Akármikor jön a halál, \
- Készen talál, \
- Fájdalmimnak vet véget; \
- Bátran fogok vele kezet: \
- Hozzád vezet \
- S ád örök üdvösséget.
-<hr />
-
-### 410. Dicséret
-
-
-
-#### 1. vers
-
- Csak vándorút az életem,\
- Míg majd hazámba érkezem,\
- Szent Jeruzsálem városába, \
- Mit fönn az Isten készített, :/:  \
- Szövetség-vérre épített, \
- Hol ajkam majd csak őt imádja; \
- Csak vándorút az életem, \
- Míg majd hazám elérhetem.
-
-#### 2. vers
-
- Árván megyek az élten át, \
- Nem ismer itt a vak világ; \
- Ott várnak rám a hű testvérek; \
- Ott vár az égi szent sereg; :/: \
- Ujjongva szolgálok neked, \
- És örökké csak érted égek; \
- Ó, Megváltóm, jővel, siess, \
- Szívem csak tégedet keres.
-<hr />
-
-### 411. Dicséret
-
-
-
-#### 1. vers
-
- Nem sokáig tart már földi bujdosásom,\
- Atyám hajlékában lesz örök lakásom;\
- A megfáradottnak jó lesz ott pihenni, \
- Küzdelmei után nyugalomra lelni.
-
-#### 2. vers
-
- Repülj hát én lelkem, repülj bontott \
- szárnnyal: \
- Vár az örökélet a nagy boldogsággal; \
- Nincsen elegyítve az szomorúsággal, \
- Zeng az örömének angyalok karával.
-
-#### 3. vers
-
- Szerelmes Jézusom, egeknek Királya! \
- Majd ha üt éltemnek utolsó órája, \
- Nyugtassad békében a sírban testemet, \
- Irgalmadból add meg várt \
- üdvösségemet!
-<hr />
-
-### 412. Dicséret
-
-
-
-#### 1. vers
-
- Porok vagyunk, porrá lészünk, \
- E világtól búcsút vészünk, \
- Mint az árnyék, elenyészünk.
-
-#### 2. vers
-
- Itt nincsen semmi állandó, \
- Minden változó, múlandó, \
- Rövid életű, s halandó.
-
-#### 3. vers
-
- Emberek, tapasztaljátok: \
- Egyaránt tartozik rátok \
- A paradicsomi átok.
-
-#### 4. vers
-
- Annyi nyugvó helyet adnak \
- Neked is, mint portársadnak, \
- Ha szemeid elszunnyadnak.
-
-#### 5. vers
-
- A holtak csendes kertjében \
- Melletted alszik békében, \
- Kit gyűlöltél életében.
-
-#### 6. vers
-
- Lelkem, ne bízz emberekben,\
- A földi fejedelmekben: \
- Nincsen segítség ezekben.
-
-#### 7. vers
-
- El kell múlni a porrésznek; \
- Ha kimegy lelkünk, enyésznek: \
- Szándékink mind semmik lésznek.
-
-#### 18. vers
-
- Így hát múlandó mindenem, \
- Amivel birok, csak te nem, \
- Mert örökké élsz, Istenem.
-
-#### 9. vers
-
- Te vagy lelkem bizodalma, \
- Szívem örök nyugodalma, \
- Hitemnek boldog jutalma.
-
-#### 10. vers
-
- Ha ostromol a test és vér, \
- Szegény lelkem csak hozzád tér, \
- Uram, kegyelmet tőled kér.
-
-#### 11. vers
-
- Ha reám kereszt tétetett,\
- Ha megúnom az életet: \
- Vigasztalsz, örök szeretet.
-
-#### 12. vers
-
- Ha sajtolgat a szegénység: \
- Hozzád vezet a reménység, \
- Édes Atya, nagy Istenség.
-
-#### 13. vers
-
- Ha rettent halálfélelem: \
- Édes Jézus, te légy velem; \
- Megtartó kezed ölelem.
-
-#### 14. vers
-
- Erősítsd gyenge hitemet, \
- Halálos küzdéseimet,\
- Segítsd, idvezítsd lelkemet.
-
-#### 15. vers
-
- Nyugodt lesz így porba szállnom, \
- Végső szómmal ezt kiáltom: \
- Jővel, Úr Jézus, Megváltóm!
-<hr />
-
-### 413. Dicséret
-
-
-
-#### 1. vers
-
- Menj el a te nyugalmadba, \
- Boldog lélek, követünk; :/: \
- Hogy a kívánt nyugalomba' \
- Részt vehessünk, sietünk. \
- Készíts, Uram, e jóra, \
- Hogy midőn amaz óra \
- Eljő, örömmel mehessünk \
- Hozzád, Jobbodra ülhessünk.
-<hr />
-
-### 414. Dicséret
-
-
-
-#### 1. vers
-
- Megszabadultam már én a testi haláltól, \
- És megmenekedtem minden \
- nyavalyáimtól, \
- Bűntől, a haláltól, e csalárd világtól, \
- Az örök kárhozattól.
-
-#### 2. vers
-
- Lelkemet ajánlom a hatalmas Istennek, \
- És testemet hagyom ő anyjának, a \
- földnek; \
- Ez világot pedig az én feleimnek, \
- És a benne élőknek.
-
-#### 3. vers
-
- A testi halálból megyek örök életre, \
- És megmondhatatlan örömre, \
- dicsőségre, \
- Kit kezdettől fogva a Krisztus \
- megszerzett \
- Az ő benne bízóknak.
-
-#### 4. vers
-
- Nincsen már hatalma én rajtam az \
- ördögnek, \
- E csalárd világnak, sem a kegyetlen \
- bűnnek, \
- Mert Krisztus elrontá ezeknek hatalmát \
- Az ő szent halálával.
-
-#### 5. vers
-
- Az Atya Istennek vagyok én \
- szerelmében,\
- Az ő szent Fiának kedvében, \
- kegyelmében: \
- Részessé tett engem minden örökében, \
- Az örök dicsőségben.
-
-#### 6. vers
-
- Dicsőség tenéked, örök Atya Úr Isten, \
- És tisztesség néked, megváltó Fiú Isten: \
- Teljes Szentháromság egy bizony \
- Istenség \
- Az örök dicsőségben!
-<hr />
-
-### 415. Dicséret
-
-
-
-#### 1. vers
-
- Jer, temessük el a testet,\
- Melyről kétségünk nem lehet, \
- Hogy az ítéletnek napján \
- Fel fog támadni igazán.
-
-#### 2. vers
-
- Porból való eredete, \
- Azért porrá kell lennie, \
- De majd feltámad a sírból,\
- Mihelyt az Úrnak szava szól.
-
-#### 3. vers
-
- Az ő lelke örökké él \
- A más világon Istennél, \
- Ki szent Fiának általa \
- Őt a bűntől megváltotta.
-
-#### 4. vers
-
- Lelke csendességben nyugszik, \
- Teste a földben aluszik, \
- Honnan ítélet napjára \
- Feltámad nagy vigasságra.
-
-#### 5. vers
-
- Itt volt ő nagy félelemben, \
- De ott lészen csendességben, \
- Örökkévaló örömben \
- És hatalmas fényességben.
-
-#### 6. vers
-
- Jer, hagyjuk itt őt aludni,\
- Krisztus Jézusban nyugodni, \
- És mi szüntelen vigyázzunk, \
- Mert nékünk is meg kell halnunk.
-
-#### 7. vers
-
- Erre Krisztus adjon erőt, \
- Ki vérével minket kivett \
- A veszedelmes pokolból \
- És kínból, örök halálból.
-
-#### 8. vers
-
- Ő mitőlünk dicsértessék, \
- Örökké magasztaltassék \
- Egyetemben az Atyával \
- És Szentlélek Úr Istennel.
-<hr />
-
-### 416. Dicséret
-
-
-
-#### 1. vers
-
- Krisztus én életemnek \
- Te vagy reménysége, :/: \
- Szegény bűnös lelkemnek \
- Örök üdvössége. \
- Lészek hát én csendességben, \
- Bár a halál fúlánkjával rettentsen.
-
-#### 2. vers
-
- Bátran éltem letészem, \
- Mert jutalmát vészem, :/: \
- Elkészítve már nékem \
- Királyi szent székem. \
- Lészek hát én csendességben, \
- Bár a halál fúlánkjával rettentsen.
-
-#### 3. vers
-
- Megyek hát én örömmel \
- Sion királyához; :/: \
- Ó, Jézusom, vezess el \
- Égi szent Atyádhoz! \
- Örvendj szívem, repess lelkem! \
- Mert léssz mennyben angyali \
- dicsőségben!
-<hr />
-
-### 417. Dicséret
-
-
-
-#### 1. vers
-
- Gyarló testünk porrá lészen, \
- Mivel porból vétetett, :/: \
- A halál vár kit-kit készen, \
- Mert halálra született. \
- A bennünk levő bűnért \
- Ezzel fizetjük a bért: \
- Minden nap, sőt minden óra\
- Emlékeztet koporsóra.
-
-#### 2. vers
-
- Sírva jöttünk e világra,\
- Sírás közt költözünk el, :/: \
- De ha jutunk boldogságra,\
- Semmit se vesztettünk el. \
- Bár panasz tölti szánkat, \
- Míg megfutjuk pályánkat, \
- Bár e földön csak bujdosunk: \
- Lesz mennyben örök városunk.
-
-#### 3. vers
-
- Hadd menjen hát kiköltözött \
- Lelkünk jobb hazájába, :/: \
- Testünk a halottak között \
- Hadd nyugodjék sírjába': \
- Nem alszik el örökre, \
- Még boldogabb időkre \
- Tartatik a sír fenekén, \
- Biztatást innen veszek én.
-
-#### 4. vers
-
- Eljön egykor amaz óra, \
- Melyben a gyász sírhalmok :/: \
- Megnyílnak trombitaszóra \
- S elvész minden hatalmok. \
- Akkor majd lelkünk, testünk \
- Elveszi, mit kerestünk; \
- Szemünk téged is meglát ott,\
- Kit most innen elbocsátott.
-<hr />
-
-### 418. Dicséret
-
-
-
-#### 1. vers
-
- Uram, majd egyszer feltámadnak, \
- Kik a sírhalmokban szunnyadnak, \
- Áldott kezed tágas tért nyitott, \
- Hol a sírdomb húzott kárpitot, \
- Jő majd a boldog kikelet, \
- Elűzi a hosszú telet.
-
-#### 2. vers
-
- Boldog, aki nyugszik sírjában \
- A Megváltó szent oltalmában; \
- Bár rágja testét féregsereg, \
- A rög közt is élte szendereg; \
- S jő majd a boldog kikelet: \
- A Góel áll sírja felett.
-
-#### 3. vers
-
- Áldott légy hát, holtak országa, \
- Az Istennek nagy majorsága;\
- Megfogjuk azt élő hitünkkel, \
- Hogy a halálban nem veszünk el: \
- Jő majd a boldog kikelet, \
- Ha kinyugosszuk a telet. 
-
-#### 4. vers
-
- Jézus, ki isteni erővel \
- Megvívtál a gyász temetővel, \
- S feltámadtaknak vagy zsengéje, \
- Kössön hozzád szád szent igéje; \
- Téged követvén, úgy éljünk, \
- Hogy sírunktól mi se féljünk.
-<hr />
-
-### 419. Dicséret
-
-
-
-#### 1. vers
-
- Már elmégyek az örömbe, \
- Paradicsomnak kertébe. \
- Lészek Istennek kedvébe: 
-
-#### 2. vers
-
- Immáron bételjesedék, \
- Mit éltemben sokszor hallék: \
- Hogy még halálnak fizetnék.
-
-#### 3. vers
-
- Keresztyén hitnek jutalmát, \
- Már elvészem diadalmát: \
- Az életnek koronáját.
-
-#### 4. vers
-
- Lelkem Ábrahám keblében, \
- Testem is nyugszik a földben,\
- De vagyok oly reménységben:
-
-#### 5. vers
-
- Onnét hogy még feltámadok, \
- Krisztus Jézussal vígadok; \
- Azért lelkemnek így szólok:
-
-#### 6. vers
-
- Siess a boldog városba, \
- Aholott bé vagyok írva: \
- A mennyeknek országába.
-
-#### 7. vers
-
- Drága szép lakó városunk, \
- Hol Istennel együtt lakunk; \
- Krisztus is örökös társunk.
-
-#### 8. vers
-
- E városnak boldogságát, \
- Tündöklését, gazdagságát, \
- Szent Írás mondja mivoltát.
-
-#### 9. vers
-
- Abban, úgymond, nem szükséges \
- Napfény, s hold nem kellemetes: \
- Isten benne fényességes.
-
-#### 10. vers
-
- Keserűség, sem irigység, \
- Nincs ott sántaság, betegség, \
- Nincsen ott nyomorult vénség.
-
-#### 11. vers
-
- De mindnyájan feltámadván, \
- Lészünk erős állapotban \
- Krisztus ítéleti után.
-
-#### 12. vers
-
- Ott nincs továbbá kevélység, \
- Nem uralkodik az éhség: \
- Szeretet lesz az elégség.
-
-#### 13. vers
-
- Lészünk hívek egy seregben, \
- Mind egyenlő dicsőségben, \
- Szent Pál mondja levelében.
-
-#### 14. vers
-
- Gerjedez együtt szerelmünk, \
- Istenünkhöz tiszteletünk; \
- Arról el nem feledkezünk.
-
-#### 15. vers
-
- Az angyalok, pátriárkák, \
- Apostolok és próféták: \
- Megismernek atyánk s anyánk.
-
-#### 16. vers
-
- De még nagyobbnak mondatik, \
- Hogy Isten velünk lakozik, \
- Kinek dicsőség adassék!
-<hr />
-
-### 420. Dicséret
-
-
-
-#### 1. vers
-
- Életemnek végső napját, \
- Minthogy már elértem óráját,\
- Testem leteszi bűnének zsoldját, \
- Bátran megvívja halálbaját.
-
-#### 2. vers
-
- Lelkem érzi, hogy testemtől,\
- Meg kell válnia ez élettől, \
- Tudja: búcsút vészen földiektől, \
- Mert így van rendelve Istentől.
-
-#### 3. vers
-
- Azért dolgát ő is bízza\
- Istenre, ki magához hívja; \
- Elhitte, hogy Krisztus őt nem hagyja, \
- E harcban segedelmét nyújtja.
-
-#### 4. vers
-
- Támadjon fel bár a Sátán, \
- De nincs hatalom botja vállán; \
- Nem örülhet soha lelkem kárán: \
- Megváltott vagyok Krisztus árán.
-
-#### 5. vers
-
- Isten ellen hogy bűnt tettem, \
- Ezért akkor pereljen velem. \
- Tudom: fortélya nem árt ellenem, \
- Mert részes velem a kegyelem.
-
-#### 6. vers
-
- Igyekezzék érdememtől, \
- Eltiltani Idvezítőmtől, \
- Kifogni a hívek számok közül: \
- Isten már nem ád ki kezéből.
-
-#### 7. vers
-
- Ennyi ellenségim között \
- Krisztus, ki magának gyűrűzött \
- Nem hágy, mert jó reménységet szerzött, \
- Kit nálam mindeddig megőrzött.
-
-#### 8. vers
-
- Édes Jézus, segedelmem! \
- Kérlek, már légy jelen mellettem, \
- Pályafutásom ha elvégeztem, \
- Letett jutalmát add meg nekem!
-
-#### 9. vers
-
- Angyali tábor ne késsék, \
- Kik lelkem hozzád felkísérjék, \
- Ábrahámnak kebelébe vigyék, \
- Hol Lázárral együtt nyúgodjék.
-
-#### 10. vers
-
- Feltámadás felől hitem, \
- Vagyon állhatatos értelmem, \
- Jó bizodalom, reménység engem \
- Táplál, mert kész életre mentem.
-
-#### 11. vers
-
- Ha porrá változik testem, \
- De hiszem, hogy én Idvezítőm \
- Ezen testben szemeimmel nézem, \
- Mikor eljő, mint én Ítélőm.
-
-#### 12. vers
-
- Nem lesz nekem félelmemre,\
- Ha mondatik, hogy ítéletre, \
- Keljetek fel, holtak, számvetésre, \
- Mert eljött Bíró fizetésre.
-
-#### 13. vers
-
- Bátran a trombita szóra, \
- Angyaloktól fuvallására \
- Feltámad testem, mert vígasságra, \
- Mennybe vitetik boldogságra.
-
-#### 14. vers
-
- Áldott Jézus, végső szómat, \
- Halljad, elégeld meg harcomat,\
- Terjeszd ki lelkemnek szent markodat, \
- Részeltesd velem országodat!
-
-#### 15. vers
-
- Hol színről-színre Atyánkkal, \
- Ezt kiáltsam boldog juhokkal: \
- Dícsértessél, Atyám, szent Fiaddal, \
- Szent, szent, szent légy ajándékoddal!
-<hr />
-
-### 421. Dicséret
-
-
-
-#### 1. vers
-
- Tudom: az én Megváltóm él, \
- Hajléka készen vár reám;\
- Már int felém, és koronát\
- Ígér a földi harc után. \
- Bár a világ gúnyol, nevet, :/: \
- A honvágy tölti lelkemet, \
- Mert nemsokára hív az Úr: \
- Jöjj haza, jővel gyermekem! :/: \
- Kitárt karjával vár az Úr: \
- Jer, pihenj, nyugodj keblemen!
-
-#### 2. vers
-
- Remélek Jézusomban én, \
- Ő törlé el sok bűnömet; \
- Ajkáról hívón zeng felém: \
- „Jer haza, vár rád Mestered!”\
- Bár a világ gúnyol, nevet, :/: \
- A honvágy tölti lelkemet, \
- Mert nemsokára hív az Úr: \
- Jöjj haza, jővel gyermekem! :/:\
- Kitárt karjával vár az Úr: \
- Jer, pihenj, nyugodj keblemen!
-
-#### 3. vers
-
- Előttem oly csudálatos, \
- Hogy értem szállt a földre le; \
- Miattam annyit szenvedett, \
- Bűnömért annyit véreze. \
- Bár a világ gúnyol, nevet, :/: \
- A honvágy tölti lelkemet, \
- Mert nemsokára hív az Úr: \
- Jöjj haza, jővel gyermekem! :/: \
- Kitárt karjával vár az Úr: \
- Jer, pihenj, nyugodj keblemen!
-
-#### 4. vers
-
- Tudom, hogy közel Mesterem, \
- Az óra fut, a nap közel; \
- Elébe állok csak hamar, \
- Megváltó Jézusom, jővel!\
- Bár a világ gúnyol, nevet, :/: \
- A honvágy tölti lelkemet, \
- Mert nemsokára hív az Úr: \
- Jöjj haza, jővel gyermekem! :/: \
- Kitárt karjával vár az Úr: \
- Jer, pihenj, nyugodj keblemen!
-<hr />
-
-### 422. Dicséret
-
-
-
-#### 1. vers
-
- Hadd menjek, Istenem, \
- Mindig feléd, \
- Fájdalmak útjain \
- Mindig feléd. \
- Ó sok keresztje van, \
- De ez az én utam, \
- Mert hozzád visz, Uram, \
- Mindig feléd. 
-
-#### 2. vers
-
- Ha este száll reám \
- S csöndes helyen \
- Álomra hajtanám\
- Fáradt fejem: \
- Nem lesz hol nyughatom,\
- Kő lesz a vánkosom, \
- De álomszárnyakon \
- Szállok feléd.
-
-#### 3. vers
-
- Szívemtől trónodig \
- - Mily szent csoda –\
- Mennyei grádicsok \
- Fényes sora, \
- A szent angyalsereg \
- Mind nékem integet; \
- Ó, Uram, hadd megyek \
- Én is feléd!
-
-#### 4. vers
-
- Álomlátás után \
- Hajnal ha kél, \
- Kínos kővánkosom\
- Megáldom én. \
- Templommá szentelem, \
- Hogy fájdalmas szívem, \
- Uram, hozzád vigyem, \
- Mindig feléd!
-
-#### 5. vers
-
- Csillagvilágokat \
- Elhagyva már, \
- Elfáradt lelkem is \
- Hazatalál. \
- Hozzád ha eljutok, \
- Lábadhoz roskadok: \
- Ottan megnyugodhatok \
- Örökre én!
-<hr />
-
-### 423. Dicséret
-
-
-
-#### 1. vers
-
- Akik bíznak az Úr Istenben,\
- El nem vesznek életükben: \
- Megtartatnak kegyelemben.
-
-#### 2. vers
-
- Az Istennek szent beszédében, \
- Kik maradnak szerzésében, \
- Hitük által idvességben:
-
-#### 3. vers
-
- Ezek lésznek nagy erősségben,\
- Mint egy kőszál, keménységben: \
- Megtartatnak kegyelemben.
-
-#### 4. vers
-
- Sokszor esnek kísértésekben, \
- De ők el nem vesznek ebben: \
- Megmaradnak igaz hitben.
-
-#### 5. vers
-
- Akik pedig hitetlenségben \
- Élnek és nagy kevélységben: \
- Mind elvesznek azok ebben.
-
-#### 6. vers
-
- De a hívek nagy békességben,\
- Lésznek örök dicsőségben: \
- Hitük által idvességben.
-<hr />
-
-### 424. Dicséret
-
-
-
-#### 1. vers
-
- Ó, mely boldog az oly ember éltében, \
- Akit az Isten bévett kegyelmében, \
- Sok vétkeiről elfeledkezett, \
- Bűnös fejének megkegyelmezett.\
- Boldog az s lehet teljes bizodalma, \
- Kinek a Krisztus paizsa s oltalma, \
- Mert nem árt annak a bűn s a halál, \
- Ámbár a törvény ellene fennáll.
-
-#### 2. vers
-
- A törvény súlyát hogy kezdém vizsgálni, \
- Erőm mivoltát azon megpróbálni, Azonnal \
- lelkem, jaj, elrémüle, \
- Testem és vérem bennem elhüle. \
- Mert tudom nyilván, mely nagy \
- gyarlóságom, \
- Ó, mely számtalan bűnöm s adósságom; Ha \
- törvény szerint bán az Úr velem, Soha nem \
- fordul napra éjjelem.
-
-#### 3. vers
-
- De hogy szívemet emelém végtére \
- Az én Uramnak elégtételére, \
- Érdemét hittel hozzám kapcsoltam, \
- Legottan lelkemben megújultam. \
- Mert igazsága reám kiterjedett, \
- Melyért a nagy Úr nékem megengedett, \
- A törvény átkát rólam elvévé, \
- Nagy kegyelmének tőn részesévé.
-
-#### 4. vers
-
- Hát benned vagyon minden bizodalmam, \
- Ó, áldott Jézus, paizsom s oltalmam, \
- Tudom, vétkeim sokak és nagyok, \
- Magamban féreg, por, hamu vagyok. \
- De te kedves vagy, Uram, az Istennél, \
- Érdemed drágább előtte mindennél, \
- Ha igazságod pártomat fogja, \
- Soha nem lészek a halál foglya.
-
-#### 5. vers
-
- Azért hitemmel tehozzád elmégyek, \
- Nem hogy érette bért kívánjak s végyek, \
- Mert tudom: Istennek ajándéka, \
- Hát szívemnek ez teljes szándéka, \
- Hogy érdemedet elfogadjam ezzel, \
- Mint drága jóra kinyújtatott kézzel, \
- És megmutassa együgyűségem, \
- Hogy benned légyen én reménységem.
-
-#### 6. vers
-
- De mivel gyarló szolgád e hűségben, \
- Te, ki lakozol odafent az égben, \
- Küldd el lelkedet, hogy vezéreljen, \
- Tanítson: hozzád mennem mint kelljen. \
- Ó, ne hagyj Uram, ne hagyj el engemet, \
- Oltalmazd híven én gyarló fejemet, \
- Hogy holtom után hozzád mehessek, \
- Az igazak közt bő részt vehessek.
-<hr />
-
-### 425. Dicséret
-
-
-
-#### 1. vers
-
- Ó, Ábrahám Ura, Hadd áldjuk szent \
- neved, \
- Mert mindenható vagy és örök szeretet. \
- Nagy Isten a neved, Ezt vallja föld és ég, \
- Csak téged illet tisztelet és dicsőség.
-
-#### 2. vers
-
- Ó, Ábrahám Ura, Ím, hallom szent \
- szavad; \
- Csak azt az üdvöt keresem, mit kezed \
- ad. \
- A múló földi jót És vágyát elhagyom, \
- S őt választom, ki őrizőm és pásztorom.
-
-#### 3. vers
-
- Ó, Ábrahám Ura, Szent kegyelmed \
- nekem \
- Az én örömöm, utamon ez vezessen. \
- Te barátod lettem, Én Istenem te vagy: \
- Tarts meg a Jézus véréért és üdvöt adj!
-
-#### 4. vers
-
- Megesküvél Uram, És igédben bízom, \
- Hogy égbe viszed gyermeked sas-\
- szárnyakon. \
- Meglátom Jézusom És áldom hatalmát, \
- Szent kegyelmének éneklek halléluját.
-<hr />
-
-### 426. Dicséret
-
-
-
-#### 1. vers
-
- Már keresztem vállra vettem \
- S érted mindent elhagyok. :/: \
- Mindenem vagy, árva lettem, \
- Honjavesztett szív vagyok.\
- Vágyat, célt a múltnak adtam, \
- Nincs már bennem vak remény, \
- Mégis gazdag úr maradtam:\
- Isten és a menny enyém.
-
-#### 2. vers
-
- Ember bánthat és zavarhat: \
- Szíved áldott menedék; :/: \
- Sorsom próbál és sanyargat: \
- Édes csenddel vár az ég.\
- Nincsen búm, mely könnyet adjon, \
- Míg szerelmed van velem, \
- Nincs öröm, mely elragadjon, \
- Hogyha nem benned lelem.
-
-#### 3. vers
-
- Lelkem, teljes üdv a részed, \
- Hagyd a bút s a gondot el; :/: \
- Légy vidám, ha meg-megérzed: \
- Tenni kell még s tűrni kell. \
- Gondold el: ki Lelke éltet, \
- Milyen Atya mosolya; \
- Megváltód meghalt teérted: \
- Mit bánkódnál, menny-fia?
-
-#### 4. vers
-
- Kegyelemből dicsőségbe \
- Szállj, hited majd szárnyat ad, :/: \
- S az örök menny fénykörébe \
- Bévezet majd szent Urad. \
- Véget ér itt küldetésed, \
- Elszáll vándoréleted, \
- Üdvösséggé lesz reményed, \
- Égi látássá hited.
-<hr />
-
-### 427. Dicséret
-
-
-
-#### 1. vers
-
- Lelkem hozzád kíván menni, \
- Veled lenni, Ó, életem kővára, \
- Mert nálad talál oltalmat, \
- Nyugodalmat, Te lehetsz várt javára.
-
-#### 2. vers
-
- Nem bízhatom érdememhez, \
- Mert fejemhez Köttetett a gyarlóság; \
- Ha vizsgálom testem s vérem, \
- Megesmérem: Nincs bennem semmi \
- jóság.
-
-#### 3. vers
-
- Az Úrnak parancsolatját, \
- Akaratját, Ó hányszor hágtam által! \
- Hányszor volt munkám éretlen \
- És rendetlen Erőtlenségem által!
-
-#### 4. vers
-
- Ha lelkem gerjed a jóra, \
- Majd sátora, A halandó romlott test \
- Készségét balra fordítja, \
- Megtompítja, Hogy légyen a jóban rest.
-
-#### 5. vers
-
- Ezért gyakran azt mívelem, \
- Ha nincs velem Az Úrnak segedelme, \
- Miről tudom, hogy helytelen, \
- Törvénytelen S lelkemnek veszedelme.
-
-#### 6. vers
-
- Ily bűnös gyarló voltommal, \
- Oltalommal Ügyemben nem lehetek, \
- Tettető igazságomért \
- Jutalmat s bért Hasztalan követelek.
-
-#### 7. vers
-
- Mert ki saját erejének, \
- Érdemének Nagyságát veti, hányja, \
- Szükség: légyen feddhetetlen \
- Okvetetlen, Mint a törvény kívánja.
-
-#### 8. vers
-
- Tudom, hogy a kegyességnek \
- És hűségnek Vagyon drága jutalma; \
- De azt adja kegyelemből, \
- Nem érdemből Az Istennek irgalma.
-
-#### 9. vers
-
- Én azért ez oltalomhoz, \
- Mint kőfalhoz Egyedül támaszkodom; \
- Jézusomnak kegyelméhez, \
- Érdeméhez Jó hittel ragaszkodom.
-
-#### 10. vers
-
- Te pedig, ki által élek, \
- Ó Szentlélek, Úgy igazgasd dolgomat, \
- Hogy e jót nálam tarthassam \
- S megmutassam Hálaadó voltomat.
-<hr />
-
-### 428. Dicséret
-
-
-
-#### 1. vers
-
- Látod, Úr Isten, szívünket, \
- Tudod erőtlenségünket, \
- Nem rejtjük el bűneinket: \
- Várjuk kegyelmességedet.
-
-#### 2. vers
-
- Mindnyájan arcra borulunk, \
- Szent Atyánk, hozzád kiáltunk: \
- Felejtsed el bűneinket, \
- Tengerbe el-bévesd őket.
-
-#### 3. vers
-
- Világosítsad elménket, \
- Gerjeszd fel a mi szívünket, \
- Hogy dicsérhessünk tégedet, \
- És áldhassuk szent nevedet.
-
-#### 4. vers
-
- Hajlékoddá mi szívünket\
- Szenteljed, kérünk tégedet; \
- Szíveinkben lakodalmat \
- Szerezz, és nagy nyugodalmat.
-
-#### 5. vers
-
- Így cselekedjél mivélünk\
- Szent Fiadért, ki minékünk \
- Nálad bizonyos reményünk, \
- Hozzád egyenes vezérünk.
-<hr />
-
-### 429. Dicséret
-
-
-
-#### 1. vers
-
- Az Úr énnékem hűséges vezérem, \
- Főpásztoromnak csak őtet ösmérem; \
- Drága jóvoltát elrejtem szívemben, \
- Szent nevét áldom egész életemben, \
- Mert kegyelméből én érdemem felett \
- Sok lelki jókkal engemet körülvett.
-
-#### 2. vers
-
- Szent beszédének gyönyörűségével, \
- Áldott lelkének titkos erejével \
- Sötét álomból híven felébresztett, \
- Az én szívemben oly hitet gerjesztett, \
- Mely bánatában lelkem vidámítja, \
- Jó reménységgel naponként újítja.
-
-#### 3. vers
-
- Sőt, hogy még inkább érezzem \
- kegyelmét, \
- Várjam bizonnyal ígért segedelmét: \
- Jósággal teljes, édes indulatja \
- Sákramentomit vélem kóstoltatja, \
- Így édesíti szívemet magához, \
- Hogy erős hittel fussak oltalmához.
-
-#### 4. vers
-
- Csak az szívemnek hozzád óhajtása,\
- Ó, idvességnek fakadó forrása: \
- Ha kegyelmedből már Atyámmá lettél, \
- Végezd el a jót, amit elkezdettél; \
- Reménységemnek add meg kívánt végét: \
- Az én lelkemnek örök idvességét.
-<hr />
-
-### 430. Dicséret
-
-
-
-#### 1. vers
-
- Úr Jézus, idvesség fejedelme, \
- Én életemnek hű segedelme, \
- Megtérek hozzád hálaadással, \
- Szent neved áldom énekmondással, \
- Emlékezeted elrejtem szívemben, \
- Rólad éneklek egész életemben.
-
-#### 2. vers
-
- Mert gyarló voltom bűnben eredett,\
- De nagy kegyelmed rám kiterjedett, \
- Istenem voltál kezdettől fogva, \
- Nem hagytad a bűnt, hogy tartson fogva, \
- Sőt a világtól engem elszakasztál, \
- Szent szerelmedből magadnak választál.
-
-#### 3. vers
-
- Eljegyzél kegyelmed pecsétjével, \
- A keresztségnek drága vizével, \
- Zászlód alá én nevem beírtad, \
- Néped közé szolgád befogadtad, \
- Erőtlenségem lelked segítette, \
- Házad javait velem éreztette.
-
-#### 4. vers
-
- Testtől születtem s merő test voltam, \
- Bűnöm sírjában szinte megholtam, \
- Ámde szent véred drága hullása \
- Lőn én lelkemnek megtisztulása, \
- Újjászült Lelked, hathatós voltával, \
- Felékesített égi koronával.
-
-#### 5. vers
-
- Hát világ, test, bűn, tőlem távozzál, \
- Bennem nincs részed, bármit okozzál! \
- Uram pecsétjét én reám vettem, \
- Már kegyelméből tagjává lettem, \
- Fejedelmemnek csak őtet esmérem, \
- Igéje s Lelke lesz holtig vezérem.
-
-#### 6. vers
-
- Téged is kérlek, ó áldott Lélek, \
- Vezess a jóban, amíglen élek, \
- Hogy a bűnöknek épen meghaljak, \
- Szent életet kövessek és valljak, \
- Hogy az én Uram engem megkedveljen \
- És végre bennem öröme beteljen.
-<hr />
-
-### 431. Dicséret
-
-
-
-#### 1. vers
-
- Úr Isten, kérünk tégedet: Keresztelj és moss \
- meg minket, És tisztíts meg kegyesen; :/: \
- A Krisztusnak ő vérével Nagy bűneinket \
- töröld el Szent lelked erejében. \
- Amit e szent fürdő jegyez, :/: \
- Mindent mi bennünk megszerezz: \
- Végy körül szerelmeddel, \
- Hogy a te szövetségedben Megmaradjunk \
- mind végiglen, Minden mi gyermekinkkel.
-<hr />
-
-### 432. Dicséret
-
-
-
-#### 1. vers
-
- Mi kegyes Atyánk, bölcsességnek Ura, \
- És mindeneknek nagy bölcs tanítója: \
- Akinek nem vagy te igazgatója: \
- Nincs oktatója.
-
-#### 2. vers
-
- Mi, te fiaid, tudatlanságunkban, \
- Gyermekségünkben és ifjúságunkban, \
- Néked könyörgünk mi tanulásunkban, \
- Imádságunkban.
-
-#### 3. vers
-
- Világosítsd meg tudatlan elménket, \
- Tanulásunkban vezérelj bennünket, \
- A tudományra gerjeszd fel szívünket \
- És mi lelkünket.
-
-#### 4. vers
-
- Adj jó tanító mestereket nékünk,\
- Adj bölcsességet általuk minékünk, \
- Adj jó erkölccsel, értelemmel élnünk,\
- Mi jó Istenünk!
-
-#### 5. vers
-
- Őrizz meg minket gonosz erkölcsöktől, \
- Minden naponként fertelmes beszédtől, \
- Szent színed előtt utált részegségtől, \
- Éktelenségtől.
-
-#### 6. vers
-
- Hogy jövendőre mi felnevekedvén, \
- Téged dicsérjünk mindenkor tisztelvén, \
- Felmagasztaljunk, nagy jámborul élvén, \
- Néked engedvén.
-
-#### 7. vers
-
- Hogy szolgálhassunk te szent \
- egyházadnak, \
- És használhassunk felebarátinknak, \
- De kiváltképpen atyánknak s \
- anyánknak, \
- Édes hazánknak.
-
-#### 8. vers
-
- Hogy holtunk után a nagy iskolában, \
- Szentháromságnak ő tanításában,\
- Az angyaloknak szép társaságokban \
- Tanuljunk jobban.
-
-#### 9. vers
-
- Dicsőség néked, kegyes Atya Isten, \
- És uralkodó áldott Fiú Isten! \
- Te, vigasztaló Szentlélek Úr Isten! \
- Áldj meg hitünkben!
-<hr />
-
-### 433. Dicséret
-
-
-
-#### 1. vers
-
- Áldjad, én lelkem, felséges Uradat, \
- Dícséretére emeld fel szavadat,\
- Jóvoltát hirdesd lelki örömmel! \
- Terólad, Uram, csak rólad éneklek, \
- Mindenek felett Tégedet szeretlek, \
- Mert voltál hozzám nagy kegyelemmel.
-
-#### 2. vers
-
- Gyarló éltemnek kezdetitől fogva \
- Tartott kegyelmed én kezemnél fogva, \
- Te szent szemeid én reám néztek; \
- Erőtlen voltom még gyenge korában \
- Talált nyugalmat szárnyad árnyékában, \
- Midőn mellőlem sokan elvesztek.
-
-#### 3. vers
-
- Keresztyén szülék által felneveltél, \
- Engem, méltatlant, frigyedbe bévettél, \
- Tettél házadnak élő tagjává. \
- Szent irgalmadból énreám is tére \
- Áldott Fiadnak drágalátos vére, \
- Hogy a bűn ne tenne prédájává.
-
-#### 4. vers
-
- A keresztségnek külső fürdőjével,\
- Mint kegyelmednek bizonyos jelével \
- Megmosád gyenge s erőtlen testem; \
- Így szent házadban engem béavattál, \
- A pogányoktól híven elszakasztál,\
- Midőn én azt még nem is kerestem.
-
-#### 5. vers
-
- Bízzál hát, lelkem, a te Istenedben, \
- Ki Atyáddá lett még gyengeségedben. \
- Mint a vízzel megmosá testedet, \
- Úgy szent Fiának drága érdemével, \
- Azzal érdemlett áldott Szentlelkével \
- Bűneidből megtisztít tégedet.
-
-#### 6. vers
-
- Tehozzád is, csak tehozzád emelem \
- Szívemet, ó nagy jóság és kegyelem; \
- Idvességemet tetőled várom. \
- Ne hagyj el engem, ha Istenem lettél, \
- Végezd el a jót, amit elkezdettél, \
- Ó én Uram, Atyám és kővárom!
-<hr />
-
-### 434. Dicséret
-
-
-
-#### 1. vers
-
- Vezess, Jézusunk, \
- S véled indulunk. \
- Küzdelemre hív az élet, \
- Hadd kövessünk benne téged; \
- Fogjad a kezünk, \
- Míg megérkezünk.
-
-#### 2. vers
-
- Adj erős szívet, \
- Hogy legyünk hívek. \
- És, ha terhet kell viselnünk, \
- Panaszt mégsem ejt a nyelvünk; \
- Rögös bár utunk, \
- Hozzád így jutunk.
-
-#### 3. vers
-
- Sebzett szívünk majd \
- Mikor felsóhajt, \
- Vagy, ha másért bánat éget, \
- Adj türelmet, békességet, \
- Reménnyel teli \
- Rád tekinteni.
-
-#### 4. vers
-
- Kísérd lépteink \
- Éltünk végéig, \
- És, ha roskadozva járunk, \
- Benned támaszt hadd találunk, \
- Míg elfogy az út,\
- S mennyben nyitsz kaput.
-<hr />
-
-### 435. Dicséret
-
-
-
-#### 1. vers
-
- Lelkem siet hozzád menni, \
- Ámbár gyenge ereje, \
- Kíván asztalodról enni, \
- Ó, életnek kútfeje! \
- Hogy megelégülhessen\
- S benned része lehessen.
-
-#### 2. vers
-
- Kedveld, Uram, kegyességét\
- A te szegény szolgádnak, \
- Éreztessed édességét \
- Elkészült vacsorádnak, \
- Hogy véled egyesüljön \
- S lelke benned örüljön.
-<hr />
-
-### 436. Dicséret
-
-
-
-#### 1. vers
-
- Örülj, szívem, \
- Vígadj, lelkem, \
- Ékességed lett a hit; \
- Vacsorához, \
- Mégy Jézushoz, \
- Hivatalos vagy te itt.
-
-#### 2. vers
-
- Ha bűnödért \
- Halálos bért\
- Érdemlettél lelkedre: \
- E szent asztal\
- Megvígasztal\
- S válik idvességedre.
-
-#### 3. vers
-
- Ez örömben, \
- Reménységben,\
- Jézus, ma hozzád jövök. \
- Asztalodnál \
- Lábam megáll: \
- Testem, lelkem újítsd meg.
-
-#### 4. vers
-
- Tisztogass meg, \
- Bűnből moss meg \
- Kegyelmedből, \
- Istenem, \
- És a Sátán lelkem kárán \
- Nem örül, nem árt nekem.
-
-#### 5. vers
-
- E vacsora \
- Égi módra \
- Engem véled összead, \
- Maradj bennem, \
- Benned engem \
- Hagyj lennem, hogy áldjalak.
-
-#### 6. vers
-
- Csakhogy immár \
- Bűntől elválj \
- S légy hűséggel Jézushoz: \
- Halálával, \
- Váltságával \
- Minden bűnből feloldoz.
-
-#### 7. vers
-
- Hát jöjjetek, \
- Bűnös lelkek, \
- Orvosságot kik vártok! \
- Jézus lelke, \
- Szent kegyelme \
- Kiárad ma reátok.
-<hr />
-
-### 437. Dicséret
-
-
-
-#### 1. vers
-
- Ó, Jézus, mi idvességünk, \
- Fejedelmünk, dicsőségünk, \
- Szívünknek fő vígasztalója! \
- Rólad, csak rólad énekel :/: \
- Szánk buzgó dícséretekkel, \
- Lelkünknek édes táplálója; \
- Egyedül csak hozzád térünk, \
- Mert hű pásztornak ismérünk.
-
-#### 2. vers
-
- Ó, mily szent az az indulat, \
- Mely veled örömest mulat, \
- Ó Jézus, idvesség forrása! \
- Boldog, akit hívsz magadhoz, :/: \
- Méltóztatsz szent asztalodhoz, \
- Hogy kegyelmed jelét ott lássa. \
- Bizony, boldog az oly ember, \
- Ki nálad kedvességet nyer.
-
-#### 3. vers
-
- Mert érdemedben részesül, \
- Teveled, Uram, egyesül, \
- Ha hív tagja e vendégségnek. \
- Mint a bort s kenyeret veszi, :/:\
- Akkép részesévé teszi \
- A hit őtet az idvességnek, \
- Melyhez ártatlan Jézusunk \
- Vére által vagyon jussunk.
-
-#### 4. vers
-
- Azért, kit bűnök rongálnak, \
- Járulj e kegyes királynak \
- Víg örömmel szent asztalához!\
- Nem vet el ez irgalmas szív, :/: \
- Mert könyörülő, igaz, hív, \
- Csakhogy folyamodj oltalmához:\
- Bévesz sebe rejtekébe, \
- Mint ígéri szent jelébe.
-
-#### 5. vers
-
- Nincs is egyébben oltalmunk, \
- Reménységünk, bizodalmunk,\
- Édes Jézus, hanem csak benned. \
- Szállj hozzánk, kedves vendégünk, :/: \
- Oltsd meg nagy lelki éhségünk, \
- Mert eledelünk csak érdemed; \
- Szívünket, ímé, kitárjuk, \
- Szentségedet várván várjuk.
-<hr />
-
-### 438. Dicséret
-
-
-
-#### 1. vers
-
- Hallottuk, Jézus, miképen hívogatsz, \
- Sietünk hozzád, tudjuk, hogy \
- megnyugtatsz. \
- Vállunkat nyomja nagy terhünk súlya, \
- Félünk, erőnket hogy felülmúlja. \
- Fáradtak vagyunk, régóta emeljük, \
- Mert együtt jött ez a világra velünk; \
- Jézus, terhünktől légy szabadítónk, \
- Fáradtságunkban légy megújítónk.
-
-#### 2. vers
-
- Törődött szívvel teszünk néked vallást, \
- Hogy nem követtük a józan javallást, \
- Mellyel unszolt lelkünk ismerete, \
- Midőn minket jóra serkentgete. \
- Inkább követtük gonosz testünk kényét, \
- Mint idvességes törvényid ösvényét; \
- Ezért nagy lévén szívünk keserve, \
- Állunk előtted, mellünket verve.
-
-#### 3. vers
-
- De mégis lelkünk e hittel élesztjük,\
- Hogy te, Megváltónk, nem akarod \
- vesztünk, \
- Hanem magadat adtad érettünk, \
- Életedet letévén helyettünk. \
- A törvény átka tégedet üldözött, \
- Míg felfüggeszte az ég és föld között; \
- Tennen testedet ott feláldozád, \
- E világ bűnét a fán hordozád.
-
-#### 4. vers
-
- Ezért az Atya magával bennünket \
- Megbékéltetvén, eltörlé bűnünket; \
- Ellenségiből tett fiaivá,\
- Szent Fia örökös társaivá.\
- Jézus, halállal tévén te eleget, \
- Megengesztelted a földhöz az eget;  \
- Általad - amit más nem tehetett -\
- A teljes váltság elvégeztetett.
-
-#### 5. vers
-
- Azért már minket éleszt és vígasztal \
- Ez az általad rendeltetett asztal, \
- Mely annak nyilvánvaló tüköre, \
- Véred mint omla, tested mint töre. \
- Sőt tested jegyét itt nemcsak mutatod, \
- De személy szerint nékünk is adatod;\
- Zálog ez, hogy van nékünk is jussunk \
- A tőled szerzett jókhoz, Jézusunk.
-
-#### 6. vers
-
- Szállj le most mennyből, életnek \
- Kenyere, \
- Tápláld lelkünket az örök életre! \
- Tudjuk, aki e kenyérből eszik, \
- Soha örökké meg nem éhezik. \
- Életnek vize, nyiss magadnak utat, \
- A szomjú hívek keresik e kutat; \
- Szolgáltasd ingyen az italokat, \
- Oltsd el végképen szomjúságukat.
-
-#### 7. vers
-
- Óhajtunk, Jézus, egyesülni veled: \
- Úgy lesz szívünk szent, ha te \
- megszenteled. \
- Adjad hát, hogy mint tagok a főnek, \
- Engedjünk néked, bennünk élőnek. \
- Olts be magadba, mint jó szőlőtőbe, \
- Hogy jó nedvesség folyjon a vesszőbe,\
- És légyen szívünk szívednek mása, \
- Éltünkben élted hogy minden lássa.
-
-#### 8. vers
-
- Adjad: egymás közt legyen egyességek, \
- Akik e közös asztalnál vendégek; \
- Mert bizony, aki másokat szeret, \
- Csak az eszik itt méltán kenyeret. \
- Fogjon hát ez az egész gyülekezet \
- Egymással atyafiságosan kezet, \
- Mert tudjuk: maga a hívogató \
- Úr Jézus nem személyválogató.
-
-#### 9. vers
-
- Megelégítvén lelkünket ez étel, \
- Hálaadással távozzunk innét el, \
- Mondván: az Úrnak dicsőség legyen, \
- Ki az éhezőt betölti ingyen. \
- Tartsd fenn, Úr Isten, rajtunk \
- jóvoltodat, \
- Add nekünk immár kegyes válaszodat: \
- „Bízzál már fiam, bízzál leányom, \
- Bűneidet szemedre nem hányom.”
-<hr />
-
-### 439. Dicséret
-
-
-
-#### 1. vers
-
- Én lelkem, ébredj fel\
- Az Úrnak dícséretére\
- És szent emlékezetére \
- Víg szívvel gerjedjél. \
- Kegyelmét keressed \
- E te lelki orvosodnak, \
- Hű és édes táplálódnak \
- Jóvoltát hirdessed.
-
-#### 2. vers
-
- Mert éhező valál, \
- A szomjúság elepesztett, \
- A bűn oly kútba rekesztett, \
- Hol kész volt a halál. \
- De lelke megesett \
- Rajtad e kegyelmes Úrnak, \
- Látván, nyavalyáid dúlnak, \
- Téged felkeresett.
-
-#### 3. vers
-
- A kútból kihozott, \
- Az igazságnak mezején \
- És az életnek kútfején \
- Vezérlett, hordozott. \
- Végre vitt magához, \
- Bíborban felöltöztetett, \
- És kegyelméből ültetett \
- Ő szent asztalához. 
-
-#### 4. vers
-
- Hol megelégített \
- Megtöretett szent testével \
- És kifolyt drága vérével, \
- Melyet elkészített. \
- Boldog, ki ezzel él, \
- Mert a Sátán annak nem árt,\
- Semmi veszély nem tehet kárt, \
- A haláltól sem fél.
-
-#### 5. vers
-
- Azért, kik éheztek, \
- Jertek az Úr asztalához, \
- Siessetek jóvoltához, \
- És megelégesztek. \
- Mert az Úr nem hagyja \
- A töredelmes lelkeket, \
- Sőt táplálja mindezeket: \
- Magát nekik adja.
-
-#### 6. vers
-
- Mint a száj részesül \
- A látható szent jegyekben, \
- Úgy e nagy Úr a hívekben \
- Él, s vélek egyesül. \
- Lesz édes dajkájuk: \
- Megtöretett szent testének, \
- Kiontott drága vérének \
- Hasznát szabja rájuk.
-
-#### 7. vers
-
- Hát lelkem, tégy vallást, \
- Hogy igaz szívvel szereted \
- Ez Urat, s híven követed, \
- És néki adsz szállást. \
- Jőjj be hozzám, kérlek, \
- Jézus, én kedves vendégem, \
- Mert te vagy én dicsőségem, \
- Csak téged kedvellek.
-<hr />
-
-### 440. Dicséret
-
-
-
-#### 1. vers
-
- Jer, lássuk az Úr keresztjét, \
- Melyet felvett érettünk, :/: \
- Megszánván embernek vesztét, \
- Megfizete helyettünk.\
- Úr lévén, lett szolgává, \
- Mindeneknek csúfjává, \
- Istenségét elrejtette, \
- Midőn testünket felvette.
-
-#### 2. vers
-
- A Gecsemáné kertjében \
- Kezdette szenvedését, :/: \
- Érezvén a kínt lelkében \
- S a halál rettentését, \
- Ivék keserű pohárt, \
- Fizette értünk az árt; \
- Véres cseppjei testének \
- Nékünk gyógyulást szerzének.
-
-#### 3. vers
-
- Itt szintén lelkéig hata \
- Sebes vizek mélysége, :/: \
- Itt kezdődék a nagy csata \
- S lelke keserűsége: \
- Egyedül hagyattaték, \
- Éjjel megfogattaték; \
- Ki mindent kézen fogva tart, \
- Megfogattatni így akart.
-
-#### 4. vers
-
- Feszítésre ítélteték \
- S gyalázatos kínokra, :/:\
- Pilátushoz vitetteték, \
- Önként ment ez átokra.\
- Ki ügyét hogy meghallá, \
- Őt ártatlannak vallá, \
- Mégis adá keresztfára, \
- A legkínosabb halálra.
-
-#### 5. vers
-
- Mint Prófétát, csúffá tették,\
- Mert befedvén szent fejét, :/: \
- Verték, s ki verte? kérdezték,\
- Kísértvén szent erejét. \
- Mint Királyt, meggyalázák,\
- Tövissel koronázák, \
- Náddal verék a bársonyban, \
- Csúfolák térdhajtásokban.
-
-#### 6. vers
-
- A fát adván szent vállára,\
- Mint Pap, meggyaláztaték, :/: \
- Az is lőn gyalázatjára, \
- Hogy megostoroztaték. \
- A vitézek kifoszták, \
- És ruháit megoszták; \
- A nagy bűnöst elereszték, \
- A szentet fára függeszték.
-
-#### 7. vers
-
- Mily csuda buzgó szerelem: \
- Meghalni barátiért, :/: \
- De e kegyes Fejedelem \
- Meghalt ellenségiért. \
- Ez lelkünk drága bére, \
- Mert Isten fia vére: \
- Mily drága az az áldozat, \
- Mellyel romol a kárhozat.
-
-#### 8. vers
-
- Ezért szerzé szent asztalát,\
- Hogy e jót előadja, :/: \
- Szenvedését és halálát \
- Szemeink előtt hagyja. \
- A kenyér megtörése, \
- A bornak kitöltése \
- Lelke, teste szenvedését,\
- Jelenti megöletését.
-
-#### 9. vers
-
- Ez egyszerű vendégségben \
- Jézussal egyesülünk, :/: \
- Egy kenyérből e szentségben \
- Hívők mind részesülünk. \
- E rövid szent vacsora\
- Mutat mennyei jóra; \
- Ezt az ő kínt látott teste \
- Választottinak kereste.
-
-#### 10. vers
-
- Az Úr sebei mi sebünk, \
- Halálunk ő halála; :/:\
- Ő érdeme mi érdemünk, \
- Részesülés ez nála. \
- Pecsétli ezt az étel, \
- Együtt a pohárvétel: \
- Testét midőn hittel esszük, \
- Magunk ő testévé tesszük.
-
-#### 11. vers
-
- Ez eledel zálog nékünk, \
- Hogy lesz mennyben menyegzőnk,:/: \
- Ezzel hitünk, reménységünk: \
- Öregbül lelki erőnk. \
- De mit ér sokszor enni, \
- E szent vacsorát venni, \
- Ha lélek szerint nem élünk, \
- Büntetést enni nem félünk?!
-
-#### 12. vers
-
- Ha meghaltunk Úr Jézussal, \
- Nem illik már vétkeznünk; :/: \
- Feltámadván Úr Krisztussal, \
- Le kell a bűnt vetkeznünk. \
- Mint mennyei lakosok, \
- Legyünk tiszták s okosok; \
- Mint testének s vendégének, \
- Szükséges lennünk szenteknek.
-
-#### 13. vers
-
- Isten ártatlan Báránya, \
- Méltó vag
