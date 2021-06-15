@@ -1,3 +1,7 @@
+# Református énekeskönyv
+
+OpenSong formátumban elérhető [itt.](https://github.com/RedyAu/OpenSong/tree/master/Songs/Reform%C3%A1tus%20%C3%A9nekesk%C3%B6nyv)
+
 ### 1. Zsoltár
 
 <img loading="lazy" src="img/001-A    Aki nem jár hitlenek tanácsán [Original Size]_optimised.jpg">
