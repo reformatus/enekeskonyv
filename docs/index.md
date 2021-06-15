@@ -4,7 +4,7 @@ OpenSong formátumban, kottákkal is elérhető [itt](https://github.com/RedyAu/
 
 ### 1. Zsoltár
 
-<img src="img/1-kep.png">
+<img src="/img/1-kep.png">
 
 #### 1. vers
 
