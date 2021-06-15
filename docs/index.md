@@ -4,7 +4,7 @@ OpenSong formátumban, kottákkal is elérhető [itt](https://github.com/RedyAu/
 
 ### 1. Zsoltár
 
-<img src="https://raw.githubusercontent.com/reformatus/enekeskonyv/gh-pages/001-A%20%20%20%20Aki%20nem%20j%C3%A1r%20hitlenek%20tan%C3%A1cs%C3%A1n%20%5BOriginal%20Size%5D_optimised.jpg">
+<img src="img/1-kep.jpg">
 
 #### 1. vers
 
