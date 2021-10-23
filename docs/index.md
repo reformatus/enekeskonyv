@@ -1,4 +1,4 @@
-# Református énekeskönyv
+# Régi Református énekeskönyv
 
 OpenSong formátumban elérhető [itt.](https://github.com/RedyAu/OpenSong/tree/master/Songs/Reform%C3%A1tus%20%C3%A9nekesk%C3%B6nyv)
 
